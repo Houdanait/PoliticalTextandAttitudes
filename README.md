@@ -1,5 +1,9 @@
 # README
 
+
+Compare the language of various "extremists" politicians in different countries (and hence different languages) and see how more/less extremists they are related to one another. 
+
+
 ## **Table of Contents**
 
  - [Requirements](#requirements)
