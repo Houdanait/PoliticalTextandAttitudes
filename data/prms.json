@@ -1,7 +1,7 @@
 {
     "actually": [
-        "underscorer",
-        "turnkeeping cajoler"
+        "turnkeeping cajoler",
+        "counterexpectation"
     ],
     "admittedly": "discourse activity conceding",
     "alright": "topic marker refocus",
@@ -14,6 +14,7 @@
         "turntaking conjunction",
         "message relationship marker parallel"
     ],
+    "and stuff like that": "general extender",
     "anyhow": "discourse activity conceding",
     "besides": "message relationship marker elaborative",
     "but": [
@@ -24,13 +25,16 @@
         "turntaking marking discourse boundary opening",
         "topic marker topic shift"
     ],
+    "conversationalization": "consensus-building",
     "conversely": "message relationship marker contrastive",
     "cr": "turnkeeping hesitator",
     "em": "turntaking starter",
     "er": "turntaking starter",
+    "even": "counterexpectation",
     "finally": "discourse activity sequencing",
     "first": "discourse activity sequencing",
     "for example": "message relationship marker elaborative",
+    "genuinely": "factuality",
     "good grief": "exclaim interjection",
     "hence": "message relationship marker inferential",
     "I mean": [
@@ -44,9 +48,24 @@
     ],
     "in general": "discourse activity summarizing",
     "I see (what you mean)": "uptaking understanding",
+    "I think": [
+        "agreement",
+        "disagreement",
+        "ambiguity"
+    ],
+    "let's see": "aside",
     "let's see what have we got": "aside",
+    "like": [
+        "factuality",
+        "acknowledgment",
+        "counterexpectation",
+        "easing",
+        "quotative marker",
+        "hedge"
+    ],
     "likewise": "message relationship marker parallel",
     "listen": "topic marker refocus",
+    "lol": "easing",
     "look": [
         "topic marker refocus",
         "turntaking marking discourse boundary opening"
@@ -61,10 +80,18 @@
         "opener attention-getting",
         "temporal adverb"
     ],
+    "of course": [
+        "anticipate opposition",
+        "backgrounding proposition",
+        "agreement",
+        "confirms solidarity",
+        "conveys in-the-know"
+    ],
     "oh": [
         "starter",
         "opener attention-getting",
-        "marker of information management"
+        "marker of information management",
+        "quotation marker with distancing effect"
     ],
     "oh, no": "exclaim emphatic",
     "okay": [
@@ -74,12 +101,21 @@
     "on a different note": "topic marker topic shift",
     "once again": "discourse activity repeating",
     "or": "turntaking conjunction",
-    "really": "underscorer",
+    "really": [
+        "factuality",
+        "intensifier"
+    ],
     "so": [
         "message relationship marker inferential",
         "marker of cause and result"
     ],
     "so far": "discourse activity summarizing",
+    "surely": [
+        "factuality",
+        "intensifier",
+        "assertion of control",
+        "condescending"
+    ],
     "tag question": "turngiving appealer",
     "then": "message relationship marker inferential",
     "(the) point is": "underscorer",
@@ -87,6 +123,7 @@
     "to explain": "discourse activity explaining",
     "to interrupt": "discourse activity interrupting",
     "to repeat": "discourse activity repeating",
+    "totally": "acknowledgment",
     "uh": "starter",
     "uhu": "uptaking attention signal",
     "un": "turnkeeping hesitator",
@@ -95,17 +132,23 @@
         "opener attention-getting",
         "turntaking starter",
         "turnkeeping hesitator",
-        "marker of response"
+        "marker of response",
+        "counterexpectation"
     ],
     "well now": "turntaking marking discourse boundary opening",
     "yes": [
         "uptaking go-on",
         "responder agreement and disagreement"
     ],
-    "y'know": "marker of information and participation",
+    "y'know": [
+        "marker of information and participation",
+        "acknowledgment"
+    ],
     "you know": [
+        "marker of information and participation",
         "cajoler",
-        "turnkeeping cajoler"
+        "turnkeeping cajoler",
+        "acknowledgment"
     ],
     "you're right": "uptaking agreement",
     "you see": [
