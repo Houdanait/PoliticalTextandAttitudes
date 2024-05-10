@@ -11,4 +11,4 @@ sampled_data = random.sample(data, 5000)
 
 # Output the sampled data as a JSON file
 with open('news_dialogue_large_sample.json', 'w') as file:
-    json.dump(sampled_data, file)
+    json.dump(sampled_data, file, indent=4)

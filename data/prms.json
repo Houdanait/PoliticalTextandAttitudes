@@ -4,129 +4,26 @@
         "counterexpectation"
     ],
     "admittedly": "discourse activity conceding",
-    "alright": "topic marker refocus",
-    "also": [
-        "message relationship marker parallel",
-        "message relationship marker elaborative"
-    ],
-    "alternatively": "message relationship marker parallel",
-    "and": [
-        "turntaking conjunction",
-        "message relationship marker parallel"
-    ],
-    "and stuff like that": "general extender",
-    "anyhow": "discourse activity conceding",
-    "besides": "message relationship marker elaborative",
-    "but": [
-        "turntaking conjunction",
-        "message relationship marker contrastive"
-    ],
-    "by the way": [
-        "turntaking marking discourse boundary opening",
-        "topic marker topic shift"
-    ],
-    "conversationalization": "consensus-building",
-    "conversely": "message relationship marker contrastive",
-    "cr": "turnkeeping hesitator",
-    "em": "turntaking starter",
-    "er": "turntaking starter",
-    "even": "counterexpectation",
-    "finally": "discourse activity sequencing",
-    "first": "discourse activity sequencing",
-    "for example": "message relationship marker elaborative",
-    "genuinely": "factuality",
-    "good grief": "exclaim interjection",
-    "hence": "message relationship marker inferential",
-    "I mean": [
-        "let-me-explain",
-        "turnkeeping cajoler",
-        "marker of information and participation"
-    ],
-    "in fact": [
-        "underscorer",
-        "turnkeeping underscorer"
-    ],
-    "in general": "discourse activity summarizing",
-    "I see (what you mean)": "uptaking understanding",
     "I think": [
         "agreement",
         "disagreement",
         "ambiguity"
     ],
-    "let's see": "aside",
-    "let's see what have we got": "aside",
-    "like": [
-        "factuality",
-        "acknowledgment",
-        "counterexpectation",
-        "easing",
-        "quotative marker",
-        "hedge"
-    ],
-    "likewise": "message relationship marker parallel",
     "listen": "topic marker refocus",
-    "lol": "easing",
     "look": [
         "topic marker refocus",
         "turntaking marking discourse boundary opening"
     ],
-    "mnn": [
-        "uptaking attention signal",
-        "uptaking go-on"
-    ],
-    "next": "discourse activity sequencing",
-    "now": [
-        "starter",
-        "opener attention-getting",
-        "temporal adverb"
-    ],
+    "obviously": ["appeal to authority"],
+    "we all know": ["appeal to authority"],
     "of course": [
+        "appeal to authority",
         "anticipate opposition",
         "backgrounding proposition",
         "agreement",
         "confirms solidarity",
         "conveys in-the-know"
     ],
-    "oh": [
-        "starter",
-        "opener attention-getting",
-        "marker of information management",
-        "quotation marker with distancing effect"
-    ],
-    "oh, no": "exclaim emphatic",
-    "okay": [
-        "turngiving appealer",
-        "marker of response"
-    ],
-    "on a different note": "topic marker topic shift",
-    "once again": "discourse activity repeating",
-    "or": "turntaking conjunction",
-    "really": [
-        "factuality",
-        "intensifier"
-    ],
-    "so": [
-        "message relationship marker inferential",
-        "marker of cause and result"
-    ],
-    "so far": "discourse activity summarizing",
-    "surely": [
-        "factuality",
-        "intensifier",
-        "assertion of control",
-        "condescending"
-    ],
-    "tag question": "turngiving appealer",
-    "then": "message relationship marker inferential",
-    "(the) point is": "underscorer",
-    "to clarify": "discourse activity clarifying",
-    "to explain": "discourse activity explaining",
-    "to interrupt": "discourse activity interrupting",
-    "to repeat": "discourse activity repeating",
-    "totally": "acknowledgment",
-    "uh": "starter",
-    "uhu": "uptaking attention signal",
-    "un": "turnkeeping hesitator",
     "well": [
         "starter",
         "opener attention-getting",
@@ -135,24 +32,10 @@
         "marker of response",
         "counterexpectation"
     ],
-    "well now": "turntaking marking discourse boundary opening",
-    "yes": [
-        "uptaking go-on",
-        "responder agreement and disagreement"
-    ],
-    "y'know": [
-        "marker of information and participation",
-        "acknowledgment"
-    ],
     "you know": [
         "marker of information and participation",
         "cajoler",
         "turnkeeping cajoler",
         "acknowledgment"
-    ],
-    "you're right": "uptaking agreement",
-    "you see": [
-        "cajoler",
-        "turnkeeping cajoler"
     ]
 }
