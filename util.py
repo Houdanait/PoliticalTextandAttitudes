@@ -110,7 +110,6 @@ def invert_json_values_and_keys(input_filepath, output_filepath):
     with open(output_filepath, 'w') as file:
         json.dump(inverted_dict, file, indent=4)
 
-
 def count_prms_in_utt(prms_filepath, large_json_filepath, output_filepath):
     # Load the list of PRMs from prms.json
     with open(prms_filepath, 'r') as file:
@@ -144,6 +143,17 @@ def count_prms_in_utt(prms_filepath, large_json_filepath, output_filepath):
     with open(output_filepath, 'w') as file:
         json.dump(sparse_prms_count, file, indent=4)
 
+def print_sorted_json(input_filepath):
+    # Load the JSON data from the file
+    with open(input_filepath, 'r') as file:
+        data = json.load(file)
+
+    # Sort the dictionary by values in descending order
+    sorted_data = dict(sorted(data.items(), key=lambda item: item[1], reverse=True))
+
+    # Print the sorted dictionary
+    for key, value in sorted_data.items():
+        print(f"{key}: {value}")
 
 # Replace 'path_to_your_json_file.json' with the path to your JSON file
 if __name__ == "__main__":
