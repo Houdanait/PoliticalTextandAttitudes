@@ -1,3 +1,4 @@
+from collections import defaultdict
 import json
 
 def print_sample_json(json_path, sample_size=10):
@@ -26,8 +27,6 @@ def print_sample_json(json_path, sample_size=10):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-import json
-
 def sort_json_file(filepath):
     # Read the JSON data from the file
     with open(filepath, 'r') as file:
@@ -43,8 +42,6 @@ def sort_json_file(filepath):
     # Write the sorted JSON object back to the file
     with open(filepath, 'w') as file:
         json.dump(sorted_data, file, indent=4, ensure_ascii=False)
-
-import json
 
 def read_json_keys(input_filepath, output_filepath):
     # Read JSON data from a file
@@ -81,8 +78,6 @@ def extract_and_save_json_values(input_filepath, output_filepath):
     # Write the unique values to another JSON file
     with open(output_filepath, 'w') as file:
         json.dump(unique_values, file, indent=4)
-
-import json
 
 def invert_json_values_and_keys(input_filepath, output_filepath):
     # Read JSON data from a file
@@ -155,6 +150,15 @@ def print_sorted_json(input_filepath):
     for key, value in sorted_data.items():
         print(f"{key}: {value}")
 
+# Function to group entries by (transcript_id, statement)
+def group_by_key(json_list):
+    grouped = defaultdict(list)
+    for item in json_list:
+        key = (item['transcript_id'], item['statement'])
+        grouped[key].append(item)
+    return grouped
+
 # Replace 'path_to_your_json_file.json' with the path to your JSON file
 if __name__ == "__main__":
     main()
+
