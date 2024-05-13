@@ -1,0 +1,19 @@
+[33m1f96c05[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m added fine_tune data
+[33m797e42c[m matt's annotation in progress
+[33mceac7be[m sample for manual annotation
+[33m768669a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m added roadmap file
+[33m30da727[m Matt's annotations merged
+[33m2d46882[m Add reviewed files
+[33mbe43dde[m updates to sampling for review
+[33m9a3414b[m add hedging_markers
+[33m0c1eac9[m Add authority markers
+[33m63f79e5[m large sample file (5k samples)
+[33m90734d1[m deleted files
+[33m5bf4bde[m adding util, various json and ipynb playground files
+[33m39a83dd[m sample of reorganization of news dialogue
+[33mf4a6ff4[m updated prms json, along with summary jsons
+[33mab80db7[m news_dialogue_sample.json contains a small sample of transcripts we're working with (full file is 4GB)
+[33mf45ca9e[m created util.py with various helper functions
+[33m47ccefc[m draft of PrMs from Brinton appendix
+[33m9c553fb[m Update README.md
+[33m9afeb8b[m Initial commit
