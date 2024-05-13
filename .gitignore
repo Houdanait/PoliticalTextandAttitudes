@@ -41,3 +41,5 @@
 
 # Personal conda info
 .conda_info
+
+data/filtered_utterances.json
