@@ -1006,15 +1006,15 @@
     {
         "transcript_id": "CNN-148632",
         "matched_terms": {
-            "all": "ungraded",
-            "know": "ungraded",
-            "could": "ungraded",
-            "may": "ungraded",
-            "often": "ungraded",
-            "about": "ungraded",
-            "reportedly": "ungraded",
-            "appear": "ungraded",
-            "posit": "ungraded"
+            "all": "none",
+            "know": "none",
+            "could": "none",
+            "may": "hedge",
+            "often": "none",
+            "about": "none",
+            "reportedly": "hedge",
+            "appear": "none",
+            "posit": "none"
         },
         "previous_statement": "Tonight, ISSUES is searching for justice. An all-American girl raped and murdered in broad daylight, her body buried in a shallow grave. Beautiful Chelsea King was guilty of nothing more than going for a jog. Now she is dead. The war on women has claimed another victim. Once again, a registered sex offender is charged. He brutally, sexually attacked a 13-year-old girl just ten years ago. So why in the hell was in this guy out of prison in the first place? Tonight we`re looking for answers. How many more women have to die before we rise up against junk justice? America`s women and children shouldn`t have to live in fear. Moms and dads shouldn`t have to worry if their precious child could be next. This is an ISSUES call to action. We can`t continue to treat these brutal murders as business as usual. Women must break free from their psychological burkas, join together, and demand freedom from fear! ISSUES starts now.",
         "statement": "Tonight, outrage sweeps the nation in the wake of the murder of 17-year-old Chelsea King. A 230-pound monster is accused of raping and killing this beautiful, straight-A student. Chelsea was attacked while jogging last Thursday. Accused killer rapist, 30-year-old John Gardner III is a convicted sex offender. Tonight, cops say he <MAY> be linked to a total of -- are you ready for this? -- seven women or girls. Cops say he <MAY> be linked to seven females. Five of those incidents happened after he was released from prison in 2005. Potential victims are coming out of the woodwork. New reports tonight <ABOUT> an attempted abduction at gunpoint of a 16-year-old girl last October. She was walking less than four miles from John Gardner`s house in Lake Elsinore. Check out this really chilling composite sketch from that attack. It bears a striking resemblance to Gardner. Cops have now towed away a black sedan, <OFTEN> seen parked outside Gardner`s mother`s home. Last Thursday, the very day Chelsea disappeared jogging, cops say a black sedan followed a 13-year-old girl as she left school near where Chelsea vanished. Cops want to <KNOW> tonight, was he trolling for victims that fateful day? Gardner`s mom`s house is a short distance from where Chelsea vanished and from where she turned up dead. John Gardner was <<REPORTEDLY>> staying with his mother. That house has now become ground zero for community outrage. Yesterday, graffiti found scrolled on the garage door: \"Chelsea`s blood is on you. Move out.\" Later two men painting over the vandalism were confronted by an angry member of the community who just couldn`t hold back."
@@ -1022,10 +1022,10 @@
     {
         "transcript_id": "NPR-13329",
         "matched_terms": {
-            "all": "ungraded",
-            "sure": "ungraded",
-            "about": "ungraded",
-            "seem": "ungraded"
+            "all": "none",
+            "sure": "none",
+            "about": "none",
+            "seem": "none"
         },
         "previous_statement": "Well, fundamentally, Americans don't cotton to the idea of firing the person who's investigating you. That's like, you know, deciding in a sandlot ball game that the pitcher on the other side has to go. That's not the way we do business in the United States. And the Constitution has a separation of powers that's important. And the president is not an absolute ruler.",
         "statement": "But if there's disagreement <ABOUT> whether the president can even be criminally charged for any of this - and you're saying Americans don't cut cotton to this - then it seems to me that what you're really saying is this is a political dilemma and it becomes a matter of public pressure to say that this does not comport with the way we want our government run."
@@ -1033,10 +1033,10 @@
     {
         "transcript_id": "CNN-254552",
         "matched_terms": {
-            "absolutely": "ungraded",
-            "about": "ungraded",
-            "take": "ungraded",
-            "question": "ungraded"
+            "absolutely": "none",
+            "about": "none",
+            "take": "none",
+            "question": "none"
         },
         "previous_statement": "It could be a more difficult battle to begin with.",
         "statement": "<ABSOLUTELY>. Nick, thank you so much. Nick lays it out perfectly. That shootout raises many new questions. Nick laying out a lot of them <ABOUT> vulnerability here in the United States in the face of terror. Let's continue the discussion with our counterterrorism analyst, Philip Mudd. As we're discussing, how does the intelligence community in the aftermath of this shooting, how does the intelligence community then <TAKE> this warning? How do they find out if there was a direct connection or if this was an ISIS inspired attack?"
@@ -1044,10 +1044,10 @@
     {
         "transcript_id": "CNN-405709",
         "matched_terms": {
-            "know": "ungraded",
-            "only": "ungraded",
-            "would": "ungraded",
-            "about": "ungraded"
+            "know": "none",
+            "only": "none",
+            "would": "none",
+            "about": "none"
         },
         "previous_statement": "Parscale's only response so far has been this ominous tweet citing the Book of Romans: \"Bless those who persecute you, bless and do not curse them.\" And as we were discussing Brad Parscale's departure, a senior White House official said, \"You know, Brad is not the one who downplayed coronavirus and refused to wear a mask. That was President Trump.\" And the question is whether or not just changing who the campaign manager is, is really going to change the race when it is the candidate that some of them view as the problem and his refusal to change. Of course, that's just going to be a question for November. Kaitlan Collins, CNN -- the White House.",
         "statement": "And the coronavirus is <ONLY> one of the issues stoking tensions between the U.S. and China. There is also, of course, the disputed South China Sea and Hong Kong's new national security law. And now, there are reports the U.S. is considering a travel ban on members of China's Communist Party. Kristie Lu Stout is live in Hong Kong for us. What more do you <KNOW> <ABOUT> this? That <WOULD> be an extraordinary move, wouldn't it?"
@@ -1055,10 +1055,10 @@
     {
         "transcript_id": "CNN-87022",
         "matched_terms": {
-            "all": "ungraded",
-            "essential": "ungraded",
-            "about": "ungraded",
-            "seem": "ungraded"
+            "all": "none",
+            "essential": "none",
+            "about": "none",
+            "seem": "none"
         },
         "previous_statement": "Let's first talk about the significance of this shrine and just how important it is in the Shiite world.",
         "statement": "It's hugely important. It's the burial place of the Imam Ali, who essentially his followers led to the birth of Shiia Islam. So, for some Shiias it's more important than even Mecca. Hugely important religiously, hugely important because it's the center of Shiia Islamic learning, it's where the major clerics are. But at the same time, you have got this huge battle going on. The city essentially held hostage. And when I was there embedded with the U.S. Army, it was as explosive, as it seems now. But now the difference they are talking <ABOUT> this being a final showdown."
@@ -1066,12 +1066,12 @@
     {
         "transcript_id": "NPR-25543",
         "matched_terms": {
-            "absolutely": "ungraded",
-            "all": "ungraded",
-            "should": "ungraded",
-            "think": "ungraded",
-            "take": "ungraded",
-            "thing": "ungraded"
+            "absolutely": "authority",
+            "all": "none",
+            "should": "none",
+            "think": "hedge",
+            "take": "none",
+            "thing": "none"
         },
         "previous_statement": "Another Cuban-American senator, New Jersey Democrat Bob Menendez, said the prisoner swap set a dangerous precedent, putting at risk thousands of Americans who work overseas. But the president got support from the business community. The U.S. Chamber of Commerce hailed the move and Democrats were mostly in favor. Retiring Democratic Senator Carl Levin of Michigan pointed out on CNN that the Cold War is over and the U.S. now has normal relations with plenty of other countries whose policies we oppose.",
         "statement": "And I <<<THINK>>> it's also right to try to have a more normal relationship with Cuba. After <ALL>, it didn't <TAKE> us five decades to realize that we <SHOULD> have a normal relationship with Communist China. We have <ABSOLUTELY> no use for the Chinese Communist leadership, but when President Nixon went to China, he did the right <THING>."
@@ -1079,8 +1079,8 @@
     {
         "transcript_id": "CNN-1022",
         "matched_terms": {
-            "thing": "ungraded",
-            "sold": "ungraded"
+            "thing": "none",
+            "sold": "none"
         },
         "previous_statement": "Women want conflicts resolved. Men want very different things; men want a whole state. Women just want a safe place to be and raise their children on just daily, daily practical level.",
         "statement": "How many times I found myself much stronger, as men are. When there was a confrontation between soldiers and youth, for example, I immediately pushed myself into this situation and tried to say something, just to tell the soldier, please, look into my eyes. Do you see them? I am as your mother."
@@ -1088,15 +1088,15 @@
     {
         "transcript_id": "NPR-10356",
         "matched_terms": {
-            "all": "ungraded",
-            "every": "ungraded",
-            "know": "ungraded",
-            "sure": "ungraded",
-            "think": "ungraded",
-            "kind of": "ungraded",
-            "take": "ungraded",
-            "thing": "ungraded",
-            "stuff": "ungraded"
+            "all": "none",
+            "every": "none",
+            "know": "none",
+            "sure": "none",
+            "think": "none",
+            "kind of": "hedge",
+            "take": "none",
+            "thing": "none",
+            "stuff": "hedge"
         },
         "previous_statement": "OK.",
         "statement": "If you've had that <<KIND OF>> <STUFF>, it takes you a while. It takes you a while, and everybody is gunning for him. We saw it down at Augusta. Everybody who's playing, <ALL> these golfers do is nothing but <<<THINK>>> golf are aiming at Tiger. And it's one <THING> when you're healthy and 100 percent. Now he's - I mean, he doesn't <KNOW> how he's going to react, because this is the first time being under this <<KIND OF>> pressure, in a pressurized situation. Now they put him in this great threesome, so..."
@@ -1104,8 +1104,8 @@
     {
         "transcript_id": "CNN-358171",
         "matched_terms": {
-            "may": "ungraded",
-            "about": "ungraded"
+            "may": "hedge",
+            "about": "none"
         },
         "previous_statement": "These federal workers want the wall.",
         "statement": "The president said on Christmas that federal workers support the shutdown but the shutdown is causing families we spoke to, many who live paycheck to paycheck to worry <ABOUT> when they <MAY> see their next one and they're fed up."
@@ -1113,7 +1113,7 @@
     {
         "transcript_id": "CNN-303926",
         "matched_terms": {
-            "question": "ungraded"
+            "question": "none"
         },
         "previous_statement": "We're going to launch the investigation to find out.",
         "statement": "OK, David, you - you are the \"he\" here. The <QUESTION>, why did you write the report. I just want to hear in your own words what your report found and what it didn't find?"
