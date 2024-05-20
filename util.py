@@ -1,5 +1,7 @@
+import h5py
 from collections import defaultdict
 import json
+from collections import Counter
 
 def print_sample_json(json_path, sample_size=10):
     try:
@@ -158,7 +160,167 @@ def group_by_key(json_list):
         grouped[key].append(item)
     return grouped
 
+
+import numpy as np
+from scipy.spatial.distance import cosine
+
+
+def identify_similar_parts(vectors, threshold=0.7):
+    num_vectors = len(vectors)
+    num_dimensions = len(vectors[0])
+    
+    dimension_similarities = np.zeros(num_dimensions)
+    
+    for i in range(num_vectors):
+        for j in range(i + 1, num_vectors):
+            vec1, vec2 = vectors[i], vectors[j]
+            for k in range(num_dimensions):
+                dim_vec1 = np.zeros(num_dimensions)
+                dim_vec2 = np.zeros(num_dimensions)
+                dim_vec1[k] = vec1[k]
+                dim_vec2[k] = vec2[k]
+                dimension_similarities[k] += 1 - cosine(dim_vec1, dim_vec2)
+    
+    dimension_similarities /= (num_vectors * (num_vectors - 1) / 2)
+    similar_dimensions = np.where(dimension_similarities > threshold)[0]
+    
+    return similar_dimensions, dimension_similarities
+
+def extract_vectors_from_tuples(data):
+    return [item[0] for item in data]
+
+def get_category(h5_file, category):
+    samples = []
+    with h5py.File(h5_file, 'r') as f:
+        for idx in f.keys():
+            group = f[idx]
+            matched_terms = eval(group['matched_terms'][()].decode('utf-8'))
+            hedge_terms = {term: value for term, value in matched_terms.items() if value == category}
+            if hedge_terms:
+                hedged_item = {
+                    'transcript_id': group['transcript_id'][()],
+                    'statement_id': group['statement_id'][()],
+                    'original_string': group['original_string'][()].decode('utf-8'),
+                    'tokens': group['tokens'][()].astype(str).tolist(),
+                    'embeddings': group['embeddings'][()],
+                    'matched_terms': hedge_terms
+                }
+                samples.append(hedged_item)
+    print(f"Category: {category} - {len(samples)} sample sentences found.")
+    return samples
+
+def get_dual_matches(h5_file):
+    term_counts = {}
+
+    with h5py.File(h5_file, 'r') as f:
+        for idx in f.keys():
+            group = f[idx]
+            matched_terms = eval(group['matched_terms'][()].decode('utf-8'))
+            for term, value in matched_terms.items():
+                if term not in term_counts:
+                    term_counts[term] = Counter()
+                term_counts[term][value] += 1
+
+    return term_counts
+
+def find_phrase_indices(tokens, phrase, tokenizer):
+    """
+    Find the indices of the phrase in the token list.
+    """
+    phrase_tokens = tokenizer.tokenize(phrase)
+    phrase_length = len(phrase_tokens)
+    
+    for i in range(len(tokens) - phrase_length + 1):
+        if tokens[i:i + phrase_length] == phrase_tokens:
+            return list(range(i, i + phrase_length))
+    return []
+
+def get_phrase_vector(phrase, tokens, output):
+    """
+    Get the vector for a multi-word phrase by averaging the embeddings of each word and its subwords in the phrase.
+    """
+    words = phrase.split()
+    token_indices = []
+    
+    for word in words:
+        word_indices = []
+        for i, token in enumerate(tokens):
+            # Check for exact match or subword match
+            if token == word or token.lstrip("##") == word:
+                word_indices.append(i)
+        token_indices.extend(word_indices)
+    
+    if not token_indices:
+        return None
+    
+    # Extract embeddings for specific word indices and average them
+    token_embeddings = output.last_hidden_state[0, token_indices, :]
+    phrase_vector = token_embeddings.mean(dim=0).detach()
+    return phrase_vector
+    
+    
+def get_relevant_segment(tokens, target_indices, max_length=512):
+    """
+    Get the relevant segment of tokens centered around the target indices within the max_length.
+    """
+    start = max(0, min(target_indices) - (max_length // 2))
+    end = start + max_length
+    if end > len(tokens):
+        end = len(tokens)
+        start = max(0, end - max_length)
+    return tokens[start:end], start, end
+
+def get_vectors(item, category, model, tokenizer, max_tokens) -> list:
+    string = item["original_string"]
+    string = string.replace("<", "").replace(">", "")
+    
+    # First tokenize without truncation to get the full token list
+    full_encoded_input = tokenizer(string, return_tensors='pt', truncation=False)
+    full_tokens = tokenizer.convert_ids_to_tokens(full_encoded_input['input_ids'][0])
+    
+    matched_terms = item['matched_terms']
+    vectors = []
+    
+    for term, value in matched_terms.items():
+        if value == category:
+            # Find the indices of the target term or phrase in the full token list
+            if " " in term:  # It's a phrase
+                term_indices = find_phrase_indices(full_tokens, term, tokenizer)
+            else:  # It's a single word or subword
+                term_indices = [i for i, token in enumerate(full_tokens) if token == term or token.lstrip("##") == term]
+
+            if term_indices:
+                # Get the relevant segment of tokens
+                relevant_tokens, start, end = get_relevant_segment(full_tokens, term_indices, max_length=max_tokens)
+                
+                # Retokenize the relevant segment
+                relevant_string = tokenizer.convert_tokens_to_string(relevant_tokens)
+                encoded_input = tokenizer(relevant_string, return_tensors='pt', truncation=True, max_length=max_tokens)
+                
+                tokens = tokenizer.convert_ids_to_tokens(encoded_input['input_ids'][0])
+                output = model(**encoded_input)
+                
+                if " " in term:  # It's a phrase
+                    phrase_vector = get_phrase_vector(term, tokens, output)
+                    if phrase_vector is not None:
+                        vectors.append((phrase_vector, term, category))
+                else:  # It's a single word or subword
+                    word_indices = [i for i, token in enumerate(tokens) if token == term or token.lstrip("##") == term]
+                    if word_indices:
+                        word_embeddings = output.last_hidden_state[0, word_indices, :]
+                        word_vector = word_embeddings.mean(dim=0).detach()
+                        vectors.append((word_vector, term, category))
+    return vectors
+
+def get_category_vectors(data, category, model, tokenizer, max_tokens) -> list:
+    vectors = []
+    for item in data:
+        vectors.extend(get_vectors(item, category, model, tokenizer, max_tokens))
+    return vectors
+
 # Replace 'path_to_your_json_file.json' with the path to your JSON file
 if __name__ == "__main__":
     main()
+
+
 
