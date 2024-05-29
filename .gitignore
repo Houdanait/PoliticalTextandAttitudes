@@ -42,8 +42,6 @@
 # Personal conda info
 .conda_info
 
-data/filtered_utterances.json
-
 # Data file is too large, use samples for reference
 data/news_dialogue.json
 data/filtered_utterances.json
