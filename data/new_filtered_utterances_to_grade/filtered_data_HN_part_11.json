@@ -1,0 +1,912 @@
+[
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "perhaps": "ungraded"
+    },
+    "previous_statement": "Well, 40 years later, you, if you take a shovel, you can still see and smell oil a couple inches below the surface, and you know, that's noteworthy that nature for some reason, you know, got snagged in that respect where you can still smell and still analyze oil in this region.",
+    "statement": "What's more important to <<PERHAPS>> put in the context is that of the oil that's spilled, and it was a pretty devastating spill, .02 percent of the oil that originally spilled can be found. And it's <ONLY> a very small area that was originally oiled that still is persisting."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "fact": "ungraded"
+    },
+    "previous_statement": "Yeah, in one location where we studied in 1969, small crabs who burrow down below to avoid predators and also help aerate the marsh can't  they actually smell the oil. They're better than any of our chemical instruments we have in our lab, and they avoid the oil, and then they can't avoid predators.",
+    "statement": "And so the fiddler crabs are less abundant in this very small oiled area, and in <FACT> they are also, for lack of a better term, drunk. The residual oil can act like a narcotic. And so they don't move as fast when they're stimulated."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "And so the fiddler crabs are less abundant in this very small oiled area, and in fact they are also, for lack of a better term, drunk. The residual oil can act like a narcotic. And so they don't move as fast when they're stimulated.",
+    "statement": "We're talking with Christopher Reddy. He is an associate scientist of marine chemistry at the Woods Hole Oceanographic Institution. And Denise Reed, she's the director of - or interim director of the Pontchartrain Institute for Environmental Sciences at the University of New Orleans. We're talking <ABOUT> the long-term consequences of this - <WELL>, the long and short-term consequences of the oil spill in the Gulf of Mexico."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "We're talking with Christopher Reddy. He is an associate scientist of marine chemistry at the Woods Hole Oceanographic Institution. And Denise Reed, she's the director of - or interim director of the Pontchartrain Institute for Environmental Sciences at the University of New Orleans. We're talking about the long-term consequences of this - well, the long and short-term consequences of the oil spill in the Gulf of Mexico.",
+    "statement": "We're taking your calls at 1-800-989-8255. We've got a short break, but we'll be coming back to talk more <ABOUT> the cleanup, how it's going and what we can <EXPECT> in the future. So stay with us."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "We're taking your calls at 1-800-989-8255. We've got a short break, but we'll be coming back to talk more about the cleanup, how it's going and what we can expect in the future. So stay with us.",
+    "statement": "From NPR, this is SCIENCE FRIDAY. I'm Joe Palca. We're talking <ABOUT> the oil spill cleanup this hour with my guests Christopher Reddy - he's an associate scientist at the Woods Hole Oceanographic Institution in Massachusetts - and Denise Reed. She's a professor in the Department of Earth and Environmental Sciences in New Orleans, at the University of New Orleans."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "could": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "And let's take a call now and go to Jerry, Jerry in Tallahassee, Florida. Welcome to SCIENCE FRIDAY. You're on the air.",
+    "statement": "Thank you, Joe. I'm curious <ABOUT>  I'd like some more information <ABOUT> these oil-eating microbes. I can see this whole event becoming a fertile field for science fiction writers. And you mentioned that these microbes actually eat the oil. What happens  do they ever become sated? <WOULD> they mutate? Are they like the fiddler crabs? <<COULD>> they get drunk on it, or what's  tell us more <ABOUT> those."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Thank you, Joe. I'm curious about  I'd like some more information about these oil-eating microbes. I can see this whole event becoming a fertile field for science fiction writers. And you mentioned that these microbes actually eat the oil. What happens  do they ever become sated? Would they mutate? Are they like the fiddler crabs? Could they get drunk on it, or what's  tell us more about those.",
+    "statement": "Okay, Chris Reddy, what <ABOUT> that?"
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "sure": "ungraded"
+    },
+    "previous_statement": "Okay, Chris Reddy, what about that?",
+    "statement": "<<<SURE>>>. Any run-of-the-mill, self-respecting bacteria <WOULD> love to eat oil. It's the equivalent to butter for  it's got a high caloric content, just  and that's why we use it to power our cars."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Sure. Any run-of-the-mill, self-respecting bacteria would love to eat oil. It's the equivalent to butter for  it's got a high caloric content, just  and that's why we use it to power our cars.",
+    "statement": "I wouldn't worry too much <ABOUT> these bacteria. Any aquatic body, even far, far away from the Gulf of Mexico, if you dosed it with some oil in the right conditions in the right way, you will get them to eat the oil."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "I wouldn't worry too much about these bacteria. Any aquatic body, even far, far away from the Gulf of Mexico, if you dosed it with some oil in the right conditions in the right way, you will get them to eat the oil.",
+    "statement": "In the Gulf of Mexico, there will be some response, and the bacteria will eat some fraction of the oil. The key <THING> you <HAVE TO> remember <ABOUT> bacteria and eating oil is they act a lot like teenagers. They do it on their own timescale, like for a chore. They do it on their own timescale."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "They usually do the easiest thing first, and they very rarely clean the whole job up. So they will play an important role in terms of our natural capacity to clean up the oil.",
+    "statement": "I wouldn't worry <ABOUT> science fiction aspect. When the food's gone - or in this case, you also <HAVE TO> remember that they'll eat the low-hanging fruit. There's some molecules that are pretty tasty, and then there are other molecules that are avoidable. And so they'll just leave them behind."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "I wouldn't worry about science fiction aspect. When the food's gone - or in this case, you also have to remember that they'll eat the low-hanging fruit. There's some molecules that are pretty tasty, and then there are other molecules that are avoidable. And so they'll just leave them behind.",
+    "statement": "But I <<<THINK>>> we're pretty safe. The algae are our friends in this. I mean, the microbes are our friends, but they're <CERTAINLY> not going to be enemies down the road."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "know": "ungraded",
+      "presume": "ungraded",
+      "stuff": "ungraded"
+    },
+    "previous_statement": "Thank you.",
+    "statement": "Okay. Denise Reed, can I ask you, you mentioned that the wetlands, you <KNOW>, there's a lot of muck and decomposing <STUFF>, which I <<PRESUME>> has a lot of microbes in it. Is - do they play any role in cleaning up the marshes, or is there something else going on there?"
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "know": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Okay. Denise Reed, can I ask you, you mentioned that the wetlands, you know, there's a lot of muck and decomposing stuff, which I presume has a lot of microbes in it. Is - do they play any role in cleaning up the marshes, or is there something else going on there?",
+    "statement": "<WELL>, essentially, the same process that's going to break down the oil in the marsh is going to break down the oil that's out in the Gulf of Mexico, or out in the open water, these  fundamentally, you're just breaking down organic matter, and that's the <<KIND OF>> process that goes on here, you <KNOW>, 24-7, 365, very, very actively."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "definitely": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, essentially, the same process that's going to break down the oil in the marsh is going to break down the oil that's out in the Gulf of Mexico, or out in the open water, these  fundamentally, you're just breaking down organic matter, and that's the kind of process that goes on here, you know, 24-7, 365, very, very actively.",
+    "statement": "This is a very warm environment. As you mentioned, the temperature of the water is <WELL> over 80 degrees already, and in the near shore waters, in the shallower waters, it can <DEFINITELY> be even warmer than that."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "stuff": "ungraded"
+    },
+    "previous_statement": "This is a very warm environment. As you mentioned, the temperature of the water is well over 80 degrees already, and in the near shore waters, in the shallower waters, it can definitely be even warmer than that.",
+    "statement": "So we've got a very, very biologically productive system here, and so, as Chris says, this is just another source of food. And so the consumers in this, the bacteria, are really going to have a go at this <STUFF> when it gets set."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "obviously": "ungraded"
+    },
+    "previous_statement": "So we've got a very, very biologically productive system here, and so, as Chris says, this is just another source of food. And so the consumers in this, the bacteria, are really going to have a go at this stuff when it gets set.",
+    "statement": "And, of course, that's the issue, is that a lot of that has already happened by the time it gets into the marsh. So we are not seeing the <<KIND OF>> classic, oily slick. We are seeing this already degraded <<KIND OF>> chocolate-brown material a lot of the time - or <OBVIOUSLY>, a lot of tar balls, too."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "may": "ungraded",
+      "maybe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Hi. I am really  I don't understand the whole concept of oil evaporating. Can you explain it to me? Because I thought that  I mean, I thought, like, water evaporates, and then a solid would be leftover there. And wouldn't that still cause problems?",
+    "statement": "<WELL>, okay, let's see if we - Chris Reddy, <<MAYBE>> you want to tackle that one."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "sure": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Well, okay, let's see if we - Chris Reddy, maybe you want to tackle that one.",
+    "statement": "<<<SURE>>>. <<<THINK>>> <ABOUT> that, if  first of <ALL>, it's crude oil, and so crude oil is made up of a variety of compounds that we use and <REFINE> to make gasoline, <ALL> the way up to asphalt that you put on the road."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "clear": "ungraded",
+      "know": "ungraded"
+    },
+    "previous_statement": "So the end result is is that the oil is constantly changing due to a variety of processes. Evaporation is most likely the most  biggest driving force at this point in terms of nature's ability to help clean up the spill.",
+    "statement": "Okay, thanks for clearing that up. Dr. Reed, can I come back to you and ask: What was the circumstance in the Gulf Coast before this? Were things in trouble? Were they getting better? You <KNOW>, give us a <<SENSE>> of how were the status quo ante, as it were."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Okay, thanks for clearing that up. Dr. Reed, can I come back to you and ask: What was the circumstance in the Gulf Coast before this? Were things in trouble? Were they getting better? You know, give us a sense of how were the status quo ante, as it were.",
+    "statement": "<WELL>, the coast of Louisiana <CERTAINLY> was already in a very, very badly degraded state before this spill, and this is just another insult of many that have been thrown at it over the last few decades."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "around": "ungraded"
+    },
+    "previous_statement": "Yes, we have lost hundreds and hundreds of square miles of land to open water in the last 50 years, and the coast is falling apart like a kind of Swiss cheese effect, with the interior areas of the marsh just opening up to open water.",
+    "statement": "And so we have been working very hard here in Louisiana to try and get large-scale restoration, really try to rebuild our landscape and make it much more resilient for the future. And that really has been the focus of government officials and scientists and everybody <AROUND> the same table here for the last decade."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "And so we have been working very hard here in Louisiana to try and get large-scale restoration, really try to rebuild our landscape and make it much more resilient for the future. And that really has been the focus of government officials and scientists and everybody around the same table here for the last decade.",
+    "statement": "This event has been <A LITTLE> bit of a distraction for us, but we <KNOW> it just makes it even more urgent to get back on to large-scale restoration."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Okay. Let's take another call now and go to Currin(ph) in Ann Arbor, Michigan. Currin, welcome to SCIENCE FRIDAY. You're on the air.",
+    "statement": "Hi. I've been wondering <ABOUT> the disposal of <ALL> of the residue from this that's landing on beaches and being put into plastic bags and <ALL> the plastic gloves that people are using and <ALL> of those barrier things that are keeping - trying to keep the oil from reaching the reeds."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "maybe": "ungraded"
+    },
+    "previous_statement": "That's right. And - but mostly, like, can any of the oil be recovered when it's sucked into those, oh, those absorbent things?",
+    "statement": "I don't <KNOW>. Let me see if one of our guests knows the answer to that. Chris Reddy, <<MAYBE>>?"
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "I don't know. Let me see if one of our guests knows the answer to that. Chris Reddy, maybe?",
+    "statement": "<WELL>, I'm <CERTAINLY> not an <EXPERT> on the response and cleanup aspects, but, you <KNOW>, we <HAVE TO> balance some of these efforts that are unfortunate that we <HAVE TO>, you <KNOW>, use and waste sponges or equivalent to pick up oil."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "may": "ungraded"
+    },
+    "previous_statement": "Well, I'm certainly not an expert on the response and cleanup aspects, but, you know, we have to balance some of these efforts that are unfortunate that we have to, you know, use and waste sponges or equivalent to pick up oil.",
+    "statement": "But it has to be balanced with the overall goal after an oil spill, which is to, quote, \"<REDUCE> damages.\" And so, in some cases, it <MAY> be frustrating that we're using a lot of plastic gloves and Tyvek suits to clean up the coastline, but we have tradeoffs in terms of trying to <DIMINISH> the overall impact to the environment."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "perhaps": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "But it has to be balanced with the overall goal after an oil spill, which is to, quote, \"reduce damages.\" And so, in some cases, it may be frustrating that we're using a lot of plastic gloves and Tyvek suits to clean up the coastline, but we have tradeoffs in terms of trying to diminish the overall impact to the environment.",
+    "statement": "And so these decisions are made that you <HAVE TO> do this, and hopefully the net result is that we have a better environment due to this response and having to pick up oiled rocks and <<PERHAPS>> throw them away."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "And so these decisions are made that you have to do this, and hopefully the net result is that we have a better environment due to this response and having to pick up oiled rocks and perhaps throw them away.",
+    "statement": "Okay. We have time for another call, I <<<THINK>>>. Let's go to David in Chicago, Illinois. David, welcome to SCIENCE FRIDAY."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "sure": "ungraded"
+    },
+    "previous_statement": "Hi, good afternoon. Thanks for taking my call.",
+    "statement": "<<<SURE>>>."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "obviously": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "Sure.",
+    "statement": "Much has been made <ABOUT> trying to <ESTIMATE> the magnitude of the entire spill, and <OBVIOUSLY>, you can have the visible evidence of that which makes landfall and gets into the reeds, onto animals and such."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "must": "ungraded"
+    },
+    "previous_statement": "Much has been made about trying to estimate the magnitude of the entire spill, and obviously, you can have the visible evidence of that which makes landfall and gets into the reeds, onto animals and such.",
+    "statement": "But there <MUST> be an enormous amount that's still in the water column that is going to be difficult to track and difficult to understand what actually happens to it. What <<KIND OF>> efforts are being made to understand that phenomena?"
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "certainly": "ungraded"
+    },
+    "previous_statement": "But there must be an enormous amount that's still in the water column that is going to be difficult to track and difficult to understand what actually happens to it. What kind of efforts are being made to understand that phenomena?",
+    "statement": "There have been hundreds and hundreds of water samples that have been collected and that are in the pipeline, per se, for analysis. We <CERTAINLY> don't live in the real world of crime scene investigation TV shows."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "may": "ungraded",
+      "might": "ungraded",
+      "maybe": "ungraded",
+      "think": "ungraded",
+      "feel": "ungraded"
+    },
+    "previous_statement": "So it takes a long time for the samples to be collected, brought back to land, analyzed. They go through several rounds of quality control.",
+    "statement": "I <<<THINK>>> what's going to happen here, in the next, <<MAYBE>>, six weeks, 12 weeks and months, are gaps are going to get started to fill in, like filling in a crossword - a jigsaw puzzle, and starting to see where we <MIGHT> see oil below the surface and start to have <A LITTLE> bit better <<FEEL>> for the three-dimensional aspect."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "I think what's going to happen here, in the next, maybe, six weeks, 12 weeks and months, are gaps are going to get started to fill in, like filling in a crossword - a jigsaw puzzle, and starting to see where we might see oil below the surface and start to have a little bit better feel for the three-dimensional aspect.",
+    "statement": "And with that data, we'll start to be able to balance this checkbook of oil that was released into what compartments that it went to. But at this time, I <<<THINK>>> that a lot of data, a lot of samples are collected, and it just takes time for them to go through the pipeline."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "think": "ungraded",
+      "suppose": "ungraded"
+    },
+    "previous_statement": "And with that data, we'll start to be able to balance this checkbook of oil that was released into what compartments that it went to. But at this time, I think that a lot of data, a lot of samples are collected, and it just takes time for them to go through the pipeline.",
+    "statement": "Okay. Denise Reed, I want to throw the last <QUESTION> to you. You <KNOW>, we're in, I <<SUPPOSE>>, and we <CERTAINLY> face a couple months of hurricane season in the Gulf of Mexico and throughout the Southern Atlantic and Caribbean. What do you <<<THINK>>> the  what <WOULD> happen? How badly <WOULD> things  how much worse off <WOULD> things be if a hurricane hit the Gulf right now, hit the Gulf Coast?"
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "Okay. Denise Reed, I want to throw the last question to you. You know, we're in, I suppose, and we certainly face a couple months of hurricane season in the Gulf of Mexico and throughout the Southern Atlantic and Caribbean. What do you think the  what would happen? How badly would things  how much worse off would things be if a hurricane hit the Gulf right now, hit the Gulf Coast?",
+    "statement": "<WELL>, the good news is that we don't have a continuing supply of oil to the surface anymore. So the large areas of oil residue on the surface of the water are now no longer present in the great quantities that they were before."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "obviously": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, the good news is that we don't have a continuing supply of oil to the surface anymore. So the large areas of oil residue on the surface of the water are now no longer present in the great quantities that they were before.",
+    "statement": "The big worry with the marshes when we have a hurricane is, as I said earlier, under normal circumstances, the tide <ONLY> goes up and down by the foot or so, and so the plants actually catch the oil at the edge. When we have a hurricane or even a tropical storm, then <OBVIOUSLY>, the water gets a lot deeper, and that can spread what we have on the surface the oil over - on the surface of the water over a much, much larger area. Of course, the wave action tends to <<KIND OF>> break it up and fragment it, as <WELL>, so it's not like we have a - <WOULD> have a big slick moving across the surface of the marsh."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "about": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "The big worry with the marshes when we have a hurricane is, as I said earlier, under normal circumstances, the tide only goes up and down by the foot or so, and so the plants actually catch the oil at the edge. When we have a hurricane or even a tropical storm, then obviously, the water gets a lot deeper, and that can spread what we have on the surface the oil over - on the surface of the water over a much, much larger area. Of course, the wave action tends to kind of break it up and fragment it, as well, so it's not like we have a - would have a big slick moving across the surface of the marsh.",
+    "statement": "But I <HAVE TO> say that having lived here for more than 20 years, when people's houses flood during a hurricane, they have enough to deal with in terms of hosing the mud out of their house and dealing with <ALL> of those issues without having to be concerned <ABOUT> whether there is oil in that water and oil in that mud. And so we've got to cross our fingers. That that <WOULD> be a whole different <<KIND OF>> problem than the problems we've been dealing with for the last hundred days, and let's just <HOPE> it doesn't happen."
+  },
+  {
+    "transcript_id": "NPR-4790",
+    "matched_terms": {
+      "feel": "ungraded",
+      "feeling": "ungraded",
+      "hope": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "But I have to say that having lived here for more than 20 years, when people's houses flood during a hurricane, they have enough to deal with in terms of hosing the mud out of their house and dealing with all of those issues without having to be concerned about whether there is oil in that water and oil in that mud. And so we've got to cross our fingers. That that would be a whole different kind of problem than the problems we've been dealing with for the last hundred days, and let's just hope it doesn't happen.",
+    "statement": "Exactly. <WELL>, the Gulf has had a <FEELING> of being snake bit. Hopefully, they'll <AVOID> that particular problem this year. But anyway, we've run out of time. I'd like to thank you both. Christopher Reddy is an associate scientist of marine chemistry and geochemistry at the Woods Hole Oceanographic Institution in Massachusetts. Thank you."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "about": "ungraded",
+      "perhaps": "ungraded"
+    },
+    "previous_statement": "This is not a nice person. This is an escapee. He did beat this sergeant, who had to be taken by ambulance and luckily is going to survive.",
+    "statement": "The Texas jailbreak is the state's third in less than a month, which raises some serious questions <ABOUT> security in the state's jail system and whether prison guards are <<PERHAPS>> a weak link in the chain. Joining us now from Austin, Charlie Wilkinson with CLEAT, which stands for the Combined Law Enforcement Associations of Texas. Also with us from Houston, bounty hunter Steve Hedrick. Charlie, let me start with you. How was this convicted killer able to escape?"
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "The Texas jailbreak is the state's third in less than a month, which raises some serious questions about security in the state's jail system and whether prison guards are perhaps a weak link in the chain. Joining us now from Austin, Charlie Wilkinson with CLEAT, which stands for the Combined Law Enforcement Associations of Texas. Also with us from Houston, bounty hunter Steve Hedrick. Charlie, let me start with you. How was this convicted killer able to escape?",
+    "statement": "<WELL>, I <<<THINK>>> we're not in a full public safety crisis in Texas, but we're dang close. What we have, I <<<THINK>>>, overall is a system that's very stressed right now, the criminal justice system. We have, we're under staffed. We're under trained, underpaid. And I <<<THINK>>> you're having an environment inside Texas prisons where these officers in a reversal of fortunes in just seconds can have their lives placed on the line, be on the floor and be at the mercy of a convicted criminal. I <<<THINK>>> also training..."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "What is the training for these officers?",
+    "statement": "<WELL>, in county jails in Texas, for example, like the Montague County and the Hood County facility, you don't <HAVE TO> have any training prior to going to work in Texas. And the incredible part, I <<<THINK>>>, is that you had 48 in Montague County, 48 criminals facing one lone female guard. In a kindergarten class you have 22 5- year-olds and one teacher. It's just incredible what we've allowed to happen over time. And training..."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "think": "ungraded",
+      "believe": "ungraded"
+    },
+    "previous_statement": "To what extent is over -- I'm sorry. To what extent is over crowding a problem?",
+    "statement": "I <<<THINK>>> that over crowding is a minor problem, but the ultimate problem here, I <<<BELIEVE>>>, is that we don't have any value for the job, for the worker, that we don't see that as important. And it's so <CRITICAL> to the protection of our communities. These officers <SOMETIMES> make $20,000 a year. If it was a family of four, they <WOULD> <QUALIFY> for public assistance. It's just a shame."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "totally": "ungraded"
+    },
+    "previous_statement": "Steve Hedrick, what's your take on this? Does this make sense to you? Is there something broken in the prison system in Texas?",
+    "statement": "I <TOTALLY> agree with what Mr. Wilkinson has just said. Although I've <NEVER> worked in corrections, there's no way I'd want to be a corrections officer. I do have several friends that are with the Texas Department of Corrections and these individuals are grossly underpaid with what they <HAVE TO> endure <EVERY> day when they go to work."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "I totally agree with what Mr. Wilkinson has just said. Although I've never worked in corrections, there's no way I'd want to be a corrections officer. I do have several friends that are with the Texas Department of Corrections and these individuals are grossly underpaid with what they have to endure every day when they go to work.",
+    "statement": "Steve, how do authorities go <ABOUT> now trying to track down this convicted killer?"
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "could": "ungraded",
+      "about": "ungraded",
+      "possibly": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Steve, how do authorities go about now trying to track down this convicted killer?",
+    "statement": "<WELL>, there's going to be a different level of investigations here. First, there's going to be the internal investigation conducted by the Department of Prisons as to <<COULD>> this <<POSSIBLY>> be an inside job. The second level of investigation is going to be conducted by the Texas Rangers, where they will fine tooth comb the background of this individual and obtain some <<KIND OF>> clues as to where his whereabouts are right now."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "probably": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Well, there's going to be a different level of investigations here. First, there's going to be the internal investigation conducted by the Department of Prisons as to could this possibly be an inside job. The second level of investigation is going to be conducted by the Texas Rangers, where they will fine tooth comb the background of this individual and obtain some kind of clues as to where his whereabouts are right now.",
+    "statement": "The image father, Mr. Rollins' father says that his son will <<PROBABLY>> go into the woods and try to live as a hermit. What do you <<<THINK>>> the likelihood, Steve, is that this man is going to get caught, is going to be apprehended?"
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "probably": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "The image father, Mr. Rollins' father says that his son will probably go into the woods and try to live as a hermit. What do you think the likelihood, Steve, is that this man is going to get caught, is going to be apprehended?",
+    "statement": "I <<<THINK>>> the chances are very good of him being apprehended. In my 18 years of catching bad boys, my philosophy is that somebody <ALWAYS> knows something. This individual will be in contact with somebody. He's <<PROBABLY>> contacted somebody before he even escaped. From what little I <KNOW> <ABOUT> this individual's background, this individual is extremely intelligent. He knew what he was doing and that this was a one man show. Somebody knows something. And the overall..."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "All right, Charlie, I want to just...",
+    "statement": "Overall, I <<<THINK>>> the..."
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "around": "ungraded"
+    },
+    "previous_statement": "Overall, I think the...",
+    "statement": "I'm sorry, Charlie, I just want to read you a statement made by the chairman of the state criminal justice board. He said, \"Unfortunately these things do happen. It does not mean that the system is flawed. There is no such <THING> as an escape proof prison. These inmates have nothing to do but lie <AROUND> and look for weaknesses and try to find gaps that they can <TAKE> advantage of.\""
+  },
+  {
+    "transcript_id": "CNN-49556",
+    "matched_terms": {
+      "probably": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "I'm sorry, Charlie, I just want to read you a statement made by the chairman of the state criminal justice board. He said, \"Unfortunately these things do happen. It does not mean that the system is flawed. There is no such thing as an escape proof prison. These inmates have nothing to do but lie around and look for weaknesses and try to find gaps that they can take advantage of.\"",
+    "statement": "The gaps they're taken advantage of, I <<<THINK>>>, is that we're looking at some <<SORT OF>> a hole in training. There's some <<SORT OF>> lapse there, either in retraining or original training. In the Montague County, where the female guard goes into the cell with two murderers to get a mop bucket and winds up being held hostage and then the day before yesterday in the state prison where you have the guard walking away to have a conversation with a murderer, I <<<THINK>>> that training is absolute and that staffing is absolute, too. If you had backup in either one of those cases, they <<PROBABLY>> wouldn't have happened."
+  },
+  {
+    "transcript_id": "CNN-19907",
+    "matched_terms": {
+      "suspect": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "After talking with President Clinton, Palestinian leader Yasser Arafat ordered Palestinians to stop firing upon Israelis. But the fights continued today, and eight more Palestinians died. CNN's Jerrold Kessel has the latest on the violence and the floundering push for peace.",
+    "statement": "Guns and flags, this was the day many Palestinians hoped their flag <WOULD> be raised over an independent state. Instead, Palestinian and party flags were again being flown during funerals, funerals for Palestinian teenagers killed in the latest clashes, in what Palestinians call their intifada uprising for independence. But Israeli tanks now dominate hills outside Palestinian towns, in what Israel says is an effort to contain Palestinian violence. The Israeli army also says it detained 15 activists of Yasser Arafat's Fatah movement in West Bank villages. They're suspected, Israel says, of attacking soldiers and civilians. Hussein Al Sheikh is a prominent Fatah leader in the West Bank."
+  },
+  {
+    "transcript_id": "CNN-19907",
+    "matched_terms": {
+      "know": "ungraded",
+      "should": "ungraded"
+    },
+    "previous_statement": "Guns and flags, this was the day many Palestinians hoped their flag would be raised over an independent state. Instead, Palestinian and party flags were again being flown during funerals, funerals for Palestinian teenagers killed in the latest clashes, in what Palestinians call their intifada uprising for independence. But Israeli tanks now dominate hills outside Palestinian towns, in what Israel says is an effort to contain Palestinian violence. The Israeli army also says it detained 15 activists of Yasser Arafat's Fatah movement in West Bank villages. They're suspected, Israel says, of attacking soldiers and civilians. Hussein Al Sheikh is a prominent Fatah leader in the West Bank.",
+    "statement": "The daily Israeli violence forces the Palestinians to stop reacting and to be active. It is our right to protect ourselves by <EVERY> means and ways we <KNOW>. They <SHOULD> <KNOW> that the victims will not be <ONLY> on our side."
+  },
+  {
+    "transcript_id": "CNN-19907",
+    "matched_terms": {
+      "around": "ungraded"
+    },
+    "previous_statement": "The daily Israeli violence forces the Palestinians to stop reacting and to be active. It is our right to protect ourselves by every means and ways we know. They should know that the victims will not be only on our side.",
+    "statement": "The crackle of gunfire. Extensive nightly firefights in and <AROUND> Palestinian towns and Jewish settlements are now a familiar pattern of this seven-week conflict that was previously largely confined to street clashes. More daytime firefights, too, despite reports Yasser Arafat has instructed Palestinians to stop shooting from within Palestinian- controlled areas. Israel insists there can't be any new talk of peace unless <ALL> the shooting stops."
+  },
+  {
+    "transcript_id": "CNN-19907",
+    "matched_terms": {
+      "must": "ungraded"
+    },
+    "previous_statement": "Peace, a theme at the funeral of Leah Rabin, widow of Yitzhak Rabin, the assassinated Israeli prime minister. Though peacemaking has all but been destroyed by the current confrontations, Leah Rabin worked until her death to continue the peace championed by her husband when he was gunned down five years ago.",
+    "statement": "Their lives were and are Israel's history. Now their legacy <MUST> be Israel's future."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "know": "ungraded",
+      "view": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "I lived in New York City and Manhattan <ALL> my life, OK. So, you <KNOW>, my views are <A LITTLE> bit different than if I lived in Iowa."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "fact": "ungraded",
+      "should": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Partial birth abortion.",
+    "statement": "I'm very pro-choice. I am pro-choice in <EVERY> respect and as far as it goes. As far as single payer, it works in Canada, it works incredibly <WELL> in Scotland. The <FACT> is that 25 percent for high-income people <SHOULD> be raised substantially."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "know": "ungraded",
+      "fact": "ungraded",
+      "feel": "ungraded",
+      "view": "ungraded",
+      "seem": "ungraded",
+      "doubt": "ungraded"
+    },
+    "previous_statement": "I'm very pro-choice. I am pro-choice in every respect and as far as it goes. As far as single payer, it works in Canada, it works incredibly well in Scotland. The fact is that 25 percent for high-income people should be raised substantially.",
+    "statement": "So there you have Governor Bush trying to make the point that Donald Trump is not a true conservative. Bush says that he is a proven conservative and once more people get to <KNOW> the kinds of things that Trump has said in the past, the kinds of views he's espoused then they'll begin -- you'll see a drop in his support. But Carol -- it's been a <<KIND OF>> a slow ramp up to see Bush really respond to Trump, really hit back at him. It's as though he didn't really <<FEEL>> like he needed to respond to this <REALITY> TV show star who happens to be leading the GOP pack. So now he's trying to step it up, making this argument that if you really look at what Trump says, people are going to have <DOUBTS>. The big <QUESTION> here, of course, Carol is whether this is going to move the needle for Jeb Bush, who has been faltering in the polls. The <FACT> is that even the data we've seen, for instance in that new Iowa poll, shows that Trump's supporters really <SEEM> to like him not so much for what he says but for who he is and for how he is -- a successful businessman, a tough talker, not so much for his specific policies. 65 percent of his supporters say they trust him to <FIGURE> things out when and if he gets to the White House. They don't need specifics from him. So that's going to be the big <QUESTION> when we see Bush trying to attack here, how effective will it be -- Carol."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "All right. Athena Jones reporting live for us this morning. Thank you. Despite taking aim at Jeb Bush and some of his other Republican rivals, Donald Trump tells CNN his focus is on his campaign.",
+    "statement": "I just want to talk <ABOUT> my accomplishments. I'm not looking to attack anybody."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "I just want to talk about my accomplishments. I'm not looking to attack anybody.",
+    "statement": "Except for that ad attacking Jeb Bush. Joining me now to talk <ABOUT> this: Patricia Murphy, columnist for the \"Daily Beast\" and Ron Christi former special assistant to President George W. Bush. Patricia, is it unusual to have ads, you <KNOW>, of this tone in the primary season?"
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "clear": "ungraded",
+      "know": "ungraded",
+      "should": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded",
+      "believe": "ungraded",
+      "feel": "ungraded"
+    },
+    "previous_statement": "Except for that ad attacking Jeb Bush. Joining me now to talk about this: Patricia Murphy, columnist for the \"Daily Beast\" and Ron Christi former special assistant to President George W. Bush. Patricia, is it unusual to have ads, you know, of this tone in the primary season?",
+    "statement": "In the primary season, yes, it is <A LITTLE> bit unusual, but everything <ABOUT> Donald Trump is <A LITTLE> bit unusual. And it's so clearly getting <ALL> of the other candidates off their game. And to see Jeb Bush try and respond with an ad that's <<KIND OF>> an attack ad, <<KIND OF>> not an attack ad, it doesn't really hit Donald Trump specifically with <<SORT OF>> saying you say you're not a conservative -- you say you are a conservative but you're not. It's just not a tight, aggressive attack ad, and I <<<THINK>>> that is what Jeb Bush opponents don't like <ABOUT> him. They also don't <<<THINK>>> that Jeb Bush is particularly conservative himself. So you see <ALL> of these candidates trying to say <SHOULD> I try to be as aggressive as Trump when he's coming after me? They don't really <KNOW> what to do with him or how to go <ABOUT> it. Meanwhile, Donald Trump is on the stump adjusting <EVERY> day, attacking everybody he feels like doing and I have talked to a ton of Trump supporters. They say they like what he says and they like the way he says it. They trust him, they <<<BELIEVE>>> him. And it's very hard to see how anybody but Donald Trump is going to get rid of Donald Trump in this process."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "totally": "ungraded"
+    },
+    "previous_statement": "In the primary season, yes, it is a little bit unusual, but everything about Donald Trump is a little bit unusual. And it's so clearly getting all of the other candidates off their game. And to see Jeb Bush try and respond with an ad that's kind of an attack ad, kind of not an attack ad, it doesn't really hit Donald Trump specifically with sort of saying you say you're not a conservative -- you say you are a conservative but you're not. It's just not a tight, aggressive attack ad, and I think that is what Jeb Bush opponents don't like about him. They also don't think that Jeb Bush is particularly conservative himself. So you see all of these candidates trying to say should I try to be as aggressive as Trump when he's coming after me? They don't really know what to do with him or how to go about it. Meanwhile, Donald Trump is on the stump adjusting every day, attacking everybody he feels like doing and I have talked to a ton of Trump supporters. They say they like what he says and they like the way he says it. They trust him, they believe him. And it's very hard to see how anybody but Donald Trump is going to get rid of Donald Trump in this process.",
+    "statement": "Of course, in this latest poll though, Ron, Ben Carson has tied Donald Trump. And Ben Carson is <TOTALLY> opposite Donald Trump. He's a nice guy. He doesn't attack anyone. People <<KIND OF>> like his gentle nature. So what do you make of that?"
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Of course, in this latest poll though, Ron, Ben Carson has tied Donald Trump. And Ben Carson is totally opposite Donald Trump. He's a nice guy. He doesn't attack anyone. People kind of like his gentle nature. So what do you make of that?",
+    "statement": "Good morning -- Carol. I <<<THINK>>> a lot of the American people are now starting to tune into this election cycle. And they're looking at some of the attacks and looking at what Donald Trump is saying <ABOUT> the field and they're saying, you <KNOW> what, I don't like that. I don't like people attacking other folks. And remember for goodness sakes, it's September 1st, we're talking <ABOUT> an election that's over a year away. And I <<<THINK>>> that this strategy by Jeb Bush to attack Trump will backfire. I <<<THINK>>> Trump's attempt to attack Bush will backfire. And you exactly see why Ben Carson has risen very quietly but steadily in the polls. I <<<THINK>>> they want a nice, <POSITIVE> vision of how somebody <WOULD> lead, how they <WOULD> differentiate themselves from what the Democrats have done for the last eight years. And I <<<THINK>>> Ben Carson, John Kasich, Marco Rubio -- these <<SORT OF>> sunny candidates, if you will, are going to be forces to be reckoned with."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "obviously": "ungraded",
+      "know": "ungraded",
+      "fact": "ungraded",
+      "should": "ungraded",
+      "about": "ungraded",
+      "probably": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Interesting. So Patricia -- interestingly enough, Donald Trump is not attacking Ben Carson. Will he start now?",
+    "statement": "No, he won't. I don't <<<THINK>>> he <SHOULD>. And I actually was out last week and saw Ben Carson campaigning, and he -- I <<<THINK>>> what people don't understand <ABOUT> him, he is a celebrity among evangelicals and homeschoolers. His book has <SOLD> 350,000 copies. Conservatives <KNOW> who this man is. Conservatives like who he is. He is <<PROBABLY>> the most evangelical -- just to see him speak, he has a very kind, quiet demeanor. People also understand that he's a brilliant man, a pediatric neurosurgeon at johns Hopkins who has done a lot of incredible things. So there's a lot for evangelicals to like there. They don't like the way that Donald Trump is going after <ALL> the other candidates, but they like the <FACT> that Trump and Carson are outsiders. So if you're going to have two outsiders, two very smart men <OBVIOUSLY> but one man is deeply religious, deeply evangelical, and somebody who these evangelicals have known for years. That's why they're going with Ben Carson."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "about": "ungraded",
+      "seem": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "It is literally. It's not his own book, and it is the Bible, yes.",
+    "statement": "OK. <WELL>, Ron, just a last <QUESTION> <ABOUT> Ben Carson because something else that Donald Trump and Ben Carson have in common, they don't have <FULLY> formed policies, but voters don't <SEEM> to care very much."
+  },
+  {
+    "transcript_id": "CNN-263456",
+    "matched_terms": {
+      "around": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "OK. Well, Ron, just a last question about Ben Carson because something else that Donald Trump and Ben Carson have in common, they don't have fully formed policies, but voters don't seem to care very much.",
+    "statement": "<WELL>, I <<<THINK>>> Patricia's last point is exactly spot on and why you have seen both of them rise in the polls. They want an outsider. They want someone who is not business as usual. People are sitting <AROUND> saying a country of over 300 million people, why do we have another Bush, why do we have another Clinton on the ticket? We want fresh. We want outside. We want a different <PERSPECTIVE>. We don't want a career politician. And I <<<THINK>>> that's why those folks are doing <WELL> in the polls, because the American people want to hear what they <HAVE TO> say. They're willing to give them <A LITTLE> bit of a slack and say we'll see what your policy positions are later but we want to hear more from you now."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "know": "ungraded",
+      "suppose": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Some Indiana elementary schoolteachers say active-shooter drills in their district go too far and they want <CHANGE>. Teacher from the Twin Lakes district say they were actually shot with pellet guns by local sheriff deputies and suffered welts and bruises. Some even say the pellet guns drew blood. The school district put out a statement saying it is aware of the concerns and has, quote, \"facilitated a meeting with the association and the sheriff's department to collaboratively discuss these matters.\" Now the state's largest teacher's union is getting involved. Dan Holub is executive director of the indiana State Teachers Association. He's with me. So, Dan, thank you for taking the time. And I <KNOW> this was <ONLY> supposed to be a drill. But why were they using these sorts of pellet guns? You can describe what the teachers went through."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "around": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Some Indiana elementary schoolteachers say active-shooter drills in their district go too far and they want change. Teacher from the Twin Lakes district say they were actually shot with pellet guns by local sheriff deputies and suffered welts and bruises. Some even say the pellet guns drew blood. The school district put out a statement saying it is aware of the concerns and has, quote, \"facilitated a meeting with the association and the sheriff's department to collaboratively discuss these matters.\" Now the state's largest teacher's union is getting involved. Dan Holub is executive director of the indiana State Teachers Association. He's with me. So, Dan, thank you for taking the time. And I know this was only supposed to be a drill. But why were they using these sorts of pellet guns? You can describe what the teachers went through.",
+    "statement": "First of <ALL>, I <<<THINK>>> it was just a situation of poor judgment on behalf of the sheriff's department. But what happened, it was at the start of the active-shooter training that was occurring in the district, teachers were brought into a room, I <<<THINK>>> four at a time, and asked to put on some eye gear. They were told to turn <AROUND> and face the wall. And I <<<THINK>>> that they were asked to <<SORT OF>> crouch down and they were shot at with plastic pellets."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "absolutely": "ungraded",
+      "obviously": "ungraded",
+      "should": "ungraded",
+      "seem": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "And what did they say afterwards?",
+    "statement": "<WELL>, many of them were shocked and, <OBVIOUSLY>, it was a great surprise to them. As you mentioned, there were light injuries that occurred. And honestly, people just didn't understand why that <WOULD> be done. We don't start our school buildings on fire when we're doing fire safety training. It just seems to us that there's <ABSOLUTELY> no reason that this <SHOULD> have occurred."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "So what is the sheriff's department saying?",
+    "statement": "<WELL>, first of <ALL>, they are saying that they won't do it again. So I <<<THINK>>> that they understand that they made a mistake. And again, I don't read their minds, but I <<<THINK>>> that it was just an example of poor judgment."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "And what is your group trying to have changed?",
+    "statement": "So there's legislation working its way through the Indiana legislature that <WOULD> provide some additional support for schools. One <THING> it does is provide expanded support for mental health services, which we <<<THINK>>> is important. It also provides annual active-shooter training. And what we've sought is simply an amendment to that to say that during that training, you won't shoot teachers."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "So there's legislation working its way through the Indiana legislature that would provide some additional support for schools. One thing it does is provide expanded support for mental health services, which we think is important. It also provides annual active-shooter training. And what we've sought is simply an amendment to that to say that during that training, you won't shoot teachers.",
+    "statement": "Right. You <KNOW> --"
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "obviously": "ungraded"
+    },
+    "previous_statement": "Right. You know --",
+    "statement": "Pretty <OBVIOUSLY>."
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "perhaps": "ungraded"
+    },
+    "previous_statement": "Pretty obviously.",
+    "statement": "I'm like, yes, don't do that. But bigger picture, active-shooter drill sadly is a realty for our students today. And I realize that <<PERHAPS>> it sounds like the sheriff's department realizes that they made a mistake, but how do you thread the needle in truly preparing teachers for the worst-case scenario versus being too lenient?"
+  },
+  {
+    "transcript_id": "CNN-365153",
+    "matched_terms": {
+      "think": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "I'm like, yes, don't do that. But bigger picture, active-shooter drill sadly is a realty for our students today. And I realize that perhaps it sounds like the sheriff's department realizes that they made a mistake, but how do you thread the needle in truly preparing teachers for the worst-case scenario versus being too lenient?",
+    "statement": "Look, we support the idea of active-shooter training and other trainings that are necessary. But it needs to be done professionally and it needs to be high quality. And so our concern was really with the professionalism of this training. So that is the reason that we've intervened with the state legislature to try to address it. And we <<<THINK>>> there's bipartisan support for this. So hopefully, we can turn the page on this."
+  },
+  {
+    "transcript_id": "CNN-54764",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "In the meantime, across the country in Washington, the Department of Transportation has issued a warning <ABOUT> possible -- possible -- attacks on rail and transit systems across the country. Law enforcement got the warning on Wednesday. But the FBI didn't put out a warning or an alert or advisory at <ALL>. The warning follows a general threat against subway systems. And this <AROUND> Memorial Day -- that's Monday -- the unofficial start of summer and the driving season. And if your holiday plans call for you to be out there on the road in this time of heightened awareness of security, or even in the air, you're going to want to <KNOW> what to <EXPECT> out there. And for that, we turn to Sean Callebs, who is standing by at Atlanta's Hartsfield International Airport."
+  },
+  {
+    "transcript_id": "CNN-54764",
+    "matched_terms": {
+      "must": "ungraded",
+      "somewhat": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded",
+      "appear": "ungraded"
+    },
+    "previous_statement": "In the meantime, across the country in Washington, the Department of Transportation has issued a warning about possible -- possible -- attacks on rail and transit systems across the country. Law enforcement got the warning on Wednesday. But the FBI didn't put out a warning or an alert or advisory at all. The warning follows a general threat against subway systems. And this around Memorial Day -- that's Monday -- the unofficial start of summer and the driving season. And if your holiday plans call for you to be out there on the road in this time of heightened awareness of security, or even in the air, you're going to want to know what to expect out there. And for that, we turn to Sean Callebs, who is standing by at Atlanta's Hartsfield International Airport.",
+    "statement": "This is a scene that is being played <ALL> across the country as Americans begin to head out this Memorial Day Weekend, the traditional kick off of the summer vacation. But for many people this will be the first time returning to the skies since the September 11th tragedy, and a lot of people are going to find that their local airport has changed <<SOMEWHAT>> dramatically over the past several months. For example, here in Atlanta, <ONLY> those departing on flights, going to the ticket counter, are allowed to come down through this side to go through these lanes of traffic. If you are going to be picking up someone, friend or loved one, then you <MUST> come <AROUND> and actually go on this side of the median and come down, to pick up someone arriving, and load the bags. That is causing some confusion. But overall, operations are going very smoothly at this time of day here in Atlanta. There has been a steady stream of traffic, of people going to curb-side check in. That is translating into some <RATHER> long lines inside, at ticket counters, and especially security areas. But if that is leading to any irritation, we have not seen that from passengers. Now, overall, air travel is down from last year -- <ABOUT> 7 percent. But if there is a hint of good news, it is that this holiday weekend, more people will be returning to the air than at any other time since September 11th. Now, let's go through the numbers game for you, just a moment. It is estimated 35 million people in the United States are going to be traveling at least 50 miles from their home over the next few days. An overwhelming number of those, AAA tells us, are going to be traveling in their car -- <ABOUT> 30 million people; 4.1 million are going to be returning to the air; and another 1.8 million will be traveling either by bus or by rail. No matter how you do travel over the next few days, it appears the key word is going to <HAVE TO> be patience. Sean Callebs, CNN, at Atlanta's Hartsfield Airport."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "could": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Saying good-bye to your money and hello to bargains. America's after Thanksgiving retail bonanza has begun. An alarming warning from the World Health Organization. Officials say the bird flu in Asia <<COULD>> kill seven million people. And talk <ABOUT> a cold case. The new investigation into who or what killed King Tut, on this"
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "Ooh, they're all bundled up out there, aren't they? It's cold outside. Good morning. Bill and Soledad are off. I'm Carol Costello.",
+    "statement": "And I'm Rick Sanchez. Isn't it amazing that people <ALL> over America are up already? You <KNOW> why? Because they don't <HAVE TO> be. That's what happens when you get to sleep in. I won't. We're going to dive back into this after Thanksgiving shopping fray in just a couple of minutes. We're going to check in at Macy's, for example, <ABOUT> the bargains. They're going to look at -- we're also going to look at gift cards. They're very popular this year, but can come with some expensive strings attached."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "And I'm Rick Sanchez. Isn't it amazing that people all over America are up already? You know why? Because they don't have to be. That's what happens when you get to sleep in. I won't. We're going to dive back into this after Thanksgiving shopping fray in just a couple of minutes. We're going to check in at Macy's, for example, about the bargains. They're going to look at -- we're also going to look at gift cards. They're very popular this year, but can come with some expensive strings attached.",
+    "statement": "Yes, wait until you hear. You'll be made. Also, if you loved the \"Godfather\" series, you <KNOW>, there's a gap in years between the end of the first movie and the beginning of the second. That's while the Corleone family gets set up in Las Vegas. In a few minutes, we'll fill in that gap."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Jack Cafferty has some time off and Toure' is going to be here to spell him. He's going to have the Question of the Day a little bit later. It's a good one, by the way.",
+    "statement": "Yes, he's fired up <ABOUT> it, isn't he? He's <<KIND OF>> scary, actually. Let's check on the headlines now with Tony Harris at the CNN Center in Atlanta -- good morning, Tony."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "apparently": "ungraded",
+      "suspect": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Yes, he's fired up about it, isn't he? He's kind of scary, actually. Let's check on the headlines now with Tony Harris at the CNN Center in Atlanta -- good morning, Tony.",
+    "statement": "Good morning, Carol. Good morning, Rick. Now in the news, this just in. We're just getting word of a deadly attack in Baghdad. A British security firm says four of its workers, we don't <KNOW> their nationalities, were killed, and 15 others injured in the so-called green zone. The attack <<APPARENTLY>> took place yesterday. Investigators in Mexico are looking into the killings of at least eight people, including three uncover narcotics agents. The bodies were discovered yesterday outside the resort city of Cancun. Police are blaming a drug turf war for control of the area. Officials are investigating suspects in that case. Over to Colorado now. <WELL>, crews are working to free a rock slide, forcing commuters to <TAKE> a 220-mile detour. Near Glenwood Springs, a canyon wall crumbled yesterday, piling a stretch of highway with rocks -- <TAKE> a look at it here -- stacked up to 10 feet deep. No one was injured in the slide. And a very Happy Thanksgiving for a Florida couple whose stolen car was recovered with their baby still inside and unharmed. James and Rose Pringle were reunited with their six-month-old son yesterday at Tallahassee Memorial Hospital. Police found the car <ABOUT> 25 miles from where it was taken Wednesday, with the baby still in his car seat in the back. So far, police haven't tracked down the car thief. It is now 8:03. Let's send it back to New York and to Rick and to Carol."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "best": "ungraded"
+    },
+    "previous_statement": "Good morning, Carol. Good morning, Rick. Now in the news, this just in. We're just getting word of a deadly attack in Baghdad. A British security firm says four of its workers, we don't know their nationalities, were killed, and 15 others injured in the so-called green zone. The attack apparently took place yesterday. Investigators in Mexico are looking into the killings of at least eight people, including three uncover narcotics agents. The bodies were discovered yesterday outside the resort city of Cancun. Police are blaming a drug turf war for control of the area. Officials are investigating suspects in that case. Over to Colorado now. Well, crews are working to free a rock slide, forcing commuters to take a 220-mile detour. Near Glenwood Springs, a canyon wall crumbled yesterday, piling a stretch of highway with rocks -- take a look at it here -- stacked up to 10 feet deep. No one was injured in the slide. And a very Happy Thanksgiving for a Florida couple whose stolen car was recovered with their baby still inside and unharmed. James and Rose Pringle were reunited with their six-month-old son yesterday at Tallahassee Memorial Hospital. Police found the car about 25 miles from where it was taken Wednesday, with the baby still in his car seat in the back. So far, police haven't tracked down the car thief. It is now 8:03. Let's send it back to New York and to Rick and to Carol.",
+    "statement": "<ALL> right, thanks a lot. I'll <TAKE> it from you, Tony. On this black Friday, retailers are hoping to see plenty of green on the traditional start of the holiday shopping season. In Virginia Beach, that's where people are lining up outside a <BEST> Buy long before the store opened just to be able to get a jump on the sale. Yes, they're bundled up, as they are <ALL> over the country, and in Georgia, they're off. That's right, shoppers rushing in to get an early start when the ribbon was dropped at the Atlanta Wal-Mart. Allan Chernoff is live. He's at Macy's Department Store in New York. That also opened just a couple of hours ago today. He tells us stories of people who were up at ungodly hours just to be able to be in the front of the line -- Allan, <TAKE> it away."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "about": "ungraded",
+      "believe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "All right, thanks a lot. I'll take it from you, Tony. On this black Friday, retailers are hoping to see plenty of green on the traditional start of the holiday shopping season. In Virginia Beach, that's where people are lining up outside a Best Buy long before the store opened just to be able to get a jump on the sale. Yes, they're bundled up, as they are all over the country, and in Georgia, they're off. That's right, shoppers rushing in to get an early start when the ribbon was dropped at the Atlanta Wal-Mart. Allan Chernoff is live. He's at Macy's Department Store in New York. That also opened just a couple of hours ago today. He tells us stories of people who were up at ungodly hours just to be able to be in the front of the line -- Allan, take it away.",
+    "statement": "Rick, you <KNOW>, New York is known as the city that <NEVER> sleeps, and that <CERTAINLY> was the case this morning. People were lining up outside of Macy's at five in the morning. One family I found had gotten up at 2:30, traveled in from the Bronx just to get here. They waited an hour outside. Finally, the doors did open at 6:00 in the morning. We had <ABOUT> 200 people rushing through the door right next to us, and there are seven separate entrances for Macy's. So there <CERTAINLY> were <WELL> over 1,000 people in this store just after 6:00 in the morning. Now, of course, they're here <PARTLY> to beat the crowds, also to find bargains. But <WOULD> you <<<BELIEVE>>> that some people at that hour were here <ONLY> to window shop?"
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "You're very efficient.",
+    "statement": "Oh, <WELL>, it's part of the job."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "Oh, well, it's part of the job.",
+    "statement": "Oh, I see. Does your employer <KNOW> that coming to Macy's to shop is part of the job?"
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "probably": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Oh, I see. Does your employer know that coming to Macy's to shop is part of the job?",
+    "statement": "<WELL>, <<PROBABLY>> not."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "fact": "ungraded",
+      "believe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, probably not.",
+    "statement": "Now, I found one woman in the store who was here at Macy's at 6:00. Then she planned to go to Lord & Taylor's at 7:00 and then get to Saks Fifth Avenue by 8:00, <ALL> just to window shop, if you can <<<BELIEVE>>> that much. But other people <KNOW> what they want and they <CERTAINLY> grab it. One family, in <FACT>, took five of the Grover dolls that you see right behind me. Other hot items -- handbags, sweaters, gloves and, of course, some of those electronics. iPods are very popular, digital cameras, as <WELL>. And, finally, gift cards. According to one survey, shoppers, two thirds of shoppers plan to buy gift cards as gifts -- Rick."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "Allan Chernoff following things for us here in midtown Manhattan. Thanks to you, Allan. We'll check back with you -- Carol, over to you.",
+    "statement": "You heard Allan mentioning gift cards? <WELL>, gift cards are expected to be more popular than ever this holiday season. Vera Gibbons from \"Kiplinger's Personal Finance\" has two important words of advice for you -- buyer beware."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "could": "ungraded"
+    },
+    "previous_statement": "You're kidding? That's a huge number that Allan mentioned of people giving gift cards. They're really that popular?",
+    "statement": "Yes. It's huge business. Americans are actually expected to spend $60 billion on gift cards for the whole year, $20 billion on holiday gift cards specifically, which <<COULD>> account for 10 percent of total holiday sales. Yes, two thirds of consumers plan on buying gift cards. Mostly popular amongst wealthy individuals, older individuals, those 65 and up making over $100,000. So, big business."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "about": "ungraded",
+      "around": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Yes. It's huge business. Americans are actually expected to spend $60 billion on gift cards for the whole year, $20 billion on holiday gift cards specifically, which could account for 10 percent of total holiday sales. Yes, two thirds of consumers plan on buying gift cards. Mostly popular amongst wealthy individuals, older individuals, those 65 and up making over $100,000. So, big business.",
+    "statement": "<WELL>, but -- and it's easy to give. I mean it's a cinch. You don't <HAVE TO> really decide on buying an actual gift. You can say it's more thoughtful, but I <<<THINK>>> it's the other way <AROUND>. But there is a catch to these gift cards. Tell us <ABOUT> it."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded",
+      "could": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, but -- and it's easy to give. I mean it's a cinch. You don't have to really decide on buying an actual gift. You can say it's more thoughtful, but I think it's the other way around. But there is a catch to these gift cards. Tell us about it.",
+    "statement": "<WELL>, there <<COULD>> even be a fee to buy a gift card, otherwise known as a service fee. You find this with the bank issued cards, the general purpose cards. For example, American Express, it costs $3.95 to $7.95 to by one of these cards, depending whether you buy one over the phone or online. Bank of America, $5.95 to $11.95 to order these cards."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "could": "ungraded"
+    },
+    "previous_statement": "Wow!",
+    "statement": "There <<COULD>> even be a shipping and handling fee. Bank of America -- excuse me, Visa Gift Card from National City charges $4.95 to $8.95. And at Saks, there's a $5 shipping and handling fee unless you buy merchandise along the with gift card."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded",
+      "guess": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "There could even be a shipping and handling fee. Bank of America -- excuse me, Visa Gift Card from National City charges $4.95 to $8.95. And at Saks, there's a $5 shipping and handling fee unless you buy merchandise along the with gift card.",
+    "statement": "<WELL>, I <<GUESS>> that's a smart marketing move, actually. There are other pitfalls, as <WELL>, though, because I didn't <KNOW> this, some of those gift cards can actually expire."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "stuff": "ungraded"
+    },
+    "previous_statement": "Well, I guess that's a smart marketing move, actually. There are other pitfalls, as well, though, because I didn't know this, some of those gift cards can actually expire.",
+    "statement": "That's right. And they can start losing value, too. Now some of these gift cards start losing value after just six months, some of the mall-based cards. That boa gift card loses value after just six months. And they lose value at a rate of $2 or $2.50 a month. So if you've got a gift card for $20, it loses its value in no time. So you want to use that as soon as possible. The expiration issue, some stores have actually done away with it because consumers have put up enough of a stink -- Starbucks, Sears. They've done away with the expiration <STUFF> altogether. And there is -- has been some legislation, some state legislation. California has done way with the expiration dates. In Massachusetts, they have extended the expiration dates, so you've got seven years to use your gift card."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "should": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "That's right. And they can start losing value, too. Now some of these gift cards start losing value after just six months, some of the mall-based cards. That boa gift card loses value after just six months. And they lose value at a rate of $2 or $2.50 a month. So if you've got a gift card for $20, it loses its value in no time. So you want to use that as soon as possible. The expiration issue, some stores have actually done away with it because consumers have put up enough of a stink -- Starbucks, Sears. They've done away with the expiration stuff altogether. And there is -- has been some legislation, some state legislation. California has done way with the expiration dates. In Massachusetts, they have extended the expiration dates, so you've got seven years to use your gift card.",
+    "statement": "<WELL>, as they <SHOULD>, because this is just greedy on the parts of stores. That's just greed..."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "Extremely.",
+    "statement": "... because, you <KNOW>, you pay good money to buy the gift card. The store already has the money, so what does it care when the money is actually, you <KNOW>..."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "should": "ungraded"
+    },
+    "previous_statement": "... \"spent?\"",
+    "statement": "That's exactly right, they shouldn't care."
+  },
+  {
+    "transcript_id": "CNN-90057",
+    "matched_terms": {
+      "should": "ungraded",
+      "quite": "ungraded"
+    },
+    "previous_statement": "OK, run down the list one more time for us of good stores in which to purchase gift cards.",
+    "statement": "Oh, there are plenty of good ones, I <SHOULD> point out. I'm just pointing out the negative side to them. And the bank issued cards do come with <QUITE> <A BIT> of fees. But among the good programs, Gap, Banana Republic, Home Depot, Nordstrom, Circuit City is also good, J. Crew. And the reason these are good, Carol, is essentially because there are no expiration dates and there are no non-usage fees, which you get with many of the, unfortunately, the bank issued cards. Those credit card companies that I mentioned."
+  }
+]

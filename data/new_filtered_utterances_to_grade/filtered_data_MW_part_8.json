@@ -1,0 +1,949 @@
+[
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "fact": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "CNN's Phil Mattingly is live for us on Capitol Hill. Phil, a meeting just wrapped up. Any word? Are there -- is there any movement to a deal?",
+    "statement": "Yes, in short, Jake, that answer is no. And this was the first meeting it was collegial, it was complimentary at times, bipartisan group of lawmakers, <ALL> appropriators who generally get along with one another. But the goals, the <CRUCIAL> issue that has separated these two sides for weeks now, the border wall, is still something that hasn't been resolved. In <FACT>, Democrats laid out the top lines of their opening proposal. It has a lot of money for things like personnel, for technology, for upgrading ports of entry. What it doesn't have is any money at <ALL> for border wall, border barriers or border fencing. You compare that to <EVERY> Republican who spoke at this opening conference committee, each talking <ABOUT> the importance of not <ONLY> a comprehensive solution but one that includes border barriers add in where the president stands on this and the <REALITY> remains, they're still pretty much in the same place, Jake."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Yes, in short, Jake, that answer is no. And this was the first meeting it was collegial, it was complimentary at times, bipartisan group of lawmakers, all appropriators who generally get along with one another. But the goals, the crucial issue that has separated these two sides for weeks now, the border wall, is still something that hasn't been resolved. In fact, Democrats laid out the top lines of their opening proposal. It has a lot of money for things like personnel, for technology, for upgrading ports of entry. What it doesn't have is any money at all for border wall, border barriers or border fencing. You compare that to every Republican who spoke at this opening conference committee, each talking about the importance of not only a comprehensive solution but one that includes border barriers add in where the president stands on this and the reality remains, they're still pretty much in the same place, Jake.",
+    "statement": "<WELL>, we <KNOW> Speaker Pelosi met with freshman Democrats today <ABOUT> a possible compromise. What did she <HAVE TO> say?"
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "know": "ungraded",
+      "fact": "ungraded",
+      "should": "ungraded"
+    },
+    "previous_statement": "Well, we know Speaker Pelosi met with freshman Democrats today about a possible compromise. What did she have to say?",
+    "statement": "You <KNOW>, Jake, people who were in that meeting said the speaker did not notably lay out any red line, say anything wasn't negotiable, but did say she did have a lot of trust in the Democratic negotiators saying put your faith in them, they will be able to reach a good deal. She did also note the poll numbers and, basically, Democrats have been keeping a very close eye on the <FACT> that the president has been upside down throughout this shutdown fights, something they have seized on to <<KIND OF>> bolster their current position. But the point that's been made multiple times by both Republicans and Democrats is the president <SHOULD> just stay out, something that the speaker said. <TAKE> a listen."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "You know, Jake, people who were in that meeting said the speaker did not notably lay out any red line, say anything wasn't negotiable, but did say she did have a lot of trust in the Democratic negotiators saying put your faith in them, they will be able to reach a good deal. She did also note the poll numbers and, basically, Democrats have been keeping a very close eye on the fact that the president has been upside down throughout this shutdown fights, something they have seized on to kind of bolster their current position. But the point that's been made multiple times by both Republicans and Democrats is the president should just stay out, something that the speaker said. Take a listen.",
+    "statement": "No, I <<<THINK>>> where the conference can reach him a good result left to its own devices without an interference from everybody else. I've confidence in the appropriators."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "should": "ungraded"
+    },
+    "previous_statement": "The president stay out?",
+    "statement": "He <SHOULD> sign the bill."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "should": "ungraded"
+    },
+    "previous_statement": "He should sign the bill.",
+    "statement": "Now, Jake, privately, Republicans <WOULD> also echo that, saying the president <SHOULD> just leave them to their own devices. At this point, of course, the catch-22 there is the president is going to <HAVE TO> sign whatever they come up with. So at some point, they're going to need a support, Jake."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "feel": "ungraded"
+    },
+    "previous_statement": "Now, Jake, privately, Republicans would also echo that, saying the president should just leave them to their own devices. At this point, of course, the catch-22 there is the president is going to have to sign whatever they come up with. So at some point, they're going to need a support, Jake.",
+    "statement": "<ALL> right. Phil Mattingly on Capitol Hill, thanks so much. And joining us right now, Amanda Carpenter and Jamal Simmons. Amanda, let me ask you. You heard Speaker Pelosi there essentially warning President Trump to stay out of the negotiations. Some senior Republicans <<FEEL>> <<KIND OF>> the same way. <TAKE> a listen to Senator Richard Shelby."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "All right. Phil Mattingly on Capitol Hill, thanks so much. And joining us right now, Amanda Carpenter and Jamal Simmons. Amanda, let me ask you. You heard Speaker Pelosi there essentially warning President Trump to stay out of the negotiations. Some senior Republicans feel kind of the same way. Take a listen to Senator Richard Shelby.",
+    "statement": "I <<<THINK>>> that the speaker and the president are big players in this, and I <<<THINK>>> they <WOULD> let us that we <WOULD> solve this problem and <HAVE TO> give and <TAKE>. I've told the president that."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "fact": "ungraded",
+      "could": "ungraded",
+      "about": "ungraded",
+      "probably": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Is that the way to solve the problem with the conference committee do this and then just bring it to Pelosi and Trump and say just pass this please?",
+    "statement": "Yes, it's the conference committee's job to compromise, and as long as the president isn't tweeting getting in the middle of that, they can <<PROBABLY>> work this out. I was interested to hear a Democrat in there earlier today talked <ABOUT> the <FACT> that the 2006 Secure Fence Act mandated 700 miles of fence. Right now, there's 654 miles built. If the Democrats <<COULD>> give on those last 46 miles, Trump can declare victory by finishing the fence. Everyone <<COULD>> declare victory by finishing the fence that was mandated in the 2006 bill. I <<<THINK>>> there's an opening there if the Democrats can at least come to terms with some <<KIND OF>> barrier fencing in order to get a win with DACA or some <<KIND OF>> other protections for the Dreamers in exchange for those 46 miles."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "But, Jamal, the Customs and Border Patrol wants some new fencing, barrier, steel slats, whatever you want to call it. They want it in El Paso. They want it for three areas in the Rio Grande Valley. If that's what the Customs and Border Patrol wants, why not at least give a little?",
+    "statement": "So, Democrats are not against finishing up some fencing. We heard Hakeem Jeffries, Congressman Jeffries from New York talk <ABOUT> that today. I talked to Bennie Thompson yesterday. He's the chairman of the Homeland Security --"
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "fact": "ungraded",
+      "may": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Committee.",
+    "statement": "-- Committee. Thank you very much. He said that they were also fine with that. The problem is they're just not going to do this big wall. I just <<<THINK>>> and he also pointed out that the Border Patrol Union was one of the few law enforcement unions that endorsed Donald Trump for president. So there <MAY> in <FACT> be some politics mixed up with their support of Donald's position here."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "We're talking politics.",
+    "statement": "I want you to <TAKE> a listen to Chris Christie, who e was on Stephen Colbert. He's out there with his book. He'll be on our show tomorrow. He seems to <<<THINK>>> the President Trump deserves at least some blame for the shutdown."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "I want you to take a listen to Chris Christie, who e was on Stephen Colbert. He's out there with his book. He'll be on our show tomorrow. He seems to think the President Trump deserves at least some blame for the shutdown.",
+    "statement": "Where do you <<<THINK>>> the wheels came off during the shutdown?"
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "When?",
+    "statement": "When he shut the government down with no plan on how to reopen it. I don't <<<THINK>>>, <GIVEN> that it went 35 days, that we had a plan."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "believe": "ungraded"
+    },
+    "previous_statement": "When he shut the government down with no plan on how to reopen it. I don't think, given that it went 35 days, that we had a plan.",
+    "statement": "And he got a goose egg I <<<BELIEVE>>> it's the technical term for a wall."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "around": "ungraded",
+      "maybe": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Did President Trump get rolled?",
+    "statement": "No, no. Yes, I mean, let's wait and see, right? The outcome is going to be what the outcome is here in the next two weeks, next -- <<MAYBE>> there's another C.R. until they get it done. I mean, as we see now, Democrats are coming <AROUND> saying, no, we'll give you some wall, we'll give you this, we'll give you that. Look, I mean, the president starts out of the position. You <KNOW>, you <NEVER> end with your opening position. Who knows what the president really wanted the end of the day? I <<<THINK>>>, you <KNOW>, we'll <HAVE TO> wait and see. If we get some physical barrier, a more secure border along our southern border, I <<<THINK>>> the president comes out as a winner."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "guess": "ungraded"
+    },
+    "previous_statement": "No, no. Yes, I mean, let's wait and see, right? The outcome is going to be what the outcome is here in the next two weeks, next -- maybe there's another C.R. until they get it done. I mean, as we see now, Democrats are coming around saying, no, we'll give you some wall, we'll give you this, we'll give you that. Look, I mean, the president starts out of the position. You know, you never end with your opening position. Who knows what the president really wanted the end of the day? I think, you know, we'll have to wait and see. If we get some physical barrier, a more secure border along our southern border, I think the president comes out as a winner.",
+    "statement": "Jen Psaki, I want you to <TAKE> a listen to former House Speaker John Boehner. He spoke <ABOUT> the government shutdown and he said, quote: When I was looking for a legislative strategy the last place I looked was in talk radio. The second last place I looked was the knucklehead caucus -- that's what he calls the Freedom Caucus -- who don't <KNOW> how to vote yes on anything. They did the president a total disservice. I'm guessing that you're going to agree with former Speaker Boehner."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "may": "ungraded",
+      "quite": "ungraded",
+      "think": "ungraded",
+      "hope": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Jen Psaki, I want you to take a listen to former House Speaker John Boehner. He spoke about the government shutdown and he said, quote: When I was looking for a legislative strategy the last place I looked was in talk radio. The second last place I looked was the knucklehead caucus -- that's what he calls the Freedom Caucus -- who don't know how to vote yes on anything. They did the president a total disservice. I'm guessing that you're going to agree with former Speaker Boehner.",
+    "statement": "<WELL>, I <<<THINK>>> former Speaker Boehner <MAY> still be recalling the 2013 shutdown which he was led into primarily from the Freedom Caucus members in his own party. Look, the <REALITY> is there are more on the Republican side, but <CERTAINLY> some on the Democratic side members who pull the parties who want to compromise two different sides. Compromise has become <QUITE> a dirty word in Washington and a dirty word <OFTEN> in Congress. Hopefully, they will come to an agreement. They <WOULD> <HAVE TO> <FIGURE> out a way to name barrier security or border security or wall security, something different, I don't <KNOW> if they will do that. If they don't my bet is on another continuing resolution which is <WOULD> meet a clean bill that just keeps the government open because McConnell knows he lost, Trump knows he lost, and I don't <<<THINK>>> they want to do that again."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "guess": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "Well, I think former Speaker Boehner may still be recalling the 2013 shutdown which he was led into primarily from the Freedom Caucus members in his own party. Look, the reality is there are more on the Republican side, but certainly some on the Democratic side members who pull the parties who want to compromise two different sides. Compromise has become quite a dirty word in Washington and a dirty word often in Congress. Hopefully, they will come to an agreement. They would have to figure out a way to name barrier security or border security or wall security, something different, I don't know if they will do that. If they don't my bet is on another continuing resolution which is would meet a clean bill that just keeps the government open because McConnell knows he lost, Trump knows he lost, and I don't think they want to do that again.",
+    "statement": "I <<GUESS>> I find the whole <THING> just confusing because Democrats have said that they're willing to do some <<SORT OF>> barriers, just not a wall. And President Trump keeps continually saying call it a wall, call it call it steel slats, whatever you call it. I mean, like it seems like the compromise is right there. Everybody --"
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "I guess I find the whole thing just confusing because Democrats have said that they're willing to do some sort of barriers, just not a wall. And President Trump keeps continually saying call it a wall, call it call it steel slats, whatever you call it. I mean, like it seems like the compromise is right there. Everybody --",
+    "statement": "You <KNOW>, Jake, this isn't really <ABOUT> protecting us at the border. This is really <ABOUT> Donald Trump's political strategy of exacerbating racial tensions in the country, getting people worried <ABOUT> Mexicans and South Americans, Nicaraguans coming up into the United States and protecting his base of people who are to <SEEM> to be very animated by this idea of stopping that flow of brown people from coming into United States."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "You know, Jake, this isn't really about protecting us at the border. This is really about Donald Trump's political strategy of exacerbating racial tensions in the country, getting people worried about Mexicans and South Americans, Nicaraguans coming up into the United States and protecting his base of people who are to seem to be very animated by this idea of stopping that flow of brown people from coming into United States.",
+    "statement": "But do you <<<THINK>>> that's what it is? I mean, there are people who advocate for those undocumented immigrants who say that there is a humanitarian crisis and we do <NEED TO> discourage people from coming up --"
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Right, exactly.",
+    "statement": "A wall isn't a solution to the <REALITY> of the crisis that most people agree on. So that's something we don't talk <ABOUT> enough."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "fact": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "A wall isn't a solution to the reality of the crisis that most people agree on. So that's something we don't talk about enough.",
+    "statement": "I do want to also talk <ABOUT> the <FACT> that because you were very frustrated during the government shutdown <ABOUT> <ALL> the poor federal employees that were not being paid. <TAKE> a listen to a government contractor named Yvette Hicks. She's a security guard at the Air and Space Museum. She told \"Reuters\" she hasn't gotten paid since December and now she's worried her family <MAY> end up homeless if there's another shutdown. She says, quote: There's no stability. How long will the government be shut down again if Trump doesn't get what he wants? And this is a real human element of this that where again we're risking going into again."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "could": "ungraded",
+      "may": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "I do want to also talk about the fact that because you were very frustrated during the government shutdown about all the poor federal employees that were not being paid. Take a listen to a government contractor named Yvette Hicks. She's a security guard at the Air and Space Museum. She told \"Reuters\" she hasn't gotten paid since December and now she's worried her family may end up homeless if there's another shutdown. She says, quote: There's no stability. How long will the government be shut down again if Trump doesn't get what he wants? And this is a real human element of this that where again we're risking going into again.",
+    "statement": "Yes, going into another shutdown fresh out the last one where I <<<THINK>>> there was broad recognition that thousands of people were forced to work without pay. This wasn't a vacation for people. It wasn't a fun low, where you <<COULD>> go play in the slow. There was real hurt to it. And people are still bearing the consequences. If you had to borrow money put in your credit card, your credit score <MAY> have taken a hit. And so, I don't <<<THINK>>> Trump can go into this with the same tough negotiating position, because this will hurt him and he doesn't have the backing from Republicans and so when he says, I will <TAKE> slats, a fence, chicken wire, whatever, I <<<THINK>>> he's begging for a way out."
+  },
+  {
+    "transcript_id": "CNN-360762",
+    "matched_terms": {
+      "could": "ungraded",
+      "around": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "Yes, going into another shutdown fresh out the last one where I think there was broad recognition that thousands of people were forced to work without pay. This wasn't a vacation for people. It wasn't a fun low, where you could go play in the slow. There was real hurt to it. And people are still bearing the consequences. If you had to borrow money put in your credit card, your credit score may have taken a hit. And so, I don't think Trump can go into this with the same tough negotiating position, because this will hurt him and he doesn't have the backing from Republicans and so when he says, I will take slats, a fence, chicken wire, whatever, I think he's begging for a way out.",
+    "statement": "Steel slats, that's what he calls it. Steel slats. Everyone, stick <AROUND>. It <<COULD>> be a litmus test for 2020 Democratic presidential hopefuls. Stay with us."
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "NPR's Health Blogger Scott Hensley joined us to talk <ABOUT> that recall. Hello."
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "might": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "NPR's Health Blogger Scott Hensley joined us to talk about that recall. Hello.",
+    "statement": "Hi, Renee. There were more than 40 different products that the company recalled, and some of them included Tylenol infant drops, from grape to cherry flavor, Tylenol, also a liquid - cherry blast was one of the flavors, a bubble gum flavor was another - and children's Motrin, similar flavor assortment, and children's Zyrtec, which, in allergy season, I <<<THINK>>>, is something people <MIGHT> be using more of these days. That's an antihistamine."
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "fact": "ungraded",
+      "should": "ungraded",
+      "quite": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "So again, all for kids. Remind us why Johnson and Johnson had to recall so many products.",
+    "statement": "<WELL>, the FDA just wrapped up a two-week inspection of the factory outside Philadelphia that makes a wide range of these medicines, and they found <ALL> kinds of problems, from lax quality testing to bacteria in the raw materials that the company was using, and even some dusty, grimy labs where they even found a copper pipe that had duct tape holding insulation on it. So <QUITE> a few lapses in what are considered to be the quality standards a company like J and J <SHOULD> uphold."
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "know": "ungraded",
+      "could": "ungraded"
+    },
+    "previous_statement": "So is this as scary as it sounds when you describe it?",
+    "statement": "It's disturbing. The FDA said that there's not an immediate safety hazard or safety risk for people. The worry is that the quality controls aren't strong enough for the company to <KNOW> that the drugs are up to snuff, and therefore the consumers couldn't have confidence in them."
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "should": "ungraded",
+      "guess": "ungraded"
+    },
+    "previous_statement": "It's disturbing. The FDA said that there's not an immediate safety hazard or safety risk for people. The worry is that the quality controls aren't strong enough for the company to know that the drugs are up to snuff, and therefore the consumers couldn't have confidence in them.",
+    "statement": "What <SHOULD> people do if they have some of these medicines at home? First, I <<GUESS>>, where <WOULD> they go to find out which ones are the recalled ones, and then what to do?"
+  },
+  {
+    "transcript_id": "NPR-31706",
+    "matched_terms": {
+      "could": "ungraded",
+      "stuff": "ungraded"
+    },
+    "previous_statement": "What should people do if they have some of these medicines at home? First, I guess, where would they go to find out which ones are the recalled ones, and then what to do?",
+    "statement": "Right, the J and J Web site has a list of these products. Also the FDA has a lot of information on their Web site explaining what the problem is. The FDA said don't use the <STUFF>. So that's pretty straight forward. If you've got the <STUFF> at home, don't use it anymore. And their advice was to find generic alternatives, or medicines from other companies they you <<COULD>> use."
+  },
+  {
+    "transcript_id": "CNN-13394",
+    "matched_terms": {
+      "could": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Burning wildfires in the America West. At least 64 large fires burning today in 11 different states. President Clinton will heads for Boise, Idaho tomorrow to survey the fires there. But meanwhile, the National Interagency Fire Center in Boise keeping tracking of those fires. And Chief Michael Dombeck, of the U.S. Forest Service, now by telephone with us in the capital city there. Chief Dombeck, hello to you and good morning. I wish we <<COULD>> talk on better terms, in different terms, but it was said earlier today that this was the worst set of wildfires the U.S. has experienced in over 50 years. The governor of your state told us live here on \"MORNING NEWS\" today, Governor Kempthorne said that it is the worst ever for Idaho. Fair comparison?"
+  },
+  {
+    "transcript_id": "CNN-13394",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Burning wildfires in the America West. At least 64 large fires burning today in 11 different states. President Clinton will heads for Boise, Idaho tomorrow to survey the fires there. But meanwhile, the National Interagency Fire Center in Boise keeping tracking of those fires. And Chief Michael Dombeck, of the U.S. Forest Service, now by telephone with us in the capital city there. Chief Dombeck, hello to you and good morning. I wish we could talk on better terms, in different terms, but it was said earlier today that this was the worst set of wildfires the U.S. has experienced in over 50 years. The governor of your state told us live here on \"MORNING NEWS\" today, Governor Kempthorne said that it is the worst ever for Idaho. Fair comparison?",
+    "statement": "Yes, Bill, it is a very serious fire season. The <THING> that is challenging for us this year is we have 64 large fires currently burning, <ABOUT> a million acres. In the last six days, we have contained over 60 of these large fires. So we've made a lot of progress, but we have got new starts, and the real focus is, number one, firefighter safety and public safety; and, number two, is get these fires in initial attack. And it is important to get them when they are small. We've had -- we've had so far this year 6,300 starts, <RATHER>, 63,000."
+  },
+  {
+    "transcript_id": "CNN-13394",
+    "matched_terms": {
+      "fact": "ungraded"
+    },
+    "previous_statement": "The numbers are just staggering there.",
+    "statement": "The average here, and the 10-year average has been 54,000 fire starts. So, in spite of the <FACT> that we have 64 large fires going, we've caught 95 percent of them in initial attack, and really want to focus on taking care of them while they are small. Our next priority is to focus on defending communities at risk and property. So it's firefighters safety, get them when they are small, and defend the communities at risk."
+  },
+  {
+    "transcript_id": "CNN-13394",
+    "matched_terms": {
+      "best": "ungraded",
+      "may": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "The average here, and the 10-year average has been 54,000 fire starts. So, in spite of the fact that we have 64 large fires going, we've caught 95 percent of them in initial attack, and really want to focus on taking care of them while they are small. Our next priority is to focus on defending communities at risk and property. So it's firefighters safety, get them when they are small, and defend the communities at risk.",
+    "statement": "Hey, listen, <BEST> of luck to you. Please stay in touch. Hopefully, the weather <MAY> shift at some point and give you guys a better luck out there. Chief Michael Dombeck, U.S. Forest Service, out of Boise, Idaho. Again, we will track that throughout the day and the week too here on CNN."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "sure": "ungraded",
+      "quite": "ungraded",
+      "think": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Straight to Lakeland, Florida, once again, where that search for the armed gunman is still in full force, a massive manhunt going on. You can see police officers and sheriff's deputies, also the SWAT team, now moving into the residential areas of Lakeland, Florida, because of this gunman. And they're not <QUITE> <<<SURE>>> if he has moved out of the wooded area, into the residential area now. We are told residents have been calling in, saying that they have seen this man, black male, dreadlocks, white T-shirt, already wounded two deputies, shot at another force of police officers -- three schools on lockdown. Bay News 9, Rick Elmhorst working this story for us, he is there on the scene. Rick, what new -- OK, we lost him. We will try and get him back on the phone there. I will <<KIND OF>> bring you up to date on how this <ALL> happened, while we try to get Rick back on the phone. But this is the deal. Police were pursuing a driver that was speeding. They pulled him over. He got out of the car, engaged in conversation with the deputies. The deputies acknowledged who they were, and asked him for I.D. He showed false I.D. He said -- asked if he was going to be arrested. The deputies said they didn't <KNOW>. At that point, the <<SUSPECT>> took off, running into this wooded area. And when he came close to the deputies that started to pursue him with a K-9, he opened fire, shooting those two duties. I <<<THINK>>> we have got Bay News 9 -- Rick Elmhorst on the line with us right now. Rick, are you with me?"
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "about": "ungraded",
+      "suspect": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Straight to Lakeland, Florida, once again, where that search for the armed gunman is still in full force, a massive manhunt going on. You can see police officers and sheriff's deputies, also the SWAT team, now moving into the residential areas of Lakeland, Florida, because of this gunman. And they're not quite sure if he has moved out of the wooded area, into the residential area now. We are told residents have been calling in, saying that they have seen this man, black male, dreadlocks, white T-shirt, already wounded two deputies, shot at another force of police officers -- three schools on lockdown. Bay News 9, Rick Elmhorst working this story for us, he is there on the scene. Rick, what new -- OK, we lost him. We will try and get him back on the phone there. I will kind of bring you up to date on how this all happened, while we try to get Rick back on the phone. But this is the deal. Police were pursuing a driver that was speeding. They pulled him over. He got out of the car, engaged in conversation with the deputies. The deputies acknowledged who they were, and asked him for I.D. He showed false I.D. He said -- asked if he was going to be arrested. The deputies said they didn't know. At that point, the suspect took off, running into this wooded area. And when he came close to the deputies that started to pursue him with a K-9, he opened fire, shooting those two duties. I think we have got Bay News 9 -- Rick Elmhorst on the line with us right now. Rick, are you with me?",
+    "statement": "Yes, I am. I'm going to <<KIND OF>> pick up the story from where you left off. You have got the information that we just got from our sheriff here in Polk County, Florida, Grady Judd. Those two Polk County sheriff's deputies chased the <<SUSPECT>> into a wooded area. The sheriff says that numerous shots were fired and that the two deputies were shot at that time by the <<SUSPECT>>, as <WELL> as the K-9 dog were shot as <WELL>. Those two deputies, the sheriff says, have been transported. He is -- to the hospital for treatment of their injuries. But he's not going to give any information <ABOUT> their injuries right now. Now, there is a massive search going on, as we speak, because, just <A LITTLE> while after the deputies were shot, Lakeland police officers got involved. They tracked this <<SUSPECT>> down to a house. <ABOUT> 45 minutes later, the sheriff says that the <<SUSPECT>> then fired at the officers, but they were not injured at the time. The <<SUSPECT>> was able to run away. And, since that time, dozens, if not more than 100, law enforcement officers have been involved in a search for the <<SUSPECT>>, that they are <ONLY> describing as a black male with dreadlocks. And several local schools have been locked down as a precaution."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Yes, those are the three schools that have been locked down so far.",
+    "statement": "Rick, do we <KNOW> anything <ABOUT> this <<SUSPECT>>?"
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Rick, do we know anything about this suspect?",
+    "statement": "The <ONLY> <THING> that law enforcement is telling us right now is that the <<SUSPECT>> is described as a black male with dreadlocks."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "The only thing that law enforcement is telling us right now is that the suspect is described as a black male with dreadlocks.",
+    "statement": "So, we don't <KNOW> if he's got a criminal background or a criminal history?"
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "So, we don't know if he's got a criminal background or a criminal history?",
+    "statement": "Yes, we're not being told that so far. Now, one of the things that the sheriff did say is -- is that, when the officer pulled the <<SUSPECT>> over, and the <<SUSPECT>> got out of the car, he wanted to <KNOW> if he was going to be arrested. So, you <KNOW>, that <<KIND OF>> gives you an indication that there <MAY> be some <<KIND OF>> a special reason for the guy to try to run and actually shoot at these officers."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "Yes, we're not being told that so far. Now, one of the things that the sheriff did say is -- is that, when the officer pulled the suspect over, and the suspect got out of the car, he wanted to know if he was going to be arrested. So, you know, that kind of gives you an indication that there may be some kind of a special reason for the guy to try to run and actually shoot at these officers.",
+    "statement": "Yes, that's a good point. You're there at the scene. There are a number of helicopters that are in the air. They have also got tons of boots there on the ground there, trying to find this guy. Do they <<<THINK>>> that he has moved out of that wooded area and gone..."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "about": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Yes, that's a good point. You're there at the scene. There are a number of helicopters that are in the air. They have also got tons of boots there on the ground there, trying to find this guy. Do they think that he has moved out of that wooded area and gone...",
+    "statement": "At this point, I really can't tell you that. The information that I <<<THINK>>> I -- I have <GIVEN> to you so far is pretty much <ABOUT> <ALL> that we can give to you right now."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "believe": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Yes. We're -- we're just kind of standing by, waiting for further information from either the sheriff or the public information officers. And I'm -- I'm going to have to apologize here, but I'm going to have to take off now and actually be on the air for Bay News 9.",
+    "statement": "Go do your <THING>, Rick. We will keep in touch. Appreciate it -- Rick Elmhorst with Bay News 9, working that story for us out of Lakeland, Florida. As we get more information, we will let you -- we will let you in on it. The manhunt continues for this armed <<SUSPECT>> that opened fire on deputies, injuring two, also shooting at another force of police officers -- three schools on lockdown -- police now searching the residential area outside of the wooded area where they had believed that <<SUSPECT>> was hiding -- Don."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "fact": "ungraded",
+      "about": "ungraded",
+      "possibly": "ungraded",
+      "apparently": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Go do your thing, Rick. We will keep in touch. Appreciate it -- Rick Elmhorst with Bay News 9, working that story for us out of Lakeland, Florida. As we get more information, we will let you -- we will let you in on it. The manhunt continues for this armed suspect that opened fire on deputies, injuring two, also shooting at another force of police officers -- three schools on lockdown -- police now searching the residential area outside of the wooded area where they had believed that suspect was hiding -- Don.",
+    "statement": "Another developing story we're working here, this one coming from Oak Park, Michigan. It's happening -- it's a suburb just outside of Detroit. A <<SUSPECT>> there attempted purse-snatching, and then ran, and then got into a car. Police chased him. <<APPARENTLY>>, he jumped over an embankment and caused some injuries there, causing a rollover accident on the interstate, breaking down a fence, going into some areas where they have some radio antennas and what have you. This <<SUSPECT>> is still on the loose -- police there in that area looking for a man. They say he is white, between the ages of 25 and 35, facial hair, wearing a black T-shirt, green sweat pants, baseball cap. That's according to Chief -- the Hazel Park, Michigan, police chief. We spoke to him just moments ago, David Niedermeier -- Niedermeier. New information coming out of this -- we have been talking <ABOUT> schools on lockdown here in both of these stories. There are several schools on lockdown here, except the difference here, parents are not being allowed to come in and get their kids. We're told -- this is new, fresh information. Police there tell us that they're being told to hold the kids in the school there, until this <<SUSPECT>> is found, until <ALL> of this is over. In <FACT>, the wires here quoting this Chief David -- David Niedermeier, and CNN, saying that he told, you <KNOW>, CNN that officers were on foot, chasing this person and what he did, as far as running over those embankments and what have you -- but children there on lockdown. And who knows exactly when they will be allowed to go home, <<POSSIBLY>> not until they find this <<SUSPECT>> -- Kyra."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "Another developing story we're working here, this one coming from Oak Park, Michigan. It's happening -- it's a suburb just outside of Detroit. A suspect there attempted purse-snatching, and then ran, and then got into a car. Police chased him. Apparently, he jumped over an embankment and caused some injuries there, causing a rollover accident on the interstate, breaking down a fence, going into some areas where they have some radio antennas and what have you. This suspect is still on the loose -- police there in that area looking for a man. They say he is white, between the ages of 25 and 35, facial hair, wearing a black T-shirt, green sweat pants, baseball cap. That's according to Chief -- the Hazel Park, Michigan, police chief. We spoke to him just moments ago, David Niedermeier -- Niedermeier. New information coming out of this -- we have been talking about schools on lockdown here in both of these stories. There are several schools on lockdown here, except the difference here, parents are not being allowed to come in and get their kids. We're told -- this is new, fresh information. Police there tell us that they're being told to hold the kids in the school there, until this suspect is found, until all of this is over. In fact, the wires here quoting this Chief David -- David Niedermeier, and CNN, saying that he told, you know, CNN that officers were on foot, chasing this person and what he did, as far as running over those embankments and what have you -- but children there on lockdown. And who knows exactly when they will be allowed to go home, possibly not until they find this suspect -- Kyra.",
+    "statement": "<ALL> right. We will continue to follow both those developing stories out of Michigan and also Florida. Meanwhile, a loner, a loser -- that's how Colorado authorities are describing the man behind a deadly school standoff. They <KNOW> his name, but still want to <KNOW> a lot more. Reporter Jim Hooley with affiliate KMGH is in the town of Bailey."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "should": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded",
+      "perhaps": "ungraded",
+      "believe": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "All right. We will continue to follow both those developing stories out of Michigan and also Florida. Meanwhile, a loner, a loser -- that's how Colorado authorities are describing the man behind a deadly school standoff. They know his name, but still want to know a lot more. Reporter Jim Hooley with affiliate KMGH is in the town of Bailey.",
+    "statement": "We now have an I.D. on the gunman. He is 54-year-old Duane Morrison. But police here in Bailey, Colorado, say they really <KNOW> little -- little <ABOUT> the <<SUSPECT>> at this point in time. They say he had very little criminal history here in Colorado, a couple of minor things. He did not live here in the Bailey area, but they -- they do <<<BELIEVE>>> that he <<PERHAPS>> was living out of his jeep here, living in the area, and camping in the area. And, so, investigators are puzzled. Why did he come into the school and why did he do what he did here yesterday? It <ALL> remains a mystery today. At a news conference earlier today, investigators described Morrison as something of a loner. They called him a coward for doing what he did here at the school. They <<<BELIEVE>>> he has no connection whatsoever with the school or any families or students. And they <<<BELIEVE>>> that he <MAY> have picked this school randomly for his assault. Investigators say that the gunman entered the school at <ABOUT> 11:40 yesterday morning. He fired shots and took six female students hostage. Throughout the afternoon, he released four of the girls, but he threatened that he <WOULD> do something at <AROUND> 4:00 to the others. So, that is when SWAT team members moved in. Morrison then shot the 16-year-old girl, his victim, and then killed himself. Just to give you an idea of the very deep impact that <ALL> of this has had on this small mountain community of Bailey, Colorado, there is a sign just down the road here on Route 285, Colorado 285, in front of a store. It says \"Pray for Emily,\" the 16-year-old victim, \"and pray for Bailey.\" The school today is closed. It <SHOULD> reopen, we understand now, come Monday. Live in Bailey, Colorado, I'm Jim Hooley for CNN."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "quite": "ungraded",
+      "about": "ungraded",
+      "believe": "ungraded"
+    },
+    "previous_statement": "All righty, a classic combination, a tragic outcome. Pathologist Dr. Cyril Wecht says that the death of Daniel Smith was the result of three prescription drugs in his system. The son of reality TV star Anna Nicole Smith died September 10. He was visiting his mother in a Bahamas hospital days just after she had given birth to a baby girl. (",
+    "statement": "He died tragically and I <<<BELIEVE>>> <QUITE> accidentally as a result of the cumulative effect of three brain depressant drugs, methadone, which is an analgesic, a painkiller; Zoloft, an antidepressant; and Lexapro, an antidepressant. We knew <ABOUT> Lexapro, Larry, as you will recall from the first battery of tests performed on a specimen submitted, taken during resuscitation at Doctors Hospital, so that came as no surprise. Methadone and Zoloft come as a big surprise to Anna Nicole, to Howard Stern, to the attorneys, to everybody."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "totally": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "He died tragically and I believe quite accidentally as a result of the cumulative effect of three brain depressant drugs, methadone, which is an analgesic, a painkiller; Zoloft, an antidepressant; and Lexapro, an antidepressant. We knew about Lexapro, Larry, as you will recall from the first battery of tests performed on a specimen submitted, taken during resuscitation at Doctors Hospital, so that came as no surprise. Methadone and Zoloft come as a big surprise to Anna Nicole, to Howard Stern, to the attorneys, to everybody.",
+    "statement": "And methadone is <USUALLY> <GIVEN> to people trying to overcome an addiction to heroin or morphine. Mr. Wecht says no one <SUGGESTED> Daniel had such problems. He also said you <WOULD> <HAVE TO> be <TOTALLY> negligent to prescribe <ALL> three drugs at once. Later on in the NEWSROOM, we will be talking with Dr. John Abramson, the author of \"Overdosed America,' <ABOUT> the dangers posed by prescription drugs."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "And methadone is usually given to people trying to overcome an addiction to heroin or morphine. Mr. Wecht says no one suggested Daniel had such problems. He also said you would have to be totally negligent to prescribe all three drugs at once. Later on in the NEWSROOM, we will be talking with Dr. John Abramson, the author of \"Overdosed America,' about the dangers posed by prescription drugs.",
+    "statement": "<WELL>, Terrell Owens says it was an allergic reaction, not a suicide attempt, that landed him in a Dallas hospital. Now he says he is ready to play some football. The Cowboys' star receiver is no stranger to controversy. Some say that he revels in it. His latest turn in the spotlight started with a 911 call Tuesday night. His publicist called paramedics. He said he was unresponsive. Police report said that Owens overdosed on painkillers. <WELL>, Owens says it was just a reaction from pain pills mixed with his nutritional supplements."
+  },
+  {
+    "transcript_id": "CNN-110754",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "deputies shot, schools in lockdown. We are tracking a SWAT situation in Florida this hour.",
+    "statement": "They're designed to make life better, but the <WRONG> combination can kill you. Antidepressants and painkillers, what you <NEED TO> <KNOW> <ABOUT> the power of your prescriptions."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded"
+    },
+    "previous_statement": "Welcome back to EARLY START. It is 14 minutes past the hour. And it's a case that has captured the nation's attention. Two teenagers accused of raping a drunken 16-year-old girl during a booze- fuelled night of partying in August. They learned their fate Sunday morning. The high school football players for Steubenville's Big Red never took the stand but maintained their innocence throughout. And the judge found them guilty on all counts. Poppy Harlow was in court for the entire trial. She has the story.",
+    "statement": "The mother of the 16- year-old victim spoke out for the first time since Trent Mays and Malik Richmond raped her daughter, saying this after court ended."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "hope": "ungraded"
+    },
+    "previous_statement": "The mother of the 16- year-old victim spoke out for the first time since Trent Mays and Malik Richmond raped her daughter, saying this after court ended.",
+    "statement": "It did not matter what school you went to, what city you lived in or what sports you played, human compassion is not taught by a teacher, a coach or a parent. It is a God-<GIVEN> gift instilled in <ALL> of us. You displayed not <ONLY> a lack of this compassion but a lack of any moral code. Your decision that night affected countless lives including those most dear to you. You were your own accuser through the social media that you chose to publish your criminal conduct on. This does not define who my daughter is. She will persevere, grow, and move on. I have pity for you both. I <HOPE> you fear the Lord, repent for your actions and pray hard for his forgiveness."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "view": "ungraded",
+      "doubt": "ungraded"
+    },
+    "previous_statement": "The 16-year-old girl was raped during a series of late night parties in August when she was drunk.",
+    "statement": "The court is able to <VIEW> the demeanor of the witnesses, judge their credibility, and weigh the evidence presented to the court. The court has done so in this case and it is the court's decision that both of the defendants are hereby adjudicated delinquent beyond a reasonable <DOUBT> on <ALL> three counts as charged."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded"
+    },
+    "previous_statement": "The court is able to view the demeanor of the witnesses, judge their credibility, and weigh the evidence presented to the court. The court has done so in this case and it is the court's decision that both of the defendants are hereby adjudicated delinquent beyond a reasonable doubt on all three counts as charged.",
+    "statement": "Ma'lik Richmond sentenced to a minimum of one year in a juvenile correction facility for rape. Trend Mays to a minimum of two years, guilty of rape and of taking and distributing and illegal nude photograph of the victim. Both Mays and Richmond will also <HAVE TO> register as juvenile sex offenders. Prosecutors said the girl was so intoxicated she wasn't capable of consenting to anything."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Ma'lik Richmond sentenced to a minimum of one year in a juvenile correction facility for rape. Trend Mays to a minimum of two years, guilty of rape and of taking and distributing and illegal nude photograph of the victim. Both Mays and Richmond will also have to register as juvenile sex offenders. Prosecutors said the girl was so intoxicated she wasn't capable of consenting to anything.",
+    "statement": "This case is <ABOUT> a 16-year-old girl who was taken advantage of, toyed with and humiliated. And it's time that the people who did that to her are held responsible."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded"
+    },
+    "previous_statement": "This case is about a 16-year-old girl who was taken advantage of, toyed with and humiliated. And it's time that the people who did that to her are held responsible.",
+    "statement": "Eyewitness testimony from three teenage boys <ALL> friends of Mays and Richmond and <ALL> granted immunity from criminal prosecution was damaging. One witness saying he videotaped Mays performing a sexual act on the girl during a car ride between parties. Two others testified they saw Richmond do the same later that night while she was lying naked on the floor. In the state of Ohio, this act performed without consent constitutes rape."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "about": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "Eyewitness testimony from three teenage boys all friends of Mays and Richmond and all granted immunity from criminal prosecution was damaging. One witness saying he videotaped Mays performing a sexual act on the girl during a car ride between parties. Two others testified they saw Richmond do the same later that night while she was lying naked on the floor. In the state of Ohio, this act performed without consent constitutes rape.",
+    "statement": "There seems to be an unbelievable casualness <ABOUT> rape and <ABOUT> sex. It's a cavalier attitude, a belief that somehow there isn't even <WRONG> with any of this."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "definitely": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "There seems to be an unbelievable casualness about rape and about sex. It's a cavalier attitude, a belief that somehow there isn't even wrong with any of this.",
+    "statement": "Text messages, tweets and photos were at the center of the trial. Fellow teens vulgarly joked <ABOUT> the rape. Song of the night is <DEFINITELY> \"Rape Me\" by Nirvana."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "If it was my daughter, I wouldn't care. I'd just let her be dead.",
+    "statement": "Witnesses read text messes, including this one <ABOUT> the victim from Trent Mays to a friend. \"Yeah, dude, she was like a dead body. I just needed some sexual attention.\" There was no jury. This was a bench trial with visiting Judge Thomas Lipps rendering the verdict, because this was a juvenile case. Poppy Harlow, CNN, Steubenville, Ohio."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "could": "ungraded"
+    },
+    "previous_statement": "Witnesses read text messes, including this one about the victim from Trent Mays to a friend. \"Yeah, dude, she was like a dead body. I just needed some sexual attention.\" There was no jury. This was a bench trial with visiting Judge Thomas Lipps rendering the verdict, because this was a juvenile case. Poppy Harlow, CNN, Steubenville, Ohio.",
+    "statement": "Oho Attorney General Mark DeWine announced after this verdict that a grant jury will be convened April 15th to determine if other crimes were committed in this incident, -- meaning more people <<COULD>> be charged here."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "around": "ungraded",
+      "possibly": "ungraded"
+    },
+    "previous_statement": "Oho Attorney General Mark DeWine announced after this verdict that a grant jury will be convened April 15th to determine if other crimes were committed in this incident, -- meaning more people could be charged here.",
+    "statement": "Nineteen minutes after the hour. Right now, let's bring you up to speed on <ALL> the news happening <AROUND> the world. A horrifying scene in South Bend, Indiana. A private jet slamming into two homes, <<POSSIBLY>> damaging a third, and ending up nose first inside one of these houses. The body of the plane almost really split in half right there. An FAA spokesman says there were four people onboard, two of them are dead, at least three other people, including one person on the ground are injured."
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded",
+      "maybe": "ungraded"
+    },
+    "previous_statement": "They wanted to catch a leprechaun. They put leprechaun traps out Saturday night to see if they will catch anything. They did not catch anything, it turns.",
+    "statement": "I just thought <<MAYBE>> you <WOULD> put something in there. So --"
+  },
+  {
+    "transcript_id": "CNN-203256",
+    "matched_terms": {
+      "may": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "Bad, bad, bad.",
+    "statement": "And the teeny tiny country that <MAY> be responsible for it <ALL>. This is a really big story. We'll tell you <ALL> <ABOUT> it, back after the break."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "about": "ungraded",
+      "reportedly": "ungraded",
+      "believe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "On the healthcare front, it's still a battle of Republican versus Republican right now, but that battle got <A LITTLE> less heated today, if you can <<<BELIEVE>>> it. A pro-Trump super PAC had targeted a Republican senator who is facing a tough reelection with an attack ad because he had come out against the bill. A pro-Trump PAC against a Republican, mind you. <WELL>, they have now pulled the ad against Senator Dean Heller after he and others, including <<REPORTEDLY>> Mitch McConnell complained <ABOUT> it directly to the president and to other top White House officials. Here is fellow Republican Senator Ron Johnson of Wisconsin speaking to CNN <A LITTLE> while ago."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "On the healthcare front, it's still a battle of Republican versus Republican right now, but that battle got a little less heated today, if you can believe it. A pro-Trump super PAC had targeted a Republican senator who is facing a tough reelection with an attack ad because he had come out against the bill. A pro-Trump PAC against a Republican, mind you. Well, they have now pulled the ad against Senator Dean Heller after he and others, including reportedly Mitch McConnell complained about it directly to the president and to other top White House officials. Here is fellow Republican Senator Ron Johnson of Wisconsin speaking to CNN a little while ago.",
+    "statement": "I have heard those ads have been pulled and I'm really glad they've been pulled. I <<<THINK>>> <EVERY> last Senate Republican is glad those ads have been pulled."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "Did it alarm you that it even happened in the first place?",
+    "statement": "I did not <<<THINK>>> it was a very good strategy."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "may": "ungraded",
+      "maybe": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "I did not think it was a very good strategy.",
+    "statement": "To say the least he says with a smile on his face. Joining me now to discuss, CNN political analyst, Kirsten Powers, who is also a \"USA Today\" columnist, and CNN political analyst, David Drucker, senior congressional correspondent for \"The Washington Examiner.\" <ALL> right. Friends, so, David, Republicans on the Hill and far beyond, they <ALL> <<<THINK>>> this ad, the ads were damaging to the process. How big of an impact did the ad -- <ONLY> on air for <A LITTLE> while or <<MAYBE>> just the threat -- have on this process, do you <<<THINK>>>?"
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "sure": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "To say the least he says with a smile on his face. Joining me now to discuss, CNN political analyst, Kirsten Powers, who is also a \"USA Today\" columnist, and CNN political analyst, David Drucker, senior congressional correspondent for \"The Washington Examiner.\" All right. Friends, so, David, Republicans on the Hill and far beyond, they all think this ad, the ads were damaging to the process. How big of an impact did the ad -- only on air for a little while or maybe just the threat -- have on this process, do you think?",
+    "statement": "<WELL>, look, there are a lot of smart people at America first policies who have a good record of success in Republican politics. But I <<<THINK>>> that this ad and the strategy behind it was a horrible miscalculation. Because Mitch McConnell can <ONLY> spare -- the president can <ONLY> spare two Republican votes, and even then they need the vice-president to cast the tie-breaking vote. What they did is put Senator Dean Heller in a position where even if he eventually comes <AROUND> on the health care bill, which he <MAY> in July, because he has <ALWAYS> been in favor of repealing and replacing the Affordable Care Act in some fashion, it's now going to look -- Democrats can now play it at least as a capitulation. He was threatened with ads. He is already under pressure for 2018. Now he has come <AROUND> simply because the president threatened him or the president's official group threatened him. That's going to weigh on Senator Heller's mind as he tries to work through competing issues of wanting to do something <ABOUT> health care, but on the other hand he is in a state with a very popular Republican governor who has embraced Medicaid expansion and is against the Senate bill. And so by doing what --"
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "should": "ungraded"
+    },
+    "previous_statement": "No one wants to look like they have been forced to do anything because of an attack ad. I mean, no one does --",
+    "statement": "Correct. They <SHOULD> have at least let this <THING> play out to a vote before they decided to go after one of their own, particularly somebody who is so vulnerable heading into 2018."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "about": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "Correct. They should have at least let this thing play out to a vote before they decided to go after one of their own, particularly somebody who is so vulnerable heading into 2018.",
+    "statement": "So Kirsten, the PAC behind the ad seems to have no regrets. Katrina Pierson, she is formerly with the Trump campaign. She is now with this group and she had this to say to Anderson <ABOUT> this <ALL> last night. Listen."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "absolutely": "ungraded",
+      "could": "ungraded"
+    },
+    "previous_statement": "So Kirsten, the PAC behind the ad seems to have no regrets. Katrina Pierson, she is formerly with the Trump campaign. She is now with this group and she had this to say to Anderson about this all last night. Listen.",
+    "statement": "Our main concern is pushing forward policies that support Americans first, particularly those Republicans have been campaigning on for last seven years. If I <<COULD>> give you <A LITTLE> context. Mainly because there were other senators who did not support the bill in its current form, however, they stayed at the table. They offered their own ideas. Whereas Senator Heller actually held a press conference on Friday, said <ABSOLUTELY> not and walked away from the table. So I'm happy to see that he is back."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Our main concern is pushing forward policies that support Americans first, particularly those Republicans have been campaigning on for last seven years. If I could give you a little context. Mainly because there were other senators who did not support the bill in its current form, however, they stayed at the table. They offered their own ideas. Whereas Senator Heller actually held a press conference on Friday, said absolutely not and walked away from the table. So I'm happy to see that he is back.",
+    "statement": "She also said that the prepared to resume the ads if need be. What is <WRONG> with this group doing this? Isn't this what PACs are <ABOUT>?"
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "know": "ungraded",
+      "could": "ungraded",
+      "around": "ungraded",
+      "possibly": "ungraded",
+      "think": "ungraded",
+      "guess": "ungraded",
+      "feel": "ungraded",
+      "feeling": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "She also said that the prepared to resume the ads if need be. What is wrong with this group doing this? Isn't this what PACs are about?",
+    "statement": "<WELL>, it's not a matter of right or <WRONG>. I <<<THINK>>> it's a matter of what's typically done. This typically isn't done and I <<<THINK>>> it surprised the senators. The <FEELING> is I <<<THINK>>> among Republican -- Mitch McConnell and some other Republicans <AROUND> him is that the White House isn't really sensitive to the needs of the people on the ground, that the Trump people aren't sensitive to the needs of the people on the ground. It has created a very disruptive environment when they're trying to not just hold on to the Senate but <<POSSIBLY>> expand seats there. So this is just not helpful to the process. They don't -- the Trump people don't really understand the process. That this <WOULD> -- they <<COULD>> have predicted this <WOULD> alienate Senator Heller, not bring him to the table. You can hear Katrina saying no, that's not true. We <<<THINK>>> it's what pushed him to at least go to the meeting. I <<GUESS>>, we don't really <KNOW> the answer to that. The <BOTTOM LINE> is McConnell does not find it helpful."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "opinion": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, it's not a matter of right or wrong. I think it's a matter of what's typically done. This typically isn't done and I think it surprised the senators. The feeling is I think among Republican -- Mitch McConnell and some other Republicans around him is that the White House isn't really sensitive to the needs of the people on the ground, that the Trump people aren't sensitive to the needs of the people on the ground. It has created a very disruptive environment when they're trying to not just hold on to the Senate but possibly expand seats there. So this is just not helpful to the process. They don't -- the Trump people don't really understand the process. That this would -- they could have predicted this would alienate Senator Heller, not bring him to the table. You can hear Katrina saying no, that's not true. We think it's what pushed him to at least go to the meeting. I guess, we don't really know the answer to that. The bottom line is McConnell does not find it helpful.",
+    "statement": "David, ads can be effective as we <WELL> <KNOW>. Poll numbers can be as <WELL>. New poll out from NPR/PBS showing this <ABOUT> the health care bill, <ONLY> 17 percent of people polled approved of the Senate health care plan, 55 percent disapprove. A quarter say they haven't heard enough to have an <<OPINION>> <ABOUT> it. What does that do to GOP senators right now? Is it <MORE OR LESS> troubling to them or problematic to them than the CBO numbers?"
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "fact": "ungraded",
+      "could": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "David, ads can be effective as we well know. Poll numbers can be as well. New poll out from NPR/PBS showing this about the health care bill, only 17 percent of people polled approved of the Senate health care plan, 55 percent disapprove. A quarter say they haven't heard enough to have an opinion about it. What does that do to GOP senators right now? Is it more or less troubling to them or problematic to them than the CBO numbers?",
+    "statement": "Right. So I <<<THINK>>> that this is a larger problem for Republicans trying to get health care done than any one particular senator who <MAY> or <MAY> not have walked away from the table. Dean Heller <NEVER> said he wouldn't negotiate. That's just factually incorrect. You have a president who wants to get this done and is trying to get this done. But he does not have a lot to offer his Republican colleagues in the way of political cover. He hasn't even been doing much in the way of political cover. We have not seen much in the way of public speeches or grass-roots efforts spurred on by the president the way we saw from President Barack Obama when Obamacare was on the rocks during the legislative process. Even though it was <NEVER> popular and independents and Republicans combined <NEVER> liked it, when Democrats were wavering, they <<COULD>> <ALWAYS> count on President Obama to use his leverage with the liberal base to keep them going, whether he gave speeches, whether he traveled the country. This is not something we have seen from the president. I <<<THINK>>> it's why some Republicans, though not <ALL>, have felt like he is not immersed in the details. He doesn't talk publicly that much <ABOUT> why he wants to repeal and replace the Affordable Care Act in a very public <<SENSE>> beyond Twitter. Beyond that, in states like Arizona and Nevada and others, he doesn't have much in the way of political cover to help wavering senators. That is an issue here."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "clear": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded",
+      "seem": "ungraded",
+      "appear": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Right. So I think that this is a larger problem for Republicans trying to get health care done than any one particular senator who may or may not have walked away from the table. Dean Heller never said he wouldn't negotiate. That's just factually incorrect. You have a president who wants to get this done and is trying to get this done. But he does not have a lot to offer his Republican colleagues in the way of political cover. He hasn't even been doing much in the way of political cover. We have not seen much in the way of public speeches or grass-roots efforts spurred on by the president the way we saw from President Barack Obama when Obamacare was on the rocks during the legislative process. Even though it was never popular and independents and Republicans combined never liked it, when Democrats were wavering, they could always count on President Obama to use his leverage with the liberal base to keep them going, whether he gave speeches, whether he traveled the country. This is not something we have seen from the president. I think it's why some Republicans, though not all, have felt like he is not immersed in the details. He doesn't talk publicly that much about why he wants to repeal and replace the Affordable Care Act in a very public sense beyond Twitter. Beyond that, in states like Arizona and Nevada and others, he doesn't have much in the way of political cover to help wavering senators. That is an issue here.",
+    "statement": "<WELL>, you raise a good point, David. It's something that clearly the president seems to be sensitive to today. Kirsten, you saw him tweeting <ABOUT> it this morning. I mean, the president seeming to try to -- it appears push back on reports that he is struggling to be -- struggling to be a closer on this, to get in the weeds and get the deal done. Do you see evidence that -- evidence of his influence in this discussion? Have we seen evidence of the president throwing his weight <AROUND> on this yet?"
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "fact": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Well, you raise a good point, David. It's something that clearly the president seems to be sensitive to today. Kirsten, you saw him tweeting about it this morning. I mean, the president seeming to try to -- it appears push back on reports that he is struggling to be -- struggling to be a closer on this, to get in the weeds and get the deal done. Do you see evidence that -- evidence of his influence in this discussion? Have we seen evidence of the president throwing his weight around on this yet?",
+    "statement": "I don't <<<THINK>>> we have seen it in the Senate the way we saw it in the House. That's basically because there was a calculation that was made was the senators really weren't going to be swayed by Trump as much, and because of the <FACT> he is not able to get into the weeds with them. So that's why the vice-president was <<SORT OF>> dispatched to be more of the person to be running interference with the senators. I <<<THINK>>> the <FACT> is, I don't <<<THINK>>> anyone has accused Donald Trump of being a policy wonk. He is not. He is a political animal and escalate to that game. That's not his main business. I <<<THINK>>> that he is taking offense at that. The <<TRUTH>> is, this is something we see time and time again, that he is really focused on the political issue, which is there is a promise made, we said we <WOULD> get rid of Obamacare but doesn't really understand the policy ramifications of it."
+  },
+  {
+    "transcript_id": "CNN-315470",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "I don't think we have seen it in the Senate the way we saw it in the House. That's basically because there was a calculation that was made was the senators really weren't going to be swayed by Trump as much, and because of the fact he is not able to get into the weeds with them. So that's why the vice-president was sort of dispatched to be more of the person to be running interference with the senators. I think the fact is, I don't think anyone has accused Donald Trump of being a policy wonk. He is not. He is a political animal and escalate to that game. That's not his main business. I think that he is taking offense at that. The truth is, this is something we see time and time again, that he is really focused on the political issue, which is there is a promise made, we said we would get rid of Obamacare but doesn't really understand the policy ramifications of it.",
+    "statement": "A couple days to bone up, if you will. Let's see what happens. Great to see you both. Thank you very much. President Trump's recent call with the new Irish prime minister getting some new attention today. Not because of what he is he said to the prime minister really, but to a female reporter who is in the oval office covering the phone call. Details on that ahead. Plus, if a picture is worth a thousand words, what does a fake picture and what does this fake \"Time\" magazine cover found in several of President Trump's golf clubs say <ABOUT> the president? We will discuss."
+  },
+  {
+    "transcript_id": "CNN-319300",
+    "matched_terms": {
+      "clear": "ungraded",
+      "know": "ungraded",
+      "sure": "ungraded",
+      "unclear": "ungraded",
+      "view": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "All right. Questions are swirling over newly released video showing the violent arrest of a black man near Cleveland. Police say this started as a routine traffic stop. Somehow it escalated to this. The driver on the ground, officer on top of him punching. CNN's Brynn Gingras joins me now with more on this video. Brynn, what are you learning?",
+    "statement": "It's going viral, that's for <<<SURE>>>. I mean, we <KNOW> a lot. I'm going to tell you right now. We <KNOW> that there's a police officer is involved with this, Michael Amiott. You saw him on the video, but we're not <<<SURE>>> which one he is. We <KNOW> he's on paid administrative leave, though. He is an officer with the Euclid Police Department, which is a suburb of Cleveland, Ohio. Now Amiott was the arresting officer in a traffic stop which turned into that physical struggle with that man who is 25 years old. Now I want you to <TAKE> a look at different video, this is police dashcam video, which actually comes to us by the local newspaper there in the Cleveland area, the \"News Herald.\" According to a police statement, this <ALL> happened last Saturday. Richard Hubbard III was the man behind the wheel and authorities pulled him over. Then police say Hubbard began to physically resist arrest and according to them it took several officers to control him. But again, you see right there in the video, the kicking and the punching that was <ALL> part of this arrest. It's <<UNCLEAR>> again from the video, which Officer Amiott is, but he is not working. Again, he is on paid leave while this case is under investigation. Now I want you to look at this picture. This is Hubbard, what he looked like after his arrest in this booking photo. Police <CLAIMED> Amiott was treated for injuries as <WELL> and he is as <WELL> under investigation. Police also released a statement of what happened and the chief said separately on Facebook, quote, \"I first want to sincerely apologize for not publicly responding in a more timely fashion. I want to personally assure everyone that this incident is being <THOROUGHLY> investigated and reviewed.\" We also <KNOW> Officer Amiott worked for another police department in Mentor, Ohio, another Cleveland suburb. He was there for <ONLY> nine months, John. And he was forced to resign because he actually falsified a police report."
+  },
+  {
+    "transcript_id": "CNN-319300",
+    "matched_terms": {
+      "could": "ungraded",
+      "about": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "It's going viral, that's for sure. I mean, we know a lot. I'm going to tell you right now. We know that there's a police officer is involved with this, Michael Amiott. You saw him on the video, but we're not sure which one he is. We know he's on paid administrative leave, though. He is an officer with the Euclid Police Department, which is a suburb of Cleveland, Ohio. Now Amiott was the arresting officer in a traffic stop which turned into that physical struggle with that man who is 25 years old. Now I want you to take a look at different video, this is police dashcam video, which actually comes to us by the local newspaper there in the Cleveland area, the \"News Herald.\" According to a police statement, this all happened last Saturday. Richard Hubbard III was the man behind the wheel and authorities pulled him over. Then police say Hubbard began to physically resist arrest and according to them it took several officers to control him. But again, you see right there in the video, the kicking and the punching that was all part of this arrest. It's unclear again from the video, which Officer Amiott is, but he is not working. Again, he is on paid leave while this case is under investigation. Now I want you to look at this picture. This is Hubbard, what he looked like after his arrest in this booking photo. Police claimed Amiott was treated for injuries as well and he is as well under investigation. Police also released a statement of what happened and the chief said separately on Facebook, quote, \"I first want to sincerely apologize for not publicly responding in a more timely fashion. I want to personally assure everyone that this incident is being thoroughly investigated and reviewed.\" We also know Officer Amiott worked for another police department in Mentor, Ohio, another Cleveland suburb. He was there for only nine months, John. And he was forced to resign because he actually falsified a police report.",
+    "statement": "<ALL> right. Brynn Gingras, with us. This video again, these new developments coming in. This violent video being seen by a whole lot of people. Thanks for the details on that. I really appreciate it. We also have breaking news we want to tell you <ABOUT> out of Finland. We've been following this. Police say more suspects <<COULD>> be out there after several people were stabbed. This happened in Finland. Again, we're getting many more details in with warnings on people to stay away from these crowded neighborhoods. CNN will have the latest, next."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "view": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Welcome back once again. In his latest interview, the president insisting he wants to sit down with Bob Mueller for an interview. His lawyers though really keep saying they are not a big fan of that. With me now, our chief political correspondent, Dana Bash. And Dana, you just spoke as you <OFTEN> do these days with the president's personal attorney, Rudy Giuliani. Walk us through this."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "clear": "ungraded",
+      "know": "ungraded",
+      "fact": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded",
+      "maybe": "ungraded",
+      "feel": "ungraded",
+      "feeling": "ungraded",
+      "view": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Welcome back once again. In his latest interview, the president insisting he wants to sit down with Bob Mueller for an interview. His lawyers though really keep saying they are not a big fan of that. With me now, our chief political correspondent, Dana Bash. And Dana, you just spoke as you often do these days with the president's personal attorney, Rudy Giuliani. Walk us through this.",
+    "statement": "<WELL>, I wanted to just touch base with him <GIVEN> the <FACT> that the president renewed what has been pretty consistent a statement that he says he wants to sit down with Robert Mueller. He has said that <ALL> along, that is what his legal team has said that that is his desire which is why the conversations with the president's legal team and Robert Mueller's team have continued. So what Rudy Giuliani said to me is just that, that while everything has been going on in Helsinki and elsewhere, that team Trump has been in conversations with the Mueller team <ABOUT> trying to find a way to narrow the scope of any potential interview. Now what Giuliani also said to me, and he was very <CLEAR>, he said this is me, the president didn't say this specifically to him, but that this is Giuliani's <INTERPRETATION> of the president's current <FEELING> is that he is more apt to agree with his lawyers than he was before <ABOUT> the idea that it is not a good idea to sit down for a wide- ranging interview. And what do I mean by that? <WELL>, historically we've been talking <ABOUT> the <QUESTION> of collusion. That is something that the president's legal team has said, you <KNOW>, if you wand you want to ask the president questions <ABOUT> alleged or potential collusion and you want to limit it to that, meaning the time before he was in the White House, <<MAYBE>> that is something that we can make a deal on. The issue -- one of the many issues that the president's team is very concerned <ABOUT> and very reluctant to allow the president to sit down on, are questions having to do with potential obstruction and, you <KNOW>, questions that we don't even <KNOW> that Robert Mueller has potentially in his pocket. So that is basically where things stand, that the conversations continue. And that the president, although he repeated his assertion that he wants to talk, is <<MAYBE>> <A LITTLE> bit because of the climate right now less <INCLINED> and less insistent to his own team than he has been in the past."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "maybe": "ungraded",
+      "think": "ungraded",
+      "seem": "ungraded"
+    },
+    "previous_statement": "Well, I wanted to just touch base with him given the fact that the president renewed what has been pretty consistent a statement that he says he wants to sit down with Robert Mueller. He has said that all along, that is what his legal team has said that that is his desire which is why the conversations with the president's legal team and Robert Mueller's team have continued. So what Rudy Giuliani said to me is just that, that while everything has been going on in Helsinki and elsewhere, that team Trump has been in conversations with the Mueller team about trying to find a way to narrow the scope of any potential interview. Now what Giuliani also said to me, and he was very clear, he said this is me, the president didn't say this specifically to him, but that this is Giuliani's interpretation of the president's current feeling is that he is more apt to agree with his lawyers than he was before about the idea that it is not a good idea to sit down for a wide- ranging interview. And what do I mean by that? Well, historically we've been talking about the question of collusion. That is something that the president's legal team has said, you know, if you wand you want to ask the president questions about alleged or potential collusion and you want to limit it to that, meaning the time before he was in the White House, maybe that is something that we can make a deal on. The issue -- one of the many issues that the president's team is very concerned about and very reluctant to allow the president to sit down on, are questions having to do with potential obstruction and, you know, questions that we don't even know that Robert Mueller has potentially in his pocket. So that is basically where things stand, that the conversations continue. And that the president, although he repeated his assertion that he wants to talk, is maybe a little bit because of the climate right now less inclined and less insistent to his own team than he has been in the past.",
+    "statement": "And I <<<THINK>>> they <KNOW> from what the polling shows us that, you <KNOW>, politically the president has got some cover here, that it seems like nothing he does causes him great loss of support, <<MAYBE>> among Republicans in Congress, yes, at least vocally opposing him, but not among Republican voters, Dana."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "And I think they know from what the polling shows us that, you know, politically the president has got some cover here, that it seems like nothing he does causes him great loss of support, maybe among Republicans in Congress, yes, at least vocally opposing him, but not among Republican voters, Dana.",
+    "statement": "I mean, that number -- those numbers that you're showing really say so much and help really tell the story of what's going on or not going on here in Washington. That 68 percent of Republicans in this new poll out from CBS News say that they thought that the president did a fine job in Helsinki standing next to Vladimir Putin. So when you hear the condemnation from Republicans in Congress and the <QUESTION> -- legitimate <QUESTION> is what are you going to do <ABOUT> it, what actions are you going to <TAKE>, they are hearing either crickets from their own Republican constituents."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "Or not a rallying cry to do something. So that's --",
+    "statement": "<WELL>, listen, Dana, quickly on that point, let's listen to Lindsey Graham."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "should": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "OK.",
+    "statement": "I <<<THINK>>> it is <IMPERATIVE> that he understand that he is misjudging Putin. I don't <<<THINK>>> he was prepared as <WELL> as he <SHOULD> have been."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "I think it is imperative that he understand that he is misjudging Putin. I don't think he was prepared as well as he should have been.",
+    "statement": "He is misjudging Putin, he wasn't prepared. But that's Lindsey Graham. What are the Republicans going to do <ABOUT> it?"
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "probably": "ungraded"
+    },
+    "previous_statement": "He is misjudging Putin, he wasn't prepared. But that's Lindsey Graham. What are the Republicans going to do about it?",
+    "statement": "They're going to try to force the president to sign another piece of legislation that puts tougher sanctions on Putin. That's <<PROBABLY>> what he wants ultimately to do but again without the rallying cry from Republican voter."
+  },
+  {
+    "transcript_id": "CNN-345480",
+    "matched_terms": {
+      "clear": "ungraded",
+      "unclear": "ungraded"
+    },
+    "previous_statement": "Voters. Yes.",
+    "statement": "<<UNCLEAR>> if Lindsey Graham who has long been a critic of Putin, no matter who is on the White House, is going to have enough support do that. We'll see."
+  },
+  {
+    "transcript_id": "CNN-68760",
+    "matched_terms": {
+      "view": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Let's go to one of our embedded correspondents, Gary Tuchman. He's in an air base not far from the Iraqi border, himself, an air base that's been extraordinarily busy over the past 11 days -- Gary.",
+    "statement": "<WELL>, Wolf, there are some people at this air base who thought the air war <WOULD> <ONLY> last a few days. They were <WRONG>. It's now night No. 13, 11 nights of intense bombing. There are 8,000 servicemen and women at this base that come from the United States, United Kingdom and Australia, also from the Army, Navy, Marines, but particularly the Air Force. It's the pilots who get the most attention, the pilots who have been told for the time being, that they can <EXPECT> to keep their busy flight schedules. We've had an opportunity to interview pilots on camera just after they get off the planes from Iraq. We talked with a pilot a short time ago who has flown in five missions in the last 48 hours alone and asked him how he felt as he was crossing the border into Iraq."
+  },
+  {
+    "transcript_id": "CNN-68760",
+    "matched_terms": {
+      "sure": "ungraded",
+      "around": "ungraded"
+    },
+    "previous_statement": "Well, Wolf, there are some people at this air base who thought the air war would only last a few days. They were wrong. It's now night No. 13, 11 nights of intense bombing. There are 8,000 servicemen and women at this base that come from the United States, United Kingdom and Australia, also from the Army, Navy, Marines, but particularly the Air Force. It's the pilots who get the most attention, the pilots who have been told for the time being, that they can expect to keep their busy flight schedules. We've had an opportunity to interview pilots on camera just after they get off the planes from Iraq. We talked with a pilot a short time ago who has flown in five missions in the last 48 hours alone and asked him how he felt as he was crossing the border into Iraq.",
+    "statement": "You get <A LITTLE> apprehensive because you want to accomplish the mission without getting the <WRONG> people hurt. You want to make <<<SURE>>> that you stay safe. There are a lot of airplanes up there flying <AROUND> so there's a lot of"
+  },
+  {
+    "transcript_id": "CNN-68760",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Frankly, there's been some tension at this base over the last week for three basic reasons. One, this is a military target. Number two at least one Iraqi missile has landed close to here. And number three, there have been at least 15 different sirens indicating a missile alert. But some of that tension has been relieved over the last 48 hours, because it's been two days since the last siren. That's the longest time without a siren since the war began. Wolf, back to you.",
+    "statement": "You <KNOW>, Gary, the minute you say that, you're almost tempting those out there to go ahead and try something, reluctant to say too much <ABOUT> that, since we <KNOW> sirens go off where you are, they almost <ALWAYS> go off where I am, as <WELL>. What's the latest as far as the mood of those pilots you're talking to on a day by day basis, Gary?"
+  },
+  {
+    "transcript_id": "CNN-68760",
+    "matched_terms": {
+      "sure": "ungraded"
+    },
+    "previous_statement": "You know, Gary, the minute you say that, you're almost tempting those out there to go ahead and try something, reluctant to say too much about that, since we know sirens go off where you are, they almost always go off where I am, as well. What's the latest as far as the mood of those pilots you're talking to on a day by day basis, Gary?",
+    "statement": "As we're talking to you, Wolf we can show you one plane is taking off over here, right down the run way. We can tell you the pilots are business-like, very professional -- actually this plane just landed. You'll <HAVE TO> excuse me. It's going that slow, I can be <<<SURE>>> it's not taking off. But the pilots are very business-like, professional, patriotic and they say they'll fly as long as they <HAVE TO>, as much as they <HAVE TO>. Back to you."
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "about": "ungraded",
+      "think": "ungraded",
+      "guess": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "None",
+    "statement": "Hello and welcome. I'm Sunny Hostin joined today by my good friends, Margaret Hoover, Sally Kohn and Mel Robbins. <WELL>, first off, Sony Pictures finding its dirty laundry <ALL> over the Internet. Among the secrets exposed by a huge computer hack, racist email sent by the studio chief making fun of, <<GUESS>> who, our president, President Obama. And this little nugget in American hustle, the movie the biggest star actress Jennifer Lawrence was paid less than <ALL> of her male co-stars, even though she's the biggest star. Unbelievable. So what does it <ALL> mean? Is the Sony leak exposing the dirty little secrets that none of us want to talk <ABOUT> at cocktail parties? So Mel, starting with you. When you heard <ABOUT> this, what did you <<<THINK>>>?"
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "should": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Hello and welcome. I'm Sunny Hostin joined today by my good friends, Margaret Hoover, Sally Kohn and Mel Robbins. Well, first off, Sony Pictures finding its dirty laundry all over the Internet. Among the secrets exposed by a huge computer hack, racist email sent by the studio chief making fun of, guess who, our president, President Obama. And this little nugget in American hustle, the movie the biggest star actress Jennifer Lawrence was paid less than all of her male co-stars, even though she's the biggest star. Unbelievable. So what does it all mean? Is the Sony leak exposing the dirty little secrets that none of us want to talk about at cocktail parties? So Mel, starting with you. When you heard about this, what did you think?",
+    "statement": "<WELL>, I <<<THINK>>> you <SHOULD> pour that glass of water over me because I was so freaking pissed off that I was literally like having a fire attack hotter than the menopause flashes that I get. Look. If there's any woman that deserves, to not <ONLY> make as much as the men that she is working with but make more, it's J-Law. First of <ALL>, she's a three-time Oscar nominee, a one-time Oscar winner for the movie she put Bradley Cooper, her co-star, on the map for. \"Silver lining playbook.\" She also is responsible for a $150 million open with \"Hunger Games\" and the fourth largest open in movie history with \"Catching Fire.\" And if, by the way, was <ALL> before she signed the contract for this movie. It's so -- it's discouraging."
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "may": "ungraded",
+      "about": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "So it's really happening. It's really, really happening.",
+    "statement": "And it's no surprise to the four of us that there is a disparity in wages for men and women across the country. We are fired up <ABOUT> this. but we were fired up <ABOUT> this beforehand. My curiosity is because Hollywood now has been exposed, right? Celebrities are on the line now. <SOMETIMES> it takes ordinary Americans celebrity appeal in order to engage in an issue. And my <HOPE> is that Jennifer Lawrence and some of the celebrities <MAY> become poster children or advocates for equal pay for equal work. This is an opportunity for celebrities to galvanize support across the country."
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "should": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "And it's no surprise to the four of us that there is a disparity in wages for men and women across the country. We are fired up about this. but we were fired up about this beforehand. My curiosity is because Hollywood now has been exposed, right? Celebrities are on the line now. Sometimes it takes ordinary Americans celebrity appeal in order to engage in an issue. And my hope is that Jennifer Lawrence and some of the celebrities may become poster children or advocates for equal pay for equal work. This is an opportunity for celebrities to galvanize support across the country.",
+    "statement": "You <WOULD> <<<THINK>>> we <SHOULD> be hearing from Jennifer Lawrence. And also, she was represented, right? And so, you <WOULD> <<<THINK>>> --"
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "around": "ungraded"
+    },
+    "previous_statement": "I can't.",
+    "statement": "But the <BOTTOM LINE> is, ladies, I mean, Sally, what does that mean for the everyday women? What does that mean for us? What does that mean for folks that are working and toiling <ALL> <AROUND> the country."
+  },
+  {
+    "transcript_id": "CNN-245200",
+    "matched_terms": {
+      "absolutely": "ungraded",
+      "know": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "But the bottom line is, ladies, I mean, Sally, what does that mean for the everyday women? What does that mean for us? What does that mean for folks that are working and toiling all around the country.",
+    "statement": "<ABSOLUTELY> screwed. I mean, if Jennifer Lawrence can get paid 77 percent less than her co-star -- her male co-stars when she's such a big star with an army of representation looking over contracts and <<PRESUMABLY>> knowing the industry standard and <<SORT OF>> <ALL> that, <<IMAGINE>> ordinary women, average women when they go to negotiate for a raise or a salary or a job, by themselves, being subject to <ALL> this. I mean, it just makes you <<<THINK>>> if it can happen there, it can happen anywhere."
+  }
+]
