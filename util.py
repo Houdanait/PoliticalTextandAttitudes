@@ -111,6 +111,8 @@ def count_prms_in_utt(prms_filepath, large_json_filepath, output_filepath):
     # Load the list of PRMs from prms.json
     with open(prms_filepath, 'r') as file:
         prms = json.load(file)
+        
+    print("Potential PRM Length:", len(prms))
     
     # Initialize a dictionary to hold the counts
     prms_count = {prm: 0 for prm in prms}
