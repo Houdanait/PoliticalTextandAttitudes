@@ -1,948 +1,927 @@
 [
   {
-    "transcript_id": "CNN-332258",
+    "transcript_id": "CNN-57062",
     "matched_terms": {
-      "clear": "ungraded"
-    },
-    "previous_statement": "The U.S. who is not -- who is unhappy with this trend is seeking to intentionally elevate the situation by deploying huge nuclear assets nearby the Korean peninsula including nuclear aircraft",
-    "statement": "The situation on the Korean Peninsula has not changed. The regime continues to -- continues to work on its ballistic missile and nuclear programs. This -- what I <WOULD> call charm offensive frankly is fooling no one."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded",
-      "suspect": "ungraded"
-    },
-    "previous_statement": "None",
-    "statement": "Tonight, chilling new details <ABOUT> an al Qaeda plot to kill thousands of Americans. The Justice Department says the prime <<SUSPECT>>, an American citizen, is too dangerous to be tried in civilian court. There's a new government in Iraq tonight, four weeks before the United States hands over sovereignty."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "sure": "ungraded"
-    },
-    "previous_statement": "Tonight, chilling new details about an al Qaeda plot to kill thousands of Americans. The Justice Department says the prime suspect, an American citizen, is too dangerous to be tried in civilian court. There's a new government in Iraq tonight, four weeks before the United States hands over sovereignty.",
-    "statement": "We will stand together and ensure that the future of Iraq is a future of freedom."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
+      "fact": "ungraded",
       "could": "ungraded"
     },
-    "previous_statement": "We will stand together and ensure that the future of Iraq is a future of freedom.",
-    "statement": "A foreign company wins a huge border security contract. It <<COULD>> be worth $10 billion. My guest tonight is the chairman of the House Committee on Homeland Security, Congressman Christopher Cox. Radical Islamists target westerners in Saudi Arabia. Former CIA officer Robert Baer says Saudi Arabia is on the brink of chaos. He's my guest tonight. And Americans facing skyrocketing energy costs."
+    "previous_statement": "This tragic incident is a loss for us. We've lost a friend, a good leader in this country.",
+    "statement": "Alarming enough that one of Afghanistan's three vice presidents <<COULD>> be shot dead. More alarming that it <<COULD>> happen this way, in the middle of the day in the middle of the capital. Also surprising was the <FACT> that Mr. Qadir had no security guards with him, but that's the way he wanted it."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-57062",
     "matched_terms": {
-      "opinion": "ungraded"
+      "around": "ungraded",
+      "believe": "ungraded"
     },
-    "previous_statement": "Tonight, our special report: Outta Gas.",
-    "statement": "This is LOU DOBBS TONIGHT for Tuesday, June 1. Here now for an hour of news, debate and <<OPINION>> is Lou Dobbs."
+    "previous_statement": "Alarming enough that one of Afghanistan's three vice presidents could be shot dead. More alarming that it could happen this way, in the middle of the day in the middle of the capital. Also surprising was the fact that Mr. Qadir had no security guards with him, but that's the way he wanted it.",
+    "statement": "A colleague and a friend of ours who spent several hours with him last night said he didn't really <<<BELIEVE>>> in having lots of security guards <AROUND>."
   },
   {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded",
-      "suspect": "ungraded"
-    },
-    "previous_statement": "This is LOU DOBBS TONIGHT for Tuesday, June 1. Here now for an hour of news, debate and opinion is Lou Dobbs.",
-    "statement": "Good evening. The government today released disturbing new details <ABOUT> one of its most high-profile terrorism suspects, Jose Padilla. The Justice Department says Padilla planned to kill hundreds if not thousands of Americans by detonating a radiological dirty bomb or blowing up hotels and apartment buildings. The government has held Padilla, an American citizen, in a military jail for two years, without filing any criminal charges against Padilla. Justice Correspondent Kelli Arena reports -- Kelli."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "should": "ungraded"
-    },
-    "previous_statement": "KSM suggested that they enter the United States by way of Mexico or by way of Puerto Rico and that, once in the country, they locate high-rise apartment buildings that had natural gas applied to all floors, that they rent two apartments in each building, seal those apartments, turn on the gas, and set timers to detonate and destroy the buildings simultaneously at a later time.",
-    "statement": "The documents show Padilla was equipped with thousands of dollars in cash from al Qaeda, a cell phone, and contact names and numbers. The government details his al Qaeda training with an emphasis on explosives and his relationship with a series of al Qaeda lead operatives. Padilla's lawyer says, if the government has the goods on him, he <SHOULD> be charged and have his day in court."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "Words many Iraqis have been waiting to hear for decades, a new Iraqi government different from Saddam Hussein and, more recently, planning to be different from the U.S.-led occupation authorities. U.N. Special Envoy Lakhdar Brahimi spent weeks helping to cobble together the interim government, a presidential council of four, plus 31 Cabinet ministers.",
-    "statement": "I <<<THINK>>> that the people of Iraq will be praying <ALL> over the country for the success of their mission which aims at starting the rebuilding of the new Iraq."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "seem": "ungraded",
-      "hope": "ungraded"
-    },
-    "previous_statement": "We, the Iraqis, also look forward for being granted full sovereignty.",
-    "statement": "And that promise of sovereignty seemed to spark <HOPE> among many Iraqis we talked to, <HOPE> that had not been heard in a long time."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "hope": "ungraded"
-    },
-    "previous_statement": "And that promise of sovereignty seemed to spark hope among many Iraqis we talked to, hope that had not been heard in a long time.",
-    "statement": "Ghazi's a true Iraqi, and, hopefully, he will <CHANGE> this country into a better and safer place for the Iraqis."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "President Bush today welcomed the formation of the new Iraqi government, but President Bush warned there's likely to be more violence ahead. White House Correspondent Suzanne Malveaux reports -- Suzanne.",
-    "statement": "<WELL>, Lou, after President Bush's Rose Garden ceremony, we are told that he called the new president and the prime minister of the Iraqi interim government to congratulate them, to say that he was looking forward to meeting with them. This after he had said before that he <<COULD>> work with this government, that it was diverse, that these are individuals considered loyal to their own people. But the big <QUESTION> here, of course, is legitimacy. This is a government that is mostly made up of Iraqi exiles with close ties to Washington. The big <QUESTION> here, whether or not Iraqis will consider the new authority legitimate. The Bush administration denied, however, earlier today hand-picking Iraq's new leadership."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "may": "ungraded"
-    },
-    "previous_statement": "Well, Lou, after President Bush's Rose Garden ceremony, we are told that he called the new president and the prime minister of the Iraqi interim government to congratulate them, to say that he was looking forward to meeting with them. This after he had said before that he could work with this government, that it was diverse, that these are individuals considered loyal to their own people. But the big question here, of course, is legitimacy. This is a government that is mostly made up of Iraqi exiles with close ties to Washington. The big question here, whether or not Iraqis will consider the new authority legitimate. The Bush administration denied, however, earlier today hand-picking Iraq's new leadership.",
-    "statement": "I had no role. I mean, occasionally, somebody said this person <MAY> be interested or that. But I had no role in picking. Zero."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "perhaps": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "These are not America's puppets. These are independent-minded Iraqis who are determined to take their country to security and democracy.",
-    "statement": "Now, Lou, the thinking here at the White House, the big concerns here are the next couple days, they say <<PERHAPS>> even the next couple of days. More important than that June 30 deadline is really what happens. They are trying to get a U.N. Security Council resolution that will win the approval of some key allies, and really the <QUESTION> is how long the multinational force is going to be in Iraq, what <<KIND OF>> power they're going to have. Also, of course, what happens to these two leaders leading up to the June 30 deadline, whether or not they are assassinated. We are told, of course, that they are targets of assassination, and whether or not the Iraqi people themselves consider them legitimate leaders -- Lou."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "clear": "ungraded"
-    },
-    "previous_statement": "Now, Lou, the thinking here at the White House, the big concerns here are the next couple days, they say perhaps even the next couple of days. More important than that June 30 deadline is really what happens. They are trying to get a U.N. Security Council resolution that will win the approval of some key allies, and really the question is how long the multinational force is going to be in Iraq, what kind of power they're going to have. Also, of course, what happens to these two leaders leading up to the June 30 deadline, whether or not they are assassinated. We are told, of course, that they are targets of assassination, and whether or not the Iraqi people themselves consider them legitimate leaders -- Lou.",
-    "statement": "Lisa, thank you. Lisa -- we appreciate it very much. Suzanne, thank you very much. Suzanne Malveaux from the white house. Senator John Kerry today accused President Bush of ignoring the threat of nuclear terrorism. In a speech in West Palm Beach, Florida, Senator Kerry said he <WOULD> <TAKE> immediate action to cut off the supply of nuclear materials to terrorists if he becomes president."
-  },
-  {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-57062",
     "matched_terms": {
       "know": "ungraded",
-      "sure": "ungraded"
+      "well": "ungraded"
     },
-    "previous_statement": "Lisa, thank you. Lisa -- we appreciate it very much. Suzanne, thank you very much. Suzanne Malveaux from the white house. Senator John Kerry today accused President Bush of ignoring the threat of nuclear terrorism. In a speech in West Palm Beach, Florida, Senator Kerry said he would take immediate action to cut off the supply of nuclear materials to terrorists if he becomes president.",
-    "statement": "The first step is to safeguard <ALL> bomb-making material worldwide. That means making <<<SURE>>> that we <KNOW> where they are and then locking up those materials and securing those materials wherever they are."
+    "previous_statement": "A colleague and a friend of ours who spent several hours with him last night said he didn't really believe in having lots of security guards around.",
+    "statement": "The vehicle came through here, the main gates of the Ministry of Public Works. It was a right hand drive, so the driver on this side, the passenger on this. Officials say two gunmen jumped from behind bushes just over there, and opened fire. I counted eight separate bullet holes in the windshield. The passenger side window where Mr. Qadir was sitting, <COMPLETELY> blown it. The vehicle continued a short distance, still under heavy fire, crashed into a wall. Both occupants dead. (voice-over): Eyewitnesses say the two gunmen jumped into a passing taxi and sped off. As for who did it and why there are no definite answers yet. Mr. Qadir was a <WELL> known warlord in eastern Afghanistan. He had been a fierce foe of the Taliban and a leading commander in the Northern Alliance's fight to topple the extremist Islamic regime. But to the new transitional government, there is <ONLY> one word to describe his murderers."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-204736",
     "matched_terms": {
-      "clear": "ungraded",
-      "could": "ungraded"
+      "know": "ungraded",
+      "about": "ungraded"
     },
-    "previous_statement": "The first step is to safeguard all bomb-making material worldwide. That means making sure that we know where they are and then locking up those materials and securing those materials wherever they are.",
-    "statement": "The Bush-Cheney campaign responded by saying the effort to limit the spread of nuclear weapons continues to be an urgent priority for President Bush. The federal government today awarded a multibillion-dollar border security contract to a foreign company, and, in so doing, the government passed over two U.S. corporations. The Department of Homeland Security awarded the lucrative contract to Accenture, which is based in Bermuda. That contract <<COULD>> be worth as much as $10 billion over 10 years. Lisa Sylvester reports from Washington."
+    "previous_statement": "Thanks for having me today.",
+    "statement": "Just give me a <<SENSE>> of you <KNOW>, what the sentiment is on campus <ABOUT> -- on campus <ABOUT> Rand Paul's visit."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-204736",
     "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Just give me a sense of you know, what the sentiment is on campus about -- on campus about Rand Paul's visit.",
+    "statement": "<WELL>, there are two different sides to the sentiment. You have the people that are skeptical call the Republican Party, you <KNOW>, people of African descent in America are leaning toward the Democratic Party. But you also have the people excited and are curious on what exactly Rand Paul's going to talk <ABOUT> today or Senator Paul."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, there are two different sides to the sentiment. You have the people that are skeptical call the Republican Party, you know, people of African descent in America are leaning toward the Democratic Party. But you also have the people excited and are curious on what exactly Rand Paul's going to talk about today or Senator Paul.",
+    "statement": "<WELL> I was going to ask you I mean, what do you want Rand Paul to talk <ABOUT>?"
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well I was going to ask you I mean, what do you want Rand Paul to talk about?",
+    "statement": "<WELL>, our student government has been heavily involved with attacking the war on drugs as <WELL> the debt pay to repeal in Maryland and we want to talk to him <ABOUT> that. Because we understand that the whole fiscal conservatives are very concerned with those movements, as <WELL>."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "We often hear that Ron Paul, Rand Paul's father was sort of a God among young people. He had many, many young people supporting him. Do you sense that Rand Paul has that that same support among young people?",
+    "statement": "It's <A LITTLE> different. I was actually a big supporter of Ron Paul, as <WELL>. I followed some of his policies. And I <KNOW> a couple of people on campus. So we're curious <ABOUT> Rand Paul. He has the opportunity to build upon that foundation."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "definitely": "ungraded",
+      "about": "ungraded",
+      "around": "ungraded",
+      "seem": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "What's different between Rand Paul and Ron Paul?",
+    "statement": "<WELL>, some people say Ron Paul is a big ideologue, that he <WOULD> <NEVER> compromise. Rand Paul seems to have a lot of press <AROUND> him and who is very -- actually a lot of things we're talking <ABOUT> his filibuster for 13 hours. He <DEFINITELY> put his name on the hot spot."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "definitely": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "So that impressed a lot of students.",
+    "statement": "Yes, <DEFINITELY> impressed a lot of students, a lot of students made jokes <ABOUT> it, but he <DEFINITELY> put his name in our ears because not a lot of students knew <ABOUT> him before hand."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "seem": "ungraded"
+    },
+    "previous_statement": "Yes, definitely impressed a lot of students, a lot of students made jokes about it, but he definitely put his name in our ears because not a lot of students knew about him before hand.",
+    "statement": "The Republicans really want to embrace the black community. What in your mind do Republicans <NEED TO> say to <SEEM> more welcoming?"
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "think": "ungraded",
+      "believe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "The Republicans really want to embrace the black community. What in your mind do Republicans need to say to seem more welcoming?",
+    "statement": "<WELL>, I <<<THINK>>> some of the issues with the Republican Party, the media takes extreme remarks and try to paint it as broad based on Republican beliefs. But I <<<BELIEVE>>> the Republican Party if they focus on things such as reforming the war on drugs or the debt payment repeal or just try to make fiscal conservatives and those philosophies more appealing to minorities <WOULD> have go a long way."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "know": "ungraded",
+      "think": "ungraded",
+      "appear": "ungraded"
+    },
+    "previous_statement": "Well, I think some of the issues with the Republican Party, the media takes extreme remarks and try to paint it as broad based on Republican beliefs. But I believe the Republican Party if they focus on things such as reforming the war on drugs or the debt payment repeal or just try to make fiscal conservatives and those philosophies more appealing to minorities would have go a long way.",
+    "statement": "And you <KNOW>, you have African-American conservatives like Dr. Ben Carson, he appeared on Fox News. He's become this Republican darling, but he's gotten a lot of blowback too. Why do you <<<THINK>>> that is?"
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "And you know, you have African-American conservatives like Dr. Ben Carson, he appeared on Fox News. He's become this Republican darling, but he's gotten a lot of blowback too. Why do you think that is?",
+    "statement": "<WELL> I <<<THINK>>> a big issue and a lot of people are concerned on Howard campus they don't want African-Americans to become tokenized by the Republican Party and they fear that in African communities in regards to Dr. Ben Carson."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "best": "ungraded",
+      "believe": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "What is your assessment of Ben Carson?",
+    "statement": "<WELL> -- I apologize, Dr. Ben Carson. I've listened to some of his remarks and they <<KIND OF>> stand on how he equated homosexuality to bestiality, but at the same time I do <<<BELIEVE>>> them, it's been <A LITTLE> overblown."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "believe": "ungraded"
+    },
+    "previous_statement": "Do you -- I mean are you open to what he says if he ran for office, would many in the black community embrace him?",
+    "statement": "I don't <<<BELIEVE>>> so."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "definitely": "ungraded",
+      "know": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Why not?",
+    "statement": "<WELL>, it depends what type of office he's running for. But I <KNOW> he's <DEFINITELY> -- his first speech at the prayer breakfast they had a lot of -- there's a lot of push behind him, but with his more recent comments towards homosexuality, people are very wary of him."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "may": "ungraded",
+      "maybe": "ungraded",
       "think": "ungraded"
     },
-    "previous_statement": "The U.S. Visit Program (ph) is a jackpot for consulting firms. The multibillion- dollar contract is to monitor visitors who enter the United States by air, sea or land. That's why it came as a surprise to some that the contract was awarded to Accenture LLP, whose parent company is headquartered in Bermuda.",
-    "statement": "I <<<THINK>>> U.S. visit is a good description of the Accenture business plan. They visit the United States to <TAKE> a government taxpayer-financed contract. They depart from the United States when it's time to pay their fare share of our national security costs."
+    "previous_statement": "Well, it depends what type of office he's running for. But I know he's definitely -- his first speech at the prayer breakfast they had a lot of -- there's a lot of push behind him, but with his more recent comments towards homosexuality, people are very wary of him.",
+    "statement": "Got you. Stanford Fraser, thanks so much. And <<MAYBE>> we'll talk to you after Rand Paul's speech don't you <<<THINK>>>?"
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "well": "ungraded"
+    },
+    "previous_statement": "Thanks so much.",
+    "statement": "<WELL> thank you for having me."
+  },
+  {
+    "transcript_id": "CNN-204736",
+    "matched_terms": {
+      "reportedly": "ungraded"
+    },
+    "previous_statement": "Well thank you for having me.",
+    "statement": "You're welcome. He left office in disgrace now Anthony Weiner is <<REPORTEDLY>> hoping to be the next comeback kid in the world of politics. But, will voters give him a second chance?"
+  },
+  {
+    "transcript_id": "CNN-352314",
     "matched_terms": {
       "about": "ungraded"
     },
-    "previous_statement": "I think U.S. visit is a good description of the Accenture business plan. They visit the United States to take a government taxpayer-financed contract. They depart from the United States when it's time to pay their fare share of our national security costs.",
-    "statement": "Civil liberties groups, already concerned <ABOUT> the U.S. government building a database tracking travelers, where U.S. privacy laws will not extend to the overseas company."
+    "previous_statement": "None",
+    "statement": "OK, we're following some breaking news. Senator Elizabeth Warren has released a DNA test and a video <ABOUT> her family's Native American ancestry. That's just a portion of it. Joining us now to talk <ABOUT> this and so much more, we have Senator Dick Durbin. He's the Democratic Whip and a member of the House Judiciary Committee. Good morning, senator."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "about": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "How are you?",
+    "statement": "I'm doing <WELL>. What do you <<<THINK>>> Elizabeth Warren is up to? Why did she release information <ABOUT> her DNA and family ancestry today?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "perhaps": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "I'm doing well. What do you think Elizabeth Warren is up to? Why did she release information about her DNA and family ancestry today?",
+    "statement": "<WELL>, I haven't heard the story, but, you <KNOW>, the president ridicules her <EVERY> chance he gets. And <<PERHAPS>> that was part of the reason to get back in his face."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "obviously": "ungraded",
+      "could": "ungraded",
+      "about": "ungraded",
+      "view": "ungraded"
+    },
+    "previous_statement": "Well, I haven't heard the story, but, you know, the president ridicules her every chance he gets. And perhaps that was part of the reason to get back in his face.",
+    "statement": "But I'm curious <ABOUT> the timing, and the story just to fill you in and for our viewers who haven't heard it, she has done a DNA test which she says has proven she is at least one-thirty-second Native American. It <<COULD>> be one-five-hundredth, but that she does Native American ancestry. OK. I mean, <OBVIOUSLY> she's rebutting the president's insults. We understand that, but why 22 days before the midterms? Why today?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "sure": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "But I'm curious about the timing, and the story just to fill you in and for our viewers who haven't heard it, she has done a DNA test which she says has proven she is at least one-thirty-second Native American. It could be one-five-hundredth, but that she does Native American ancestry. OK. I mean, obviously she's rebutting the president's insults. We understand that, but why 22 days before the midterms? Why today?",
+    "statement": "I don't <KNOW> why she picked today. Elizabeth's a busy woman. I work with her <EVERY> week, almost <EVERY> day of <EVERY> week, and I'm <<<SURE>>> this wasn't the highest priority for her, but after <ALL> the ridicule she's taken from this president, for goodness sakes to establish she does have Native American heritage, I <<<THINK>>> it's an important issue in her life."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "should": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Is she running for president?",
+    "statement": "<WELL>, she's one of many who are considering it seriously. She <SHOULD>. She's a very talented person."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "obviously": "ungraded",
+      "possibly": "ungraded"
+    },
+    "previous_statement": "Well, she's one of many who are considering it seriously. She should. She's a very talented person.",
+    "statement": "Here's the list. Here's where she ranks on the list right now. <OBVIOUSLY> it's early days, but Joe Biden gets 34 percent of the vote in polling right now, then Kamala Harris, 11. Bernie Sanders, 9. Elizabeth Warren is fourth there at 8 percent. Is that <<POSSIBLY>> what her timing was of why she wanted to get some attention today?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "around": "ungraded",
+      "think": "ungraded",
+      "believe": "ungraded"
+    },
+    "previous_statement": "Here's the list. Here's where she ranks on the list right now. Obviously it's early days, but Joe Biden gets 34 percent of the vote in polling right now, then Kamala Harris, 11. Bernie Sanders, 9. Elizabeth Warren is fourth there at 8 percent. Is that possibly what her timing was of why she wanted to get some attention today?",
+    "statement": "I don't <<<THINK>>> that was the highest priority. <<<BELIEVE>>> me, that list is going to <CHANGE> almost in a weekly basis, and it doesn't include the 30 or 40 other names of people who are wandering <AROUND> Iowa and New Hampshire, so we're very early in the process."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "I don't think that was the highest priority. Believe me, that list is going to change almost in a weekly basis, and it doesn't include the 30 or 40 other names of people who are wandering around Iowa and New Hampshire, so we're very early in the process.",
+    "statement": "But do you <<<THINK>>> that she has decided that she is willing to <TAKE> on President Trump and this is what she's going to do? She'll come out swinging?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "perhaps": "ungraded"
+    },
+    "previous_statement": "But do you think that she has decided that she is willing to take on President Trump and this is what she's going to do? She'll come out swinging?",
+    "statement": "Yes. Oh, that's Elizabeth's actual approach and tactic on everything. She doesn't back off, and that's why Wall Street gets so nervous when she starts talking. But I'll just tell you I've watched her. She's carefully reaching out to people in Illinois, my home state. Democrats who win election get election night calls from Elizabeth Warren. Those are no accident. You <KNOW>, those people who are looking forward to <<PERHAPS>> expanding their political horizon make phone calls to winners on election night."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "absolutely": "ungraded"
+    },
+    "previous_statement": "She's positioning herself.",
+    "statement": "<ABSOLUTELY>."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Absolutely.",
+    "statement": "Let's talk <ABOUT> Saudi Arabia. So as I understand it, this weekend the Ambassador - the Saudi Arabian Ambassador to the U.S. called you."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "sure": "ungraded",
+      "should": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded",
+      "believe": "ungraded",
+      "hope": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "What did he tell you?",
+    "statement": "Almost nothing. He didn't admit anything, didn't deny anything. He did tell me that Khashoggi was his friend and that he knew him, and I <<<THINK>>> he said at one point that he'd actually worked for the Saudi government at one point. When I went into details he said, \"<WELL>, it's <ALL> under investigation.\" I said, \"by whom?\" \"<WELL>, by the Turks and by the Saudis.\" I said, \"shouldn't you put a third party into this because you're denying anything happened. The Turks <<<BELIEVE>>> it did happen. If you had a third.\" \"No, no, no. We'll stick with these two - the Turks and the Saudis - to get to the bottom of it.\" This is just one example of the extremism of the leadership in Saudi Arabia. They suppress their critics and this is the most outrageous example we <<<BELIEVE>>> that has happened. But what are we going to do <ABOUT> it? Are we going to basically say business as usual. Let's build some more hotels and buy some more weapons or sell some more weapons? I <HOPE> it's much more than that. We ought to get out of the war in Yemen. The United States government is backing and helping the Saudis in the war in Yemen that is killing millions of people by warfare and famine. We ought to be out of that tomorrow. We ought to make <<<SURE>>> that we <KNOW> the export of this Wahabi extremism that they've been engaged in for decades is unacceptable."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "fact": "ungraded",
+      "quite": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded",
+      "believe": "ungraded",
+      "feel": "ungraded",
+      "seem": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Almost nothing. He didn't admit anything, didn't deny anything. He did tell me that Khashoggi was his friend and that he knew him, and I think he said at one point that he'd actually worked for the Saudi government at one point. When I went into details he said, \"well, it's all under investigation.\" I said, \"by whom?\" \"Well, by the Turks and by the Saudis.\" I said, \"shouldn't you put a third party into this because you're denying anything happened. The Turks believe it did happen. If you had a third.\" \"No, no, no. We'll stick with these two - the Turks and the Saudis - to get to the bottom of it.\" This is just one example of the extremism of the leadership in Saudi Arabia. They suppress their critics and this is the most outrageous example we believe that has happened. But what are we going to do about it? Are we going to basically say business as usual. Let's build some more hotels and buy some more weapons or sell some more weapons? I hope it's much more than that. We ought to get out of the war in Yemen. The United States government is backing and helping the Saudis in the war in Yemen that is killing millions of people by warfare and famine. We ought to be out of that tomorrow. We ought to make sure that we know the export of this Wahabi extremism that they've been engaged in for decades is unacceptable.",
+    "statement": "<WELL>, none of that's happening. I mean, that's not how President Trump feels. In <FACT>, President Trump keeps - he seems <QUITE> fixated on the arms sales. He says that the Saudis are paying the U.S. $110 billion for weapons. Now, <FACT> checkers don't <<<BELIEVE>>> that number. They <<<THINK>>> it's much less. Nevertheless, his point is if they don't buy it from the U.S., the Saudis will buy it from Russia or China. Does he have a point <ABOUT> that?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "absolutely": "ungraded",
+      "may": "ungraded"
+    },
+    "previous_statement": "Well, none of that's happening. I mean, that's not how President Trump feels. In fact, President Trump keeps - he seems quite fixated on the arms sales. He says that the Saudis are paying the U.S. $110 billion for weapons. Now, fact checkers don't believe that number. They think it's much less. Nevertheless, his point is if they don't buy it from the U.S., the Saudis will buy it from Russia or China. Does he have a point about that?",
+    "statement": "The point I want to get to <MAY> even agree with President Trump on that then say what are you going to do? If you're not going to stop the arms sales, what will you do to the Saudis so that they understand tomorrow that what they've done is <ABSOLUTELY> unacceptable? If it is just a strong letter in some diplomatic channel, <ABSOLUTELY> unacceptable."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "What are you calling on him to do?",
+    "statement": "<WELL>, first get out of Yemen, that's number one. And number two, we've got to come down harder then in terms of sanctions or some aspect of our treatment of them to let them <KNOW> this is unacceptable."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "should": "ungraded",
+      "view": "ungraded"
+    },
+    "previous_statement": "And then they say, \"OK. Then the arms deals off. We're not going to give you billions of dollars.\"",
+    "statement": "So what? We're going to be held up. If that's the basic standard that if they get tough with us we back off. That doesn't sound like Mr. Trump, does it? It shouldn't sound like America. What they are engaged in now, what they've been engaged in for several decades is exporting extremism. And now they're suppressing their critics, they are engaged in this war in Yemen. Let's not <VIEW> them as an ally of the United States that we can count on. We've got to come down hard on them and let them <KNOW> there's a price to pay for this conduct."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "about": "ungraded",
+      "view": "ungraded"
+    },
+    "previous_statement": "So what? We're going to be held up. If that's the basic standard that if they get tough with us we back off. That doesn't sound like Mr. Trump, does it? It shouldn't sound like America. What they are engaged in now, what they've been engaged in for several decades is exporting extremism. And now they're suppressing their critics, they are engaged in this war in Yemen. Let's not view them as an ally of the United States that we can count on. We've got to come down hard on them and let them know there's a price to pay for this conduct.",
+    "statement": "We heard last night in the president's 60 Minutes interview that he said basically <ABOUT> Saudi Arabia, <ABOUT> Putin, <ABOUT> Kim Jong-un, it's not happening in our country. It's not happening on our land. If they're doing these bad acts, it's not here. So we can't worry <ABOUT> it that much."
+  },
+  {
+    "transcript_id": "CNN-352314",
     "matched_terms": {
       "clear": "ungraded"
     },
-    "previous_statement": "Civil liberties groups, already concerned about the U.S. government building a database tracking travelers, where U.S. privacy laws will not extend to the overseas company.",
-    "statement": "It becomes less <CLEAR> when the personal information is moved outside of the United States to another region of the world where the processing occurs, where the integration occurs, whether those privacy rules will be as vigorously enforced."
+    "previous_statement": "We heard last night in the president's 60 Minutes interview that he said basically about Saudi Arabia, about Putin, about Kim Jong-un, it's not happening in our country. It's not happening on our land. If they're doing these bad acts, it's not here. So we can't worry about it that much.",
+    "statement": "That can't be the standard. For goodness sakes when the Russians are killing off former spies in England, when we have this <APPARENT> complicity of the Saudis in the killing of one of their critics, we've got to <TAKE> this seriously wherever it happens. If these are countries that say they are allied with us in values, we <HAVE TO> make it <CLEAR> they are not."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-352314",
     "matched_terms": {
-      "know": "ungraded"
+      "about": "ungraded"
     },
-    "previous_statement": "But there's no guarantee U.S. Visit will even work despite the hefty costs.",
-    "statement": "Terrorists and those who seek to enter the country for illicit purposes <KNOW> the system. These aren't dumb people who are just trying to wander across the border. They game it, they conduct surveillance, they study it, and they look for the loopholes."
+    "previous_statement": "That can't be the standard. For goodness sakes when the Russians are killing off former spies in England, when we have this apparent complicity of the Saudis in the killing of one of their critics, we've got to take this seriously wherever it happens. If these are countries that say they are allied with us in values, we have to make it clear they are not.",
+    "statement": "Speaking of Jared Kushner who has a close relationship with the crown prince, there was a report over the weekend <ABOUT> Jared Kushner's taxes and how he had not paid them for many years through various loopholes and things like that. If Democrats gained control of the House, <WOULD> you investigate President Trumps taxes and his son-in-law's taxes?"
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-352314",
     "matched_terms": {
-      "certainly": "ungraded"
-    },
-    "previous_statement": "Kind of convoluted for a company that means to streamline an operation on border security, Lisa.",
-    "statement": "You <CERTAINLY> <HAVE TO> follow the trail with Accenture. That's one of the things that we learned today."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
       "should": "ungraded",
-      "about": "ungraded",
-      "believe": "ungraded"
+      "well": "ungraded"
     },
-    "previous_statement": "You certainly have to follow the trail with Accenture. That's one of the things that we learned today.",
-    "statement": "Lisa, thank you very much. Lisa Sylvester from Washington. Another Accenture contract has caused some controversy in Illinois. The Illinois comptroller is withholding a $2 million payment from the company. Comptroller Dan Hynes questions whether Illinois <SHOULD> be doing business with Accenture since it pays no state taxes. A state advisory panel says Accenture <SHOULD> be paid since that work was completed. Accenture also claims it does pay taxes in Illinois. Later in the broadcast, I'll be talking <ABOUT> the Accenture contract, the future of the Visit Program and outsourcing our border security with Congressman Christopher Cox. He's the chairman of the House Committee on Homeland Security. That brings us to the topic of tonight's poll: Do you <<<BELIEVE>>> the federal government <SHOULD> be outsourcing its border security? Yes or no. Cast your vote at cnn.com/lou. We'll have the results for you later in the broadcast. Also ahead here tonight, a new government now in Iraq, but American troops are still fighting insurgents. We'll have a live report from the Pentagon. And our special report, Outta Gas. Energy costs are skyrocketing. Middle-class Americans are facing tough choices. We'll have that special report coming up. And a key test of voter sentiment in South Dakota tonight. Both Republicans and Democrats are hoping to build momentum for the November elections."
+    "previous_statement": "Speaking of Jared Kushner who has a close relationship with the crown prince, there was a report over the weekend about Jared Kushner's taxes and how he had not paid them for many years through various loopholes and things like that. If Democrats gained control of the House, would you investigate President Trumps taxes and his son-in-law's taxes?",
+    "statement": "<WELL>, of course the president <SHOULD> have disclosed his tax returns like Republicans and Democrats running for president had done for years. So we don't <KNOW> if he paid any taxes either. This depreciation of real estate to have a setoff against any income <MAY> have resulted no tax liability and it <MAY> have been legal. I don't <KNOW> the answer."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "sure": "ungraded"
+    },
+    "previous_statement": "Well, of course the president should have disclosed his tax returns like Republicans and Democrats running for president had done for years. So we don't know if he paid any taxes either. This depreciation of real estate to have a setoff against any income may have resulted no tax liability and it may have been legal. I don't know the answer.",
+    "statement": "<<<SURE>>>. For <<<SURE>>>. I'm not suggesting that it's illegal, but <WOULD> you investigate? <WOULD> that be one of your top priorities?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "sure": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "Sure. For sure. I'm not suggesting that it's illegal, but would you investigate? Would that be one of your top priorities?",
+    "statement": "No. The top priority for the Democrats if we're lucky enough to <TAKE> control of the House and Senate is to make <<<SURE>>> that we respond to issues that working families across America really care <ABOUT>. Can I mention a few? Healthcare so that we have a healthcare system that protects those with preexisting conditions, making <<<SURE>>> that folks can save more for their retirement, bringing down the cost of prescription drugs; those are the higher priorities. These political investigations that everybody fixes on I don't <<<THINK>>> reach the level, when it comes to most voters, of the high priority."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "No. The top priority for the Democrats if we're lucky enough to take control of the House and Senate is to make sure that we respond to issues that working families across America really care about. Can I mention a few? Healthcare so that we have a healthcare system that protects those with preexisting conditions, making sure that folks can save more for their retirement, bringing down the cost of prescription drugs; those are the higher priorities. These political investigations that everybody fixes on I don't think reach the level, when it comes to most voters, of the high priority.",
+    "statement": "But, I mean, you do have an oversight role. Don't you want to <KNOW> <ABOUT> President Trump's taxes?"
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "But, I mean, you do have an oversight role. Don't you want to know about President Trump's taxes?",
+    "statement": "Of course. We do have oversight rule, but that is not our highest priority. We want to focus on issues that working families and middle income families across America consider important. That, I <<<THINK>>>, will restore some faith in our party as responsive to their needs."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "Thanks for being here. John -",
+    "statement": "<ALL> right, you were talking <ABOUT> the Elizabeth Warren story. She decided to release a DNA test. We're going to speak to the reporter from The Boston Globe that broke this story overnight and walk through exactly what was done here. It's fascinating."
+  },
+  {
+    "transcript_id": "CNN-352314",
+    "matched_terms": {
+      "obviously": "ungraded"
+    },
+    "previous_statement": "She said she's Native American, and I said, \"Pocahontas, Pocahontas, I apologize to you. I apologize. To you, I apologize. To the fake Pocahontas I won't apologize.\"",
+    "statement": "<OBVIOUSLY>, the <QUESTION> is why did she release this? Why do it today? Does this mean she's running for president in 2020? Joining us now is the Boston Globe reporter who broke this story, Annie Linksey. Annie, thank you."
+  },
+  {
+    "transcript_id": "CNN-206378",
     "matched_terms": {
       "could": "ungraded"
     },
-    "previous_statement": "Lisa, thank you very much. Lisa Sylvester from Washington. Another Accenture contract has caused some controversy in Illinois. The Illinois comptroller is withholding a $2 million payment from the company. Comptroller Dan Hynes questions whether Illinois should be doing business with Accenture since it pays no state taxes. A state advisory panel says Accenture should be paid since that work was completed. Accenture also claims it does pay taxes in Illinois. Later in the broadcast, I'll be talking about the Accenture contract, the future of the Visit Program and outsourcing our border security with Congressman Christopher Cox. He's the chairman of the House Committee on Homeland Security. That brings us to the topic of tonight's poll: Do you believe the federal government should be outsourcing its border security? Yes or no. Cast your vote at cnn.com/lou. We'll have the results for you later in the broadcast. Also ahead here tonight, a new government now in Iraq, but American troops are still fighting insurgents. We'll have a live report from the Pentagon. And our special report, Outta Gas. Energy costs are skyrocketing. Middle-class Americans are facing tough choices. We'll have that special report coming up. And a key test of voter sentiment in South Dakota tonight. Both Republicans and Democrats are hoping to build momentum for the November elections.",
-    "statement": "One of the new Iraqi government's first tasks is to negotiate an agreement that will allow U.S. troops to remain in Iraq. That <<COULD>> lead to a <CHANGE> in tactics away from offensive operations. Senior Pentagon Correspondent Jamie McIntyre has the report."
+    "previous_statement": "You saw the tarps from where?",
+    "statement": "I <<COULD>> see them from my bedroom window."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
-      "may": "ungraded"
+      "suspect": "ungraded"
     },
-    "previous_statement": "We will need the partnership of the NNF (ph) to defeat the enemies of Iraq who do not wish for us stability, prosperity and peace.",
-    "statement": "The old U.S.-appointed Iraqi Governing Council unexpectedly stepped aside as soon as the new government was announced, and that, Pentagon officials say, <MAY> put the transition on a faster track, allowing the U.S. military to shift the mission from the anti-insurgent offensives to protecting Iraq's leaders and economic infrastructure. The plan, officials say, is to make Iraq's military another coalition partner with its input based like any other coalition member on the capabilities it provides."
+    "previous_statement": "I could see them from my bedroom window.",
+    "statement": "Neighbors telling CNN what they saw in the suspects' backyard. Also a CNN exclusive --"
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
-      "may": "ungraded"
+      "about": "ungraded"
     },
-    "previous_statement": "The old U.S.-appointed Iraqi Governing Council unexpectedly stepped aside as soon as the new government was announced, and that, Pentagon officials say, may put the transition on a faster track, allowing the U.S. military to shift the mission from the anti-insurgent offensives to protecting Iraq's leaders and economic infrastructure. The plan, officials say, is to make Iraq's military another coalition partner with its input based like any other coalition member on the capabilities it provides.",
-    "statement": "There <MAY> be times when the Iraqis say we can handle this ourselves, get out of the way, we're plenty capable of moving in to secure a town or to secure a situation."
+    "previous_statement": "Neighbors telling CNN what they saw in the suspects' backyard. Also a CNN exclusive --",
+    "statement": "So you moved in <ABOUT> a year ago."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "around": "ungraded"
+    },
+    "previous_statement": "Yes.",
+    "statement": "You'd seen Ariel Castro <AROUND>."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "might": "ungraded",
+      "apparently": "ungraded",
+      "appear": "ungraded"
+    },
+    "previous_statement": "What I do is tell her go across the street and use their phone, now we both calling 911.",
+    "statement": "This morning, Cleveland attempts to heal, yellow ribbons and a heavy heart. NEWSROOM starts now. Good morning. Thank you so much for being with me. I'm Carol Costello. And we begin in Cleveland where the police <EXPECT> charges to be filed today in the decade long disappearance of three women. We'll get the latest on the investigation in just a minute. But first, an update on the conditions of the women rescued. It turns out authorities were <WRONG> when they said <ALL> three were released from the hospital. While Amanda Berry and Gina DeJesus are said to be in good health, Michele Knight, the oldest victim <<APPARENTLY>> remains in the hospital. She had been missing the longest. She's described as weak and thin and not exactly eager to talk to her family. In the meantime, Amanda Berry reached out to her grandmother for their first talk in 10 long years. It's an exchange of love and relief that <MIGHT> bring tears to your eyes. Here's some of that call from WJHL."
+  },
+  {
+    "transcript_id": "CNN-206378",
     "matched_terms": {
       "know": "ungraded"
     },
-    "previous_statement": "For the U.S. military, protecting the new government will be a top priority, especially considering the head of the old Governing Council was assassinated just two weeks ago.",
-    "statement": "We're going to be a quick reaction force, as necessary. We're going to try to <<KIND OF>> turn offensive operations away and turn and try to protect the infrastructure, the oil, the electricity and, of course, these 33 bodies that are now the so-called interim, you <KNOW>, government."
+    "previous_statement": "She's 6, born on Christmas.",
+    "statement": "She was born on Christmas. That's sweet. Honey, I <KNOW> you can't talk too much and I <KNOW> you're happy and we're happy down here for you."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
-      "believe": "ungraded",
+      "know": "ungraded"
+    },
+    "previous_statement": "We've got to get together. We've got to get together soon.",
+    "statement": "I <KNOW>, I can't wait to see you."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "I know, I can't wait to see you.",
+    "statement": "I <KNOW>, I can't wait to see you either. But I love you, honey. Thank God."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "about": "ungraded"
+    },
+    "previous_statement": "I love you too.",
+    "statement": "I've thought <ABOUT> you <ALL> this time. I <NEVER> forgot you."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "I never forgot you either, Grandma.",
+    "statement": "I <KNOW>. God bless your heart."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "might": "ungraded",
+      "appear": "ungraded",
+      "hope": "ungraded"
+    },
+    "previous_statement": "I know. God bless your heart.",
+    "statement": "As you <MIGHT> have heard, Berry confirms in that phone call that the 6-year-old child who escaped with her and is seen in the hospital bed is indeed her daughter. The FBI now says her daughter's name is Jocelyn. She was born on Christmas Day several years into Amanda's alleged imprisonment. Michele Knight's mother says she hopes to see her daughter soon. Michele Knight is 32 years old now, but she was 21 when she disappeared into 2002. She had a rocky relationship with her mother. Police thought Michele Knight <MIGHT> have been a runaway. Knight's mother spoke to NBC's Savannah Guthrie."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "feel": "ungraded"
+    },
+    "previous_statement": "As you might have heard, Berry confirms in that phone call that the 6-year-old child who escaped with her and is seen in the hospital bed is indeed her daughter. The FBI now says her daughter's name is Jocelyn. She was born on Christmas Day several years into Amanda's alleged imprisonment. Michele Knight's mother says she hopes to see her daughter soon. Michele Knight is 32 years old now, but she was 21 when she disappeared into 2002. She had a rocky relationship with her mother. Police thought Michele Knight might have been a runaway. Knight's mother spoke to NBC's Savannah Guthrie.",
+    "statement": "Do you <<FEEL>> that your daughter wants to see you?"
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "probably": "ungraded",
+      "doubt": "ungraded"
+    },
+    "previous_statement": "Do you feel that your daughter wants to see you?",
+    "statement": "Yes. I <KNOW> she's <<PROBABLY>> angry at the world because she thought that she <WOULD> <NEVER> be found, but thank God that somebody did. I had my <DOUBTS>, but then I looked on the bright side, I did go to God and I prayed for some <<KIND OF>> <THING> to tell me, at least, that she's alive or not."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "may": "ungraded",
+      "suspect": "ungraded",
+      "appear": "ungraded"
+    },
+    "previous_statement": "Yes. I know she's probably angry at the world because she thought that she would never be found, but thank God that somebody did. I had my doubts, but then I looked on the bright side, I did go to God and I prayed for some kind of thing to tell me, at least, that she's alive or not.",
+    "statement": "Now, let's turn to the investigation. The FBI now done searching the house for now. Evidence technicians searched it from the crawl space to the attic. They even removed the screen door that became the women's passage to freedom. Let's head live to Cleveland now. CNN's Martin Savidge is outside the courthouse where the suspects <MAY> <APPEAR> soon."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Now, let's turn to the investigation. The FBI now done searching the house for now. Evidence technicians searched it from the crawl space to the attic. They even removed the screen door that became the women's passage to freedom. Let's head live to Cleveland now. CNN's Martin Savidge is outside the courthouse where the suspects may appear soon.",
+    "statement": "Yes, good <QUESTION>, Carol. Here's what we <KNOW>. Charges are anticipated to be filed before the day is out. If they're filed before 6:00 or shortly thereafter, you can <ANTICIPATE> an arraignment tomorrow morning and that <WOULD> <TAKE> place inside of the building behind us and it <WOULD> be <ALL> three of the suspects there at the very same time. Meanwhile, questioning of the suspects. That actually began last night according to the FBI, done jointly by FBI and local authorities and it is continuing again today. But the other real source of information is the house on Seymour itself."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "Yes, good question, Carol. Here's what we know. Charges are anticipated to be filed before the day is out. If they're filed before 6:00 or shortly thereafter, you can anticipate an arraignment tomorrow morning and that would take place inside of the building behind us and it would be all three of the suspects there at the very same time. Meanwhile, questioning of the suspects. That actually began last night according to the FBI, done jointly by FBI and local authorities and it is continuing again today. But the other real source of information is the house on Seymour itself.",
+    "statement": "Investigators scour the home on Seymour Avenue, searching for evidence in this house of horrors. Throughout the day and late into the night, FBI agents meticulously search, removing the front door, searching the crawl space, carting away a red pickup and a jeep. At one point, bringing in a cadaver dog. It's not known what, if anything, the dog found, the FBI taking the lead in the search."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "suspect": "ungraded"
+    },
+    "previous_statement": "This is just the tip of the iceberg. This investigation will take a very long time.",
+    "statement": "The three suspects, 52-year-old Ariel Castro, his brothers Pedro and Onil, behind bars. They'll face more interrogation today. Authorities have 48 hours to file charges and that window closes later tonight. In the neighborhood, residents are still celebrating the jubilance tempered with shock and disbelief."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded"
+    },
+    "previous_statement": "Unreal.",
+    "statement": "And I <KNOW> who lived there and they brought cameras to his house it was like I turned white. My wife told me, what's <WRONG>, are you OK? I was like, I was dumbfounded."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "could": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "This is a miracle. A very, very large miracle and we're all excited.",
+    "statement": "<A BIT> more <ABOUT> that hearing if it goes forward tomorrow morning on schedule. That <WOULD> be before Municipal Judge Lauren Moore. She <WOULD> essentially read the charges against the three suspects. She <WOULD> then ask how will they plea? It's possible they <<COULD>> enter a plea or they <<COULD>> decide to waive entering a plea at that particularly time. Then there's the issue of bond that <WOULD> be brought up. If there's bond, it's going to be exceedingly high I'm being told or there <MAY> be no bond at <ALL>. Cameras will be allowed in the proceedings when they happen -- Carol."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "appear": "ungraded"
+    },
+    "previous_statement": "A bit more about that hearing if it goes forward tomorrow morning on schedule. That would be before Municipal Judge Lauren Moore. She would essentially read the charges against the three suspects. She would then ask how will they plea? It's possible they could enter a plea or they could decide to waive entering a plea at that particularly time. Then there's the issue of bond that would be brought up. If there's bond, it's going to be exceedingly high I'm being told or there may be no bond at all. Cameras will be allowed in the proceedings when they happen -- Carol.",
+    "statement": "Yes, when those proceedings happen, there'll be what, an arraignment? That's initial appearance. Why haven't these men appeared -- why is it taking so long?"
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "could": "ungraded",
+      "may": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Yes, when those proceedings happen, there'll be what, an arraignment? That's initial appearance. Why haven't these men appeared -- why is it taking so long?",
+    "statement": "<WELL>, I <<<THINK>>> you <KNOW> everyone realizes, of course, this is a huge case that has generated a lot of interest. You're dealing with it on the federal and the local level and it is potential here to get a lot bigger. So they're taking it carefully. They're going to push it right up against the time limit they have. I've been told, actually, it doesn't necessarily <HAVE TO> be 48 hours in which they're charged, <<COULD>> go up to 72, it's just common practice to try to do it within 48. So there's not a guarantee we <MAY> necessarily hear today or it <<COULD>> come after hours."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "view": "ungraded"
+    },
+    "previous_statement": "Well, I think you know everyone realizes, of course, this is a huge case that has generated a lot of interest. You're dealing with it on the federal and the local level and it is potential here to get a lot bigger. So they're taking it carefully. They're going to push it right up against the time limit they have. I've been told, actually, it doesn't necessarily have to be 48 hours in which they're charged, could go up to 72, it's just common practice to try to do it within 48. So there's not a guarantee we may necessarily hear today or it could come after hours.",
+    "statement": "Understood. Martin Savidge reporting live from Cleveland this morning. We also want to update you on an issue we first raised yesterday. We questioned how a dispatcher handled Amanda Berry's frantic 911 phone call. The 911 operator now under fire for sending police, quote, \"as soon as we get a car open\" and then hanging up before that police car arrived. The Cleveland Police Department is now looking into this and says the handling of that call is under review. According to a statement, quote, \"We had noted some concerns which will be the focus of our review, including the call taker's failure to remain on the line with Ms. Berry until police arrived on the scene.\" It also credits the dispatcher, though, with acting swiftly and efficiently saying, quote, \"as a result of the call taker's actions, police were dispatched and on the scene in less than 2 minutes.\" Last night, a police spokeswoman talked with Anderson Cooper."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "fact": "ungraded"
+    },
+    "previous_statement": "Understood. Martin Savidge reporting live from Cleveland this morning. We also want to update you on an issue we first raised yesterday. We questioned how a dispatcher handled Amanda Berry's frantic 911 phone call. The 911 operator now under fire for sending police, quote, \"as soon as we get a car open\" and then hanging up before that police car arrived. The Cleveland Police Department is now looking into this and says the handling of that call is under review. According to a statement, quote, \"We had noted some concerns which will be the focus of our review, including the call taker's failure to remain on the line with Ms. Berry until police arrived on the scene.\" It also credits the dispatcher, though, with acting swiftly and efficiently saying, quote, \"as a result of the call taker's actions, police were dispatched and on the scene in less than 2 minutes.\" Last night, a police spokeswoman talked with Anderson Cooper.",
+    "statement": "That is something that the division is looking into at this time. But really, the <BOTTOM LINE> in that call, the call taker was able to get the information that was need, a call was dispatched within 18 seconds and then zone car arrived on scene in under 2 minutes. So really time wasn't a factor and what <NEED TO> be done was done."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "should": "ungraded",
+      "about": "ungraded",
+      "apparently": "ungraded",
+      "suspect": "ungraded",
+      "suppose": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "That is something that the division is looking into at this time. But really, the bottom line in that call, the call taker was able to get the information that was need, a call was dispatched within 18 seconds and then zone car arrived on scene in under 2 minutes. So really time wasn't a factor and what need to be done was done.",
+    "statement": "And there is more new disturbing information this morning <ABOUT> Ariel Castro, the main <<SUSPECT>> in this case. Just into CNN, we obtained court documents, which show Castro severely beat his former wife in 2005, this <<APPARENTLY>> in addition to Castro's arrest for domestic violence in 1993. That charge was later dropped and this is what he looked like in 1993. But we have found out more <ABOUT> what happened in 2005. Court documents show, quote, \"Castro fought with his former wife over the custody of their children. Castro's wife twice suffered a broken nose as <WELL> as broken ribs and knocked out tooth, a blood clot on the brain and two dislocated shoulders.\" Those documents also show that Castro threatened to kill his wife and her daughter, three or four times that year, 2005. Yet after numerous hearings, the case was dismissed as was the protection order his ex- wife had asked for so many more questions <ABOUT> this. But let's talk <ABOUT> -- let's talk <ABOUT> more <ABOUT> these suspects, Ariel Castro and his brothers. Jim Clemente is a retired FBI profiler. He joins us now. I <WOULD> <<SUPPOSE>> these new court documents don't surprise you much."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "And there is more new disturbing information this morning about Ariel Castro, the main suspect in this case. Just into CNN, we obtained court documents, which show Castro severely beat his former wife in 2005, this apparently in addition to Castro's arrest for domestic violence in 1993. That charge was later dropped and this is what he looked like in 1993. But we have found out more about what happened in 2005. Court documents show, quote, \"Castro fought with his former wife over the custody of their children. Castro's wife twice suffered a broken nose as well as broken ribs and knocked out tooth, a blood clot on the brain and two dislocated shoulders.\" Those documents also show that Castro threatened to kill his wife and her daughter, three or four times that year, 2005. Yet after numerous hearings, the case was dismissed as was the protection order his ex- wife had asked for so many more questions about this. But let's talk about -- let's talk about more about these suspects, Ariel Castro and his brothers. Jim Clemente is a retired FBI profiler. He joins us now. I would suppose these new court documents don't surprise you much.",
+    "statement": "No, not much. Actually before I knew this information, we'd already profiled him as basically a narcissistic sadistic control freak and these documents really support that. It takes that <<KIND OF>> a person to actually <TAKE> away somebody's freedom, to be as brutal and as, you <KNOW>, just complete monster to these three victims that he had and then the fourth victim that was born in captivity. So I <<<THINK>>> this is <COMPLETELY> expected in this case and I <WOULD> <EXPECT> that you <WOULD> find that same <<KIND OF>> activity went on with these victims."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "might": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "No, not much. Actually before I knew this information, we'd already profiled him as basically a narcissistic sadistic control freak and these documents really support that. It takes that kind of a person to actually take away somebody's freedom, to be as brutal and as, you know, just complete monster to these three victims that he had and then the fourth victim that was born in captivity. So I think this is completely expected in this case and I would expect that you would find that same kind of activity went on with these victims.",
+    "statement": "We <KNOW> that a domestic violence charge was dismissed in 1993. We don't <KNOW> what happened with this 2005 case, but we don't <<<THINK>>> charges were filed, at least as far as we <KNOW>. If he had paid a penalty for these things, <MIGHT> that have changed him or was that impossible?"
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "fact": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "We know that a domestic violence charge was dismissed in 1993. We don't know what happened with this 2005 case, but we don't think charges were filed, at least as far as we know. If he had paid a penalty for these things, might that have changed him or was that impossible?",
+    "statement": "<WELL>, <WELL>, I don't <KNOW> it <WOULD> have changed him, but <CERTAINLY> <WOULD>'ve alerted people in the community and in the police department that this guy was a violent person. I <<<THINK>>> the <FACT> is that most domestic violence cases end up like this. Unfortunately, they're very difficult to pursue. The women <SOMETIMES> when they're battered don't want to create more of a <<SENSE>> of adversity with the man who is being violent with them. And unfortunately, the system is so tough to deal with that many times they just decide to drop the case."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "should": "ungraded"
+    },
+    "previous_statement": "Well, well, I don't know it would have changed him, but certainly would've alerted people in the community and in the police department that this guy was a violent person. I think the fact is that most domestic violence cases end up like this. Unfortunately, they're very difficult to pursue. The women sometimes when they're battered don't want to create more of a sense of adversity with the man who is being violent with them. And unfortunately, the system is so tough to deal with that many times they just decide to drop the case.",
+    "statement": "But two broken noses, broken ribs and knocked out tooth, blood clot on the brain, two dislocated shoulders. That's extreme domestic abuse."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "could": "ungraded",
+      "should": "ungraded",
+      "think": "ungraded"
+    },
+    "previous_statement": "But two broken noses, broken ribs and knocked out tooth, blood clot on the brain, two dislocated shoulders. That's extreme domestic abuse.",
+    "statement": "It is. I <<<THINK>>> when you have medical evidence like that. I <<<THINK>>> the prosecutors <SHOULD> bring the cases despite whether or not the victim wants to pursue those charges. When you have <DOCUMENTED> medical evidence like that, I <<<THINK>>> they <<COULD>> pursue the case and actually get a conviction. I wish they had done that in this case."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "fact": "ungraded",
+      "should": "ungraded",
+      "about": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "It is. I think when you have medical evidence like that. I think the prosecutors should bring the cases despite whether or not the victim wants to pursue those charges. When you have documented medical evidence like that, I think they could pursue the case and actually get a conviction. I wish they had done that in this case.",
+    "statement": "<WELL>, we're investigating this. We're going to try to find out why. We don't <KNOW> <ALL> the facts surrounding the story. We'll go on with that investigation. I also wanted to ask you <ABOUT> Castro's two brothers. There was an article in the \"Cleveland Plain Dealer\" this morning that said that the two brothers had trouble with alcohol. Both were alcoholics. As far as I <KNOW>, both of them were unemployed. I just found it strange that Ariel Castro <WOULD> pull his brothers into this sick world according to police I <SHOULD> say."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "may": "ungraded",
+      "about": "ungraded",
+      "think": "ungraded",
+      "well": "ungraded"
+    },
+    "previous_statement": "Well, we're investigating this. We're going to try to find out why. We don't know all the facts surrounding the story. We'll go on with that investigation. I also wanted to ask you about Castro's two brothers. There was an article in the \"Cleveland Plain Dealer\" this morning that said that the two brothers had trouble with alcohol. Both were alcoholics. As far as I know, both of them were unemployed. I just found it strange that Ariel Castro would pull his brothers into this sick world according to police I should say.",
+    "statement": "<WELL>, yes. And, yes, according to police, but that's also an assumption that he pulled them in. This <MAY> have been something they <ALL> agreed to in advance. This <MAY> have been something that they had talked <ABOUT> before. You don't <KNOW> if he pulled them in or if they were ready, willing and able to be involved in this. As far as alcohol goes, it doesn't -- alcohol doesn't create a monster. What it does is lower the inhibitions of people and it allows them to do things they wanted to do before but <<SORT OF>> had enough <<SENSE>> and enough morals to stay away from it. I <<<THINK>>> it just creates an opportunity for them to do what they wanted to do in the first place."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "must": "ungraded"
+    },
+    "previous_statement": "Thank you, Carol.",
+    "statement": "Back to the victims now. Gina DeJesus, Amanda Berry and Michele Knight, <ALL> say there'll be many tough days and nights ahead. These women <MUST> now transition from a life in captivity to a family life that is <CERTAINLY> now unfamiliar. Marsha Gilmer Tullis is the executive director of the Family Advocacy for the National Center for Missing and Exploited Children. Thanks for being here, Marcia."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "absolutely": "ungraded",
+      "must": "ungraded",
+      "know": "ungraded",
+      "about": "ungraded",
+      "feel": "ungraded"
+    },
+    "previous_statement": "You're welcome. Good morning.",
+    "statement": "Good morning. Family support, I <WOULD> <EXPECT> will have a lot to do with these women's recovery. I just want to show you a shot of Amanda Berry's home. You see it there with the flowers and the balloons and the welcome home sign. You <KNOW>, I <KNOW> you can't speak specifically <ABOUT> any one case. But this <<KIND OF>> <THING>, it <MUST> make Amanda <<FEEL>> <ABSOLUTELY> joyous."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "certainly": "ungraded",
+      "know": "ungraded",
+      "sure": "ungraded",
+      "about": "ungraded"
+    },
+    "previous_statement": "Good morning. Family support, I would expect will have a lot to do with these women's recovery. I just want to show you a shot of Amanda Berry's home. You see it there with the flowers and the balloons and the welcome home sign. You know, I know you can't speak specifically about any one case. But this kind of thing, it must make Amanda feel absolutely joyous.",
+    "statement": "Indeed it <WOULD>. This is a very exciting time for those of us that work in the area of missing and exploited children. <CERTAINLY>, the community, you <KNOW>, the world is very excited <ABOUT> these women being recovered. And it does <CERTAINLY> say to these victims that there are people out there that care <ABOUT> them. That there <ALWAYS> have been people out there that care <ABOUT> them, but, you <KNOW>, but with <ALL> missing children cases and when there are recoveries, there are <CERTAINLY> things that <NEED TO> be done to ensure that the family can move forward and a very <POSITIVE> and constructive way upon recovery."
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "might": "ungraded"
+    },
+    "previous_statement": "Indeed it would. This is a very exciting time for those of us that work in the area of missing and exploited children. Certainly, the community, you know, the world is very excited about these women being recovered. And it does certainly say to these victims that there are people out there that care about them. That there always have been people out there that care about them, but, you know, but with all missing children cases and when there are recoveries, there are certainly things that need to be done to ensure that the family can move forward and a very positive and constructive way upon recovery.",
+    "statement": "Marsha, many counselors say it's important these victims not be exploited, but already details of their ordeal have been leaked to reporters and family members, some family members have allowed media to overhear phone calls like the one from Amanda Berry to her grandmother. How <MIGHT> this affect this type of victim?"
+  },
+  {
+    "transcript_id": "CNN-206378",
+    "matched_terms": {
+      "know": "ungraded",
+      "could": "ungraded",
+      "think": "ungraded",
       "feel": "ungraded",
       "feeling": "ungraded",
       "well": "ungraded"
     },
-    "previous_statement": "Pentagon sources say the U.S. efforts to strike a cease-fire deal with the radical cleric Muqtada al-Sadr's militia reflects a shift in strategy, too. Allowing Iraqis to bring him to justice later is another way, U.S. officials say, to build support for the new Iraqi government. But even as it seeks to move away from offensive operations, the U.S. military insists it will continue to respond forcefully to attacks, and no one is suggesting the 138,000 U.S. troops will be able to come home until after the Iraqi elections next year.",
-    "statement": "<WELL>, the Pentagon insists that the official turnover and the transfer of sovereignty will occur as scheduled June 30. There is a <FEELING> here that the actual transfer is going on now and that the sooner the Iraqi people <<<BELIEVE>>> that, the sooner U.S. troops will begin to move out of the crossfire -- Lou."
+    "previous_statement": "Marsha, many counselors say it's important these victims not be exploited, but already details of their ordeal have been leaked to reporters and family members, some family members have allowed media to overhear phone calls like the one from Amanda Berry to her grandmother. How might this affect this type of victim?",
+    "statement": "<WELL>, you've got to understand that for family members this is such a wonderful time for them. And when we get into the issue of exploitation, if you will, it is not anything that is done, you <KNOW>, on purpose, if you will. You <KNOW>, there is no way for a family member to <<<THINK>>> this <WOULD> be anything that <<COULD>> be exploiting them and actually, it's what we like to call the honeymoon <PERIOD> where they are so excited. And they want people to be with them in their joy and to <<FEEL>> what it is what they are <FEELING>, as <WELL>. So I don't want to say that we <WOULD> like to call it exploitation per se, it is just that <PERIOD> of time where there is so much happiness and so much joy and they want to share that with the world."
   },
   {
-    "transcript_id": "CNN-85093",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
-      "around": "ungraded"
-    },
-    "previous_statement": "Downtime for the soldiers of the 2nd Battalion 37th Armored Regiment. Anything to relieve the stress of combat. Three hot meals of comfort food to keep up morale, anyway to escape from the horrors they've seen.",
-    "statement": "I've gotten used to it, hearing <ALL> the sounds of war. <SOMETIMES> when it's nice, when it's quiet, like it's been for the past week or so, it makes it <A LITTLE> harder to sleep. I'm just not used to hearing the quiet, <ALL> the -- hearing explosions <ALL> <AROUND> from RPGs and everything else going off."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "feel": "ungraded"
-    },
-    "previous_statement": "I've gotten used to it, hearing all the sounds of war. Sometimes when it's nice, when it's quiet, like it's been for the past week or so, it makes it a little harder to sleep. I'm just not used to hearing the quiet, all the -- hearing explosions all around from RPGs and everything else going off.",
-    "statement": "When you're sad and <<FEEL>> <ALL> alone..."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded"
-    },
-    "previous_statement": "Downtime for some is a time for prayer. For the other soldiers here, a chance to catch up on sleep.",
-    "statement": "It's been one long workday for the past 14 months. There's no weekend, no time to unwind. You <KNOW>, really unwind. Just <<KIND OF>> put the weapon down, sign it back into the arms room, and just go, get out of here."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded",
-      "may": "ungraded",
-      "probably": "ungraded",
-      "maybe": "ungraded",
-      "think": "ungraded",
-      "believe": "ungraded"
-    },
-    "previous_statement": "The last 14 months have provided a crash course in Middle East theology and politics for these soldiers. All volunteered, some wondering whether it was all worth it.",
-    "statement": "I want to say it was worth it. I don't want to say that I wasted my time here. I don't want to <<<BELIEVE>>> that I wasted my time here. <<MAYBE>> that's more of what it is. I <<<THINK>>> we're still accomplishing things, even if it's taking a long time. And it <<PROBABLY>> won't show now. Like it's not going to happen tomorrow. But I do <<<THINK>>> down the line somewhere, you <KNOW>, some of these Iraqis and I <<<THINK>>> some of these kids are going to look back and say <<PROBABLY>> we weren't that bad."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded",
-      "about": "ungraded",
-      "around": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Some who arrived as boys, forced to become men. Fourteen months on, many have seen a fellow soldier die. And all of them will never forget the hardest 14 months of their lives. Guy Raz, CNN, near Najaf in southern Iraq.",
-    "statement": "And our thought tonight is <ABOUT> this country's youth. \"We cannot <ALWAYS> build the future for our youth, but we can build our youth for the future.\" Franklin Delano Roosevelt. <WELL>, hundreds of our country's youth are competing in the nation's largest and longest-running education event, the 77th Annual National Spelling Bee. Two hundred sixty-five champion spellers, ages 9 to 15, are competing in Washington for a $12,000 grand prize. The national contest began this morning with a 25-word written test. That test included words to spell such as \"revelry\" and \"triskaidekaphobia.\" That, of course, the fear of Friday the 13th. The oral competition begins tomorrow, and it ends with a single winner declared Thursday. And we'll keep you posted on the progress of this competition among some of our nation's brightest students. Turning now to politics and a special state election that <<COULD>> have national implications. Voters in South Dakota tonight are choosing a successor to former Congressman Bill Janklow. Janklow resigned earlier this year after he was convicted of manslaughter when he ran a stop sign and killed a motorcyclist. Political experts tell us the election to replace Janklow <<COULD>> <INDICATE> which way voters <AROUND> the country will be voting come November. Ed Henry reports."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "hope": "ungraded"
-    },
-    "previous_statement": "And our thought tonight is about this country's youth. \"We cannot always build the future for our youth, but we can build our youth for the future.\" Franklin Delano Roosevelt. Well, hundreds of our country's youth are competing in the nation's largest and longest-running education event, the 77th Annual National Spelling Bee. Two hundred sixty-five champion spellers, ages 9 to 15, are competing in Washington for a $12,000 grand prize. The national contest began this morning with a 25-word written test. That test included words to spell such as \"revelry\" and \"triskaidekaphobia.\" That, of course, the fear of Friday the 13th. The oral competition begins tomorrow, and it ends with a single winner declared Thursday. And we'll keep you posted on the progress of this competition among some of our nation's brightest students. Turning now to politics and a special state election that could have national implications. Voters in South Dakota tonight are choosing a successor to former Congressman Bill Janklow. Janklow resigned earlier this year after he was convicted of manslaughter when he ran a stop sign and killed a motorcyclist. Political experts tell us the election to replace Janklow could indicate which way voters around the country will be voting come November. Ed Henry reports.",
-    "statement": "South Dakota is considered Bush country, but Democrats have high hopes of seizing a Republican House seat there in today's special election. This follows a recent Democratic pick-up in Kentucky, fueling claims that the president's sliding poll numbers are loosening the GOP's grip on Congress."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "South Dakota is considered Bush country, but Democrats have high hopes of seizing a Republican House seat there in today's special election. This follows a recent Democratic pick-up in Kentucky, fueling claims that the president's sliding poll numbers are loosening the GOP's grip on Congress.",
-    "statement": "And I <<<THINK>>> you're going to see a very good victory by a very good candidate, Stephanie Herseth, and that's going to say one more time that, in Kentucky and South Dakota, two different areas of the country, two different kinds of states, that people are looking for <CHANGE>."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "fact": "ungraded",
-      "should": "ungraded"
-    },
-    "previous_statement": "And I think you're going to see a very good victory by a very good candidate, Stephanie Herseth, and that's going to say one more time that, in Kentucky and South Dakota, two different areas of the country, two different kinds of states, that people are looking for change.",
-    "statement": "Herseth is a 33-year-old attorney and the granddaughter of a former governor. Independent polls give her a 10-point lead over Republican State Senator Larry Diedrich, former head of the South Dakota Soybean Association. Republicans concede Herseth has the edge but say private polling shows a tighter race. The seat was vacated by Republican Bill Janklow who beat Herseth in a tight race in 2002, but resigned after being convicted of vehicular manslaughter. Republicans say that scandal, plus the <FACT> that Herseth has been essentially running for two years, make it an isolated case. Independent analysts say Democrats have some momentum, but they shouldn't get carried away."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded",
-      "could": "ungraded",
-      "about": "ungraded"
-    },
-    "previous_statement": "They really do have reasons to be optimistic. At the same time, we are still looking at a pretty small playing field in terms of seats that are up for grabs here, and Democrats would need to win a disproportionate number, an incredibly large number of those competitive seats, to be able to take the number they need to win control of Congress.",
-    "statement": "Lou, the polls will begin to close in the eastern part of South Dakota tonight at 8:00 Eastern Standard Time. The western part of the state, the polls will close at 9:00 Eastern Standard Time. But officials in both parties say that they do not <EXPECT> results really to come in and really to get a handle on this until <ABOUT> midnight Eastern Standard Time because the race has tightened in recent days, and they <EXPECT> it to be close. The <BOTTOM LINE> here is that there's not much math at stake. It's <ONLY> one seat, as you <KNOW>, but the <BOTTOM LINE> is it's a psychological boost if Democrats <<COULD>> win tonight in Bush country -- Lou."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "Lou, the polls will begin to close in the eastern part of South Dakota tonight at 8:00 Eastern Standard Time. The western part of the state, the polls will close at 9:00 Eastern Standard Time. But officials in both parties say that they do not expect results really to come in and really to get a handle on this until about midnight Eastern Standard Time because the race has tightened in recent days, and they expect it to be close. The bottom line here is that there's not much math at stake. It's only one seat, as you know, but the bottom line is it's a psychological boost if Democrats could win tonight in Bush country -- Lou.",
-    "statement": "Ed, thank you very much. Ed Henry reporting from Washington. Still ahead here, Outta Gas. The highest gasoline prices ever are causing some Americans to rethink their dependence on driving and <ALL> that foreign oil. We'll have a SPECIAL REPORT next. And then, terror in Saudi Arabia. A former CIA case officer says it's just the beginning. I'll be joined by Robert Baer, the author of \"Sleeping With the Devil.\" That and a great deal more still ahead."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "opinion": "ungraded"
-    },
-    "previous_statement": "Ed, thank you very much. Ed Henry reporting from Washington. Still ahead here, Outta Gas. The highest gasoline prices ever are causing some Americans to rethink their dependence on driving and all that foreign oil. We'll have a SPECIAL REPORT next. And then, terror in Saudi Arabia. A former CIA case officer says it's just the beginning. I'll be joined by Robert Baer, the author of \"Sleeping With the Devil.\" That and a great deal more still ahead.",
-    "statement": "LOU DOBBS TONIGHT continues. Here now for more news, debate and <<OPINION>>, Lou Dobbs."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded",
-      "think": "ungraded",
-      "feel": "ungraded"
-    },
-    "previous_statement": "LOU DOBBS TONIGHT continues. Here now for more news, debate and opinion, Lou Dobbs.",
-    "statement": "Tonight, we begin a work-long series of special reports on what looks to be a possible energy crisis in this country. Crude oil prices closed at an <ALL>-time high today, $42.33 a barrel, up $2.45. And looking now at how the country feels <ABOUT> this spike in gasoline prices, a new CNN/\"USA Today\"/Gallup poll shows nearly three out of four of us <<<THINK>>> the current cost of gasoline represents either a crisis or at least a major problem for the country. Kitty Pilgrim reports."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "Tonight, we begin a work-long series of special reports on what looks to be a possible energy crisis in this country. Crude oil prices closed at an all-time high today, $42.33 a barrel, up $2.45. And looking now at how the country feels about this spike in gasoline prices, a new CNN/\"USA Today\"/Gallup poll shows nearly three out of four of us think the current cost of gasoline represents either a crisis or at least a major problem for the country. Kitty Pilgrim reports.",
-    "statement": "When it comes to gas, people are re-thinking their consumption. Day tripping is trimmed."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded"
-    },
-    "previous_statement": "Chores are rationed.",
-    "statement": "You <FIGURE> do I really <NEED TO> go out now, or can I get something, and, you <KNOW>, can I make another trip and do everything together."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "seem": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "You figure do I really need to go out now, or can I get something, and, you know, can I make another trip and do everything together.",
-    "statement": "Suddenly, premium seems <WELL> named."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded"
-    },
-    "previous_statement": "Now the anxiety over energy is showing up in the latest Gallup poll released today. More than half the people polled said gas prices are causing financial hardship, and nearly 60 percent say the increase in gas prices will cause them to drive less this summer -- Lou.",
-    "statement": "Kitty, thank you. It's a serious problem, without a <QUESTION>. One reason for this rise in energy prices is the concern <ABOUT> terrorism in Saudi Arabia, the world's largest oil exporter. Tonight, Saudi Arabian police and troops are hunting radical Islamists after a terrorist attack on western oil workers over the weekend. That attack killed 22 people, including one American. Three of those four terrorists escaped after threatening to kill nearly 250 hostages in a housing complex in Khobar. Joining me now is Robert Baer, a former CIA officer, the author of \"Sleeping With The Devil, How Washington <SOLD> Our Soul For Saudi Crude.\" Robert Baer says Saudi Arabia is moving closer to chaos and terrorists are <<LIKELY>> to launch more attacks. Joining us tonight from Washington, good to have you with us. Were you surprised, shocked that the Saudis released three radical Islamist terrorists."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded",
-      "sure": "ungraded",
-      "about": "ungraded"
-    },
-    "previous_statement": "Kitty, thank you. It's a serious problem, without a question. One reason for this rise in energy prices is the concern about terrorism in Saudi Arabia, the world's largest oil exporter. Tonight, Saudi Arabian police and troops are hunting radical Islamists after a terrorist attack on western oil workers over the weekend. That attack killed 22 people, including one American. Three of those four terrorists escaped after threatening to kill nearly 250 hostages in a housing complex in Khobar. Joining me now is Robert Baer, a former CIA officer, the author of \"Sleeping With The Devil, How Washington Sold Our Soul For Saudi Crude.\" Robert Baer says Saudi Arabia is moving closer to chaos and terrorists are likely to launch more attacks. Joining us tonight from Washington, good to have you with us. Were you surprised, shocked that the Saudis released three radical Islamist terrorists.",
-    "statement": "They either released them or escaped. Either way it makes me <WONDER> <ABOUT> Saudi security services. In an incident like this the first <THING> you want to do is surround the area of operations, make <<<SURE>>> no one gets out. It was <ESSENTIAL> to catch these people to find out if a second attack is coming, interrogate them. They failed to do this, failed to capture. They say they <KNOW> who they are. but still as of tonight they haven't found them."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "may": "ungraded",
-      "should": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "What are your inferences right now, first on the strength of al Qaeda that it can carry out this attack against oil facilities in Saudi Arabia itself. Secondly, manage to escape or manage to be released.",
-    "statement": "<WELL>, there's this accusation out there that Qaeda has a <CERTAIN> amount of sympathy in Saudi Arabia, at least, in a symbolic <<SENSE>>. People support the defiance Osama bin Laden represents. They <MAY> not join in terrorism but they are fed up with the west, fed up with the situation in Palestine between the Israelis and Palestinians in Iraq. They're upset <ABOUT> the corruption inside the royal family. They consider that the price of oil is too low. They <<<THINK>>> it is a national resource which <SHOULD> be preserved. We <<<THINK>>> it's too high. They <<<THINK>>> it's being stolen from them."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "fact": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded",
-      "feel": "ungraded"
-    },
-    "previous_statement": "You spent a lot of years in the Middle East. What is your sense tonight as to how vulnerable Saudi Arabia is to real chaos?",
-    "statement": "I <<<THINK>>> we're on the edge of chaos. I hear that from people inside Saudi Arabia, who were supportive of the regime and depend upon the regime but they're worried <ABOUT> the future. They're worried <ABOUT> the <FACT> that al Qaeda has focused in on westerners, focused in on the petroleum industry. They've gone out of their way not to kill Muslims at this point. And this call for a popular uprising which was made last week. There was another shootout today. There are large parts of Saudi Arabia where the police <<FEEL>> insecure."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "fact": "ungraded",
-      "may": "ungraded",
-      "feel": "ungraded"
-    },
-    "previous_statement": "I think we're on the edge of chaos. I hear that from people inside Saudi Arabia, who were supportive of the regime and depend upon the regime but they're worried about the future. They're worried about the fact that al Qaeda has focused in on westerners, focused in on the petroleum industry. They've gone out of their way not to kill Muslims at this point. And this call for a popular uprising which was made last week. There was another shootout today. There are large parts of Saudi Arabia where the police feel insecure.",
-    "statement": "They <MAY> <<FEEL>> insecure but the <FACT> is the security of those oil facilities is not <ONLY> critically important to the Saudi royal family, but to, indeed, much of the world, the western world. Is it your judgment that the Saudis can maintain the supply of crude to the world?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "They may feel insecure but the fact is the security of those oil facilities is not only critically important to the Saudi royal family, but to, indeed, much of the world, the western world. Is it your judgment that the Saudis can maintain the supply of crude to the world?",
-    "statement": "Today, yes. Tomorrow, I can't say because those oil facilities are above ground. They're extensive. They're difficult to protect. The core facilities are but the pipelines and facilities are not. They <<COULD>> hit them if they wanted to. There is no amount of forces, no amount of money that can protect them at the end of the day if there is a determined effort or if there's inside help. If we're looking at the risk premium today, it is just based on -- no petroleum production was touched in this last attack this weekend. What <WOULD> happen if one of those pipelines were hit? We <WOULD> be <WELL> over $50 or $60 for a barrel of oil."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "sure": "ungraded",
-      "about": "ungraded"
-    },
-    "previous_statement": "Today, yes. Tomorrow, I can't say because those oil facilities are above ground. They're extensive. They're difficult to protect. The core facilities are but the pipelines and facilities are not. They could hit them if they wanted to. There is no amount of forces, no amount of money that can protect them at the end of the day if there is a determined effort or if there's inside help. If we're looking at the risk premium today, it is just based on -- no petroleum production was touched in this last attack this weekend. What would happen if one of those pipelines were hit? We would be well over $50 or $60 for a barrel of oil.",
-    "statement": "Iraq tonight has a new government. Are you reassured <ABOUT> the prospects of the handover of sovereignty and stability in Iraq?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "well": "ungraded"
-    },
-    "previous_statement": "Iraq tonight has a new government. Are you reassured about the prospects of the handover of sovereignty and stability in Iraq?",
-    "statement": "One of the problems we're facing now that Iyad Allawi who is a very pragmatic man, <WELL> regarded in Washington, has been identified as a CIA agent. He's going to <HAVE TO> do a lot to overcome this in the next six months."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "It's been claimed. He's not a CIA agent. Iraqis identify him as one, which is a detriment for him.",
-    "statement": "And with that baggage, what do you <<<THINK>>> the prospects are?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "know": "ungraded",
-      "could": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "Still ahead, outsourcing border security, outsourcing national security. The homeland security department has awarded a multibillion dollar border security contract to a company based outside the United States. We'll be talking with the chairman of the House select committee on homeland security, Congressman Christopher Cox, next. Tonight, a disastrous beginning to the summer travel season at one of this nation's busiest airports. An airporst spokesman says federal security officials are to blame for amazing delays in moving passengers to aircraft. Then, a new option for Americans hoping to save money on their prescription drugs. We'll tell you why many are finding it's not such a great deal after all. That, and much more, ahead.",
-    "statement": "As we reported, the department of homeland security today awarded a border security contract worth as much as $10 billion over a ten-year <PERIOD> to Bermuda-based Accenture. Announcing that decision, Homeland Security Undersecretary for Border Security, Asa Hutchinson said, quote, \"I really don't <<<THINK>>> you <<COULD>> overstate the importance of this responsibilty in terms of the security of this nation.\" And yet, the department of homeland security chose to award this critically important contract to a foreign company. Congressman Christopher Cox is the chairman of the select committee on homeland security and joining us tonight from Capitol Hill. Mr. Chairman, good to have you here. Accenture, as you <KNOW>, is a partnership incorporated in Bermuda through its level of organization. Operates in 40 countries. Are you concerned <ABOUT> the U.S. government awarding something so <CRITICAL> to national security to a foreign-based company?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "clear": "ungraded",
-      "might": "ungraded",
-      "should": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "As we reported, the department of homeland security today awarded a border security contract worth as much as $10 billion over a ten-year period to Bermuda-based Accenture. Announcing that decision, Homeland Security Undersecretary for Border Security, Asa Hutchinson said, quote, \"I really don't think you could overstate the importance of this responsibilty in terms of the security of this nation.\" And yet, the department of homeland security chose to award this critically important contract to a foreign company. Congressman Christopher Cox is the chairman of the select committee on homeland security and joining us tonight from Capitol Hill. Mr. Chairman, good to have you here. Accenture, as you know, is a partnership incorporated in Bermuda through its level of organization. Operates in 40 countries. Are you concerned about the U.S. government awarding something so critical to national security to a foreign-based company?",
-    "statement": "<WELL>, it's a fair <QUESTION>. As you <MIGHT> <<IMAGINE>> with a contract so significant and a competition for this contract so fierce, that <QUESTION> has been turned over and analyzed very, very carefully. The award of the contract makes it very <CLEAR> that <ALL> this work is going to be done in the United States. It is true that Accenture's parent company is incorporated in Bermuda but Accenture in the United States with its 25,000 employees here in the U.S. is going to do this work along with a broader alliance, the smart border alliance, which, in total, has 330,000 employees in the United States. There is an assurance that <ALL> this work will be done here and, of course, <ALL> the taxes will be paid here as <WELL>. In its second quarter filing, Accenture, I <SHOULD> note, paid 35 percent of its earnings in taxes to the United States from its United States operations."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "sure": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "Of Accenture in Bermuda?",
-    "statement": "From Accenture, right. No, no. Accenture is incorporated in Bermuda. This is Accenture in the United States paying taxes here in the United States of America with 25,000 employees. But I <<<THINK>>> it is a fair <QUESTION>. We want to make <<<SURE>>> on something that is of <VITAL> importance to our country who comes in and out of the borders, that we have technology that works, that we have system that works. And we want to make <<<SURE>>> the U.S. contractor is in charge of that."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded",
-      "guess": "ungraded"
-    },
-    "previous_statement": "From Accenture, right. No, no. Accenture is incorporated in Bermuda. This is Accenture in the United States paying taxes here in the United States of America with 25,000 employees. But I think it is a fair question. We want to make sure on something that is of vital importance to our country who comes in and out of the borders, that we have technology that works, that we have system that works. And we want to make sure the U.S. contractor is in charge of that.",
-    "statement": "A U.S. contractor in charge of it. I <<GUESS>> by some stretch of imagination one <<COULD>> consider a subsidiary a U.S. contractor, but they're also a subsidiary of a foreign-based company set up precisely to <AVOID> taxes to the U.S. government and to the states in which they operate. Is that really the message that you want to send to corporate America and to the rest of the country?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "A U.S. contractor in charge of it. I guess by some stretch of imagination one could consider a subsidiary a U.S. contractor, but they're also a subsidiary of a foreign-based company set up precisely to avoid taxes to the U.S. government and to the states in which they operate. Is that really the message that you want to send to corporate America and to the rest of the country?",
-    "statement": "Lou, as I just said, <ALL> the work is going to be done here in the United States with 330,000 employees, not just from Accenture, but several companies. <ALL> of the Accenture companies will be U.S. employees. It is going to be a U.S.-based operation, paying taxes here in the United States. So the U.S. Economy benefits directly this, the U.S. national security benefits directly from this. I <<<THINK>>> it is a fair point to raise it, that's why it was important we got the assurances."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "confident": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "Lou, as I just said, all the work is going to be done here in the United States with 330,000 employees, not just from Accenture, but several companies. All of the Accenture companies will be U.S. employees. It is going to be a U.S.-based operation, paying taxes here in the United States. So the U.S. Economy benefits directly this, the U.S. national security benefits directly from this. I think it is a fair point to raise it, that's why it was important we got the assurances.",
-    "statement": "Let's turn to the issue of the assurances and the visit program itself. Critics are saying, point blank, that they <<<THINK>>> this is going to be a very difficult contract to execute under any circumstance. How <<CONFIDENT>> are you that it can be the -- that deadlines can be met and this consortium executed?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "best": "ungraded",
-      "know": "ungraded",
-      "sure": "ungraded",
-      "should": "ungraded"
-    },
-    "previous_statement": "Let's turn to the issue of the assurances and the visit program itself. Critics are saying, point blank, that they think this is going to be a very difficult contract to execute under any circumstance. How confident are you that it can be the -- that deadlines can be met and this consortium executed?",
-    "statement": "Count me in the camp that will cast a weary eye on <ALL> of this. This is enormously difficult what we're trying to do, with or without technology. The sheer numbers of people we <HAVE TO> look at, number one. And number two, the importance of accuracy, both in capturing the biometric information and matching it against other data bases. I want to make <<<SURE>>> it works. This contract, I <SHOULD> note, which lasts for a decade, potentially, is worth up to $10 billion. It's also worth as little as $10 million. There are milestones along the way to make <<<SURE>>> it works on issues of which technology to use, facial recognition, finger prints, retina scan, photography, even voice. <ALL> of these things are open questions that are subject to proof and experimentation as we go down the road. And we <KNOW> that technology will <CHANGE> and move on us during this <PERIOD>. We want to use the very <BEST> technology available to us."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "absolutely": "ungraded",
-      "know": "ungraded",
-      "sure": "ungraded",
-      "about": "ungraded"
-    },
-    "previous_statement": "Congressman Cox, how satisfied are you with the progress being made by Homeland Security and the other agencies responsible for port security, for border security, along with the visit program and a host of other screening operations that were to have been in place that are not?",
-    "statement": "As you <KNOW>, first starting with U.S. Visit, it's operating on time. This contract, incidentally, was awarded on time. The program began in January of this year. We've just taken this container security initiative to further countries now as a result of our agreement with Europe, but we are seeing a great deal of progress there. The container security initiative for those who aren't <FULLY> aware of what that's <ABOUT> is screening cargo before it gets on the ship in foreign ports, before they come here. We're screening 100 percent of the high-risk cargo that enters the United States of America. There is no <QUESTION> that we have a lot more to do, but when you <TAKE> a look at how much we've done in barely over a year it's <ABSOLUTELY> extraordinary to move from a standing start to what is now being accomplished. Both my Democratic colleagues and Republican colleagues on the Homeland Security Committee, dedicated as we are to the oversight of the Homeland Security Department, a, want to see it succeed and, b, want to make <<<SURE>>> we have constructive oversight to achieve these fundamentally difficult but important tasks."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded"
-    },
-    "previous_statement": "As you know, first starting with U.S. Visit, it's operating on time. This contract, incidentally, was awarded on time. The program began in January of this year. We've just taken this container security initiative to further countries now as a result of our agreement with Europe, but we are seeing a great deal of progress there. The container security initiative for those who aren't fully aware of what that's about is screening cargo before it gets on the ship in foreign ports, before they come here. We're screening 100 percent of the high-risk cargo that enters the United States of America. There is no question that we have a lot more to do, but when you take a look at how much we've done in barely over a year it's absolutely extraordinary to move from a standing start to what is now being accomplished. Both my Democratic colleagues and Republican colleagues on the Homeland Security Committee, dedicated as we are to the oversight of the Homeland Security Department, a, want to see it succeed and, b, want to make sure we have constructive oversight to achieve these fundamentally difficult but important tasks.",
-    "statement": "Oversight is one of the roles of Congress which we're hearing increasingly from both Republicans and Democrats, some lament that Congress has not more rigorous in other areas, in terms of your committee's charter. How concerned are you <ABOUT> not having sufficient oversight and engagement on these issues, particularly in the case of border security watching as many as a million illegal aliens cross our border <EVERY> year?"
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "Oversight is one of the roles of Congress which we're hearing increasingly from both Republicans and Democrats, some lament that Congress has not more rigorous in other areas, in terms of your committee's charter. How concerned are you about not having sufficient oversight and engagement on these issues, particularly in the case of border security watching as many as a million illegal aliens cross our border every year?",
-    "statement": "U.S. Visit, of course, is designed to deal with this problem. It is an entry/exit program. For the first time to begin keeping track of who's coming across the border, what their stay is, and when they leave. That's not been done before. And it's fund mentally necessary if you're going to claim to have control of your borders. I <<<THINK>>> the merger of this function into the Department of Homeland Security gives us an opportunity to get serious <ABOUT> border control in a way we <NEVER> have before. I <<<THINK>>> the oversight and attention we can give to this is enhanced in the house of representatives because we, just like the executive branch which reorganized itself, have created the Homeland Security Committee expressly for this purpose."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "should": "ungraded",
-      "believe": "ungraded"
-    },
-    "previous_statement": "Happy to join you.",
-    "statement": "A reminder to vote in our poll tonight. Do you <<<BELIEVE>>> the federal government <SHOULD> be outsourcing its border security? Cast your vote at cnn.com/lou. We'll have the results coming up for you later in the broadcast. The busy summer travel season kicking off over the weekend of course. Already the higher number bad of travelers putting a strain on airport security. Thousands of people waited in line for hours today at Atlanta's Hartsfield Jackson International Airport. While official blamed a back up at one security checkpoint. Doug Richards of CNN affiliate, WAGA report from Atlanta."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "might": "ungraded",
-      "think": "ungraded"
-    },
-    "previous_statement": "A reminder to vote in our poll tonight. Do you believe the federal government should be outsourcing its border security? Cast your vote at cnn.com/lou. We'll have the results coming up for you later in the broadcast. The busy summer travel season kicking off over the weekend of course. Already the higher number bad of travelers putting a strain on airport security. Thousands of people waited in line for hours today at Atlanta's Hartsfield Jackson International Airport. While official blamed a back up at one security checkpoint. Doug Richards of CNN affiliate, WAGA report from Atlanta.",
-    "statement": "Historically we <<<THINK>>> it <MIGHT> be the busiest day we've had in terms of passenger travel. It is overwhelming is the word we describe. We were anticipating this to be a busy day for us. We weren't anticipating having a wait time of over two hours."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "sure": "ungraded"
-    },
-    "previous_statement": "Why is today so busy?",
-    "statement": "A combination of post-holiday travel, the beginning of the summer holiday travel season. Again, it is our normal Monday for business travelers. So we had a combination of business and leisure travelers but more leisure, I <WOULD> say, than business travelers today."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded",
-      "about": "ungraded",
-      "suppose": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "A combination of post-holiday travel, the beginning of the summer holiday travel season. Again, it is our normal Monday for business travelers. So we had a combination of business and leisure travelers but more leisure, I would say, than business travelers today.",
-    "statement": "That's Doug Richards of WAGA reporting from Atlanta. Hartsfield is one of the countries busiest airports, built to accommodate 55 million travelers. This year it is expected to handle 81 million. Other major airports tell us they've had no significant delays at security check points. <WELL>, many of you wrote in to <ABOUT> the federal governments decision to award a massive border security contract to a foreign company. Pat Wright from Oakland, California wrote in, \"Tell me I'm having a bad dream. I just heard that Accenture, one of the prime exporters of American jobs, has won the contract offered by our own Department of Homeland Security. I'm dreaming, aren't I?\" Not exactly. Jim of Alexandria, Virginia, \"How can a department that is responsible for a defending the homeland select a company that is Bermuda base to implement one of the <MOST IMPORTANT> government programs that DHS will implement?\" Jan Herron in Evergreen, Colorado, \"Will someone please tell me how we are supposed to be vigilant and watch for seven terrorist in our country as <SUGGESTED> by John Ashcroft when we have over 2,000 illegal aliens jumping our borders daily?\" Send us your thoughts at loudobbs@cnn.com. Still ahead, a new Medicare prescription drug card fails to attract millions of Americans who <<COULD>> be saving money with it. We'll have that special report next."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "best": "ungraded",
-      "know": "ungraded"
-    },
-    "previous_statement": "I've heard rumors that the new law is not good for seniors, and I haven't had a chance to go over that yet.",
-    "statement": "I do <KNOW> there are a lot of companies that are issuing it. It is difficult to decide on which card is the <BEST> to use."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded"
-    },
-    "previous_statement": "I do know there are a lot of companies that are issuing it. It is difficult to decide on which card is the best to use.",
-    "statement": "At least 70 companies have been approved to market the discount cards. The cost is $30 per card and <<COULD>> <REDUCE> the prices of <CERTAIN> drugs from <CERTAIN> pharmacies by 10 to 25 percent. Critics say that with rising drug prices, the discount card doesn't so much <REDUCE> prices as it keeps them constant."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "about": "ungraded"
-    },
-    "previous_statement": "At least 70 companies have been approved to market the discount cards. The cost is $30 per card and could reduce the prices of certain drugs from certain pharmacies by 10 to 25 percent. Critics say that with rising drug prices, the discount card doesn't so much reduce prices as it keeps them constant.",
-    "statement": "Really, what they're going to be doing even with a discount is paying the same prices they <WOULD> have paid without a discount <ABOUT> three years ago. So while the drug card is helpful today, we have a fundamental problem in the cost of medications."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "could": "ungraded"
-    },
-    "previous_statement": "There have been a lot of scams so far where even individuals have gone door to door telling seniors that they are selling a Medicare card to them and getting an enrollment fee from them.",
-    "statement": "A legitimate card will have a Medicare approved seal. The Bush administration argues that with the cards brandname drugs <<COULD>> be reduced by as much as 18 percent. Critics fear that a $530 billion behemoth carries with it no mechanism to restrain rising drug prices which, after <ALL>, was the original reason for the Medicare expansion. Louise Schiavone, CNN, Washington."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "fact": "ungraded",
-      "about": "ungraded"
-    },
-    "previous_statement": "Wall Street opened the week with only modest gains, but they were gains. The Dow up 14 points, the Nasdaq up four. The S&P; 500 up a half a point. The slight gains coming despite a record day for oil prices. Christine Romans is here with that story.",
-    "statement": "The biggest spike in oil prices since the first Gulf War, up $2.50 a barrel today, the highest price in the 21 years crude oil's been trading on the New York Mercantile Exchange. And since crude is <ABOUT> half the price of gasoline, it is especially tough on motorists. The government says average gas prices dropped last week for the first week in five, but still up 58 cents from a year ago and will track higher still this summer. American workers are struggling with those high energy bills and stagnant wages. Their bosses are not. Chief executive officers are getting paid better than ever. That excessive CEO compensation that you talk <ABOUT> frequently here isn't any less excessive. In <FACT>, median CEO pay rose 27 percent last year to $4.6 million. Lou, the Corporate Library says it sees no signs whatsoever that CEO pay will slow."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "well": "ungraded"
-    },
-    "previous_statement": "It is a broken record.",
-    "statement": "<WELL>, it's a sad one, whatever it is. Thank you very much, Christine Romans. Still ahead, we'll have the results of tonight's poll. But first, a reminder to check out our website for the complete list of companies we've confirmed to be exporting America. CNN.com/lou. Stay with us."
-  },
-  {
-    "transcript_id": "CNN-85093",
-    "matched_terms": {
-      "may": "ungraded",
-      "should": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Well, it's a sad one, whatever it is. Thank you very much, Christine Romans. Still ahead, we'll have the results of tonight's poll. But first, a reminder to check out our website for the complete list of companies we've confirmed to be exporting America. CNN.com/lou. Stay with us.",
-    "statement": "<WELL>, the results of tonight's poll. There weren't many <UNDECIDED> votes. 3 percent of you say the federal government <SHOULD> outsource border security. 97 percent say you don't <<<THINK>>> that's such a good idea. Thanks for being with us tonight. Please join us tomorrow. We'll have a special report live from the border with Mexico in Arizona. New technology and increased manpower <MAY> not be enough to keep illegal aliens from crossing our borders and what <ABOUT> terrorists? And in \"Face Off\" is it time for the United States to tap the Strategic Petroleum Reserve? We'll have the debate on the issue. Please be with us. For <ALL> of us here, good night from New York. \"ANDERSON COOPER 360\" coming up next. TO ORDER A VIDEO OF THIS TRANSCRIPT, PLEASE CALL 800-CNN-NEWS OR USE OUR SECURE ONLINE ORDER FORM LOCATED AT www.fdch.com"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "around": "ungraded"
-    },
-    "previous_statement": "None",
-    "statement": "And hello, everyone. It's so nice to have you along with us on this Thursday morning. I'm Pamela Brown in for Ashleigh Banfield. And we start this morning with the deadliest train accident in Spain in years. This new incredible video right here shows a terrifying moment when a high-speed train jumped the tracks just before arriving at station in northwestern Spain. At least 80 people were killed and 178 were injured, including at least five Americans. CNN's Karl Penhaul's joins us now from Spain where the incident happened. And, Karl, tell us, just looking at that video is incredible. We see that first car make it <AROUND> the tight curve there and then the rest of the train just topples over. Al Goodman, actually, is joining us now. Al, tell us what's happened with the crash. What are we learning?"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "clear": "ungraded",
-      "must": "ungraded",
-      "sure": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "And hello, everyone. It's so nice to have you along with us on this Thursday morning. I'm Pamela Brown in for Ashleigh Banfield. And we start this morning with the deadliest train accident in Spain in years. This new incredible video right here shows a terrifying moment when a high-speed train jumped the tracks just before arriving at station in northwestern Spain. At least 80 people were killed and 178 were injured, including at least five Americans. CNN's Karl Penhaul's joins us now from Spain where the incident happened. And, Karl, tell us, just looking at that video is incredible. We see that first car make it around the tight curve there and then the rest of the train just topples over. Al Goodman, actually, is joining us now. Al, tell us what's happened with the crash. What are we learning?",
-    "statement": "Hi, Pamela. <WELL>, that video that you're just referring to, from the railway, video, no sound on that video, we see the moment of impact with the lead locomotive coming past this area right behind me and basically going off the track as <WELL> as the first passenger car. But something happened <A LITTLE> bit further back on the train, <A LITTLE> bit of <<SORT OF>> a puff or some <<SORT OF>> smoke. We're not <<<SURE>>> what that is. Investigators clearly taking a look at that. But you can see the impact now. This day, we have been here for hours. We've been watching them lifting up these damaged, destroyed cars that have blood in them, that the insulation is out, the seats are <ALL> a tumble. The scene <MUST> have been horrific and a third of the people aboard that train have already died. Pamela?"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "know": "ungraded",
-      "about": "ungraded",
-      "hope": "ungraded"
-    },
-    "previous_statement": "Hi, Pamela. Well, that video that you're just referring to, from the railway, video, no sound on that video, we see the moment of impact with the lead locomotive coming past this area right behind me and basically going off the track as well as the first passenger car. But something happened a little bit further back on the train, a little bit of sort of a puff or some sort of smoke. We're not sure what that is. Investigators clearly taking a look at that. But you can see the impact now. This day, we have been here for hours. We've been watching them lifting up these damaged, destroyed cars that have blood in them, that the insulation is out, the seats are all a tumble. The scene must have been horrific and a third of the people aboard that train have already died. Pamela?",
-    "statement": "Just horrific. And do we <KNOW> anything more <ABOUT> the injured here? I'm assuming they've hopefully pulled <ALL> the passengers out of there, right?"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "about": "ungraded"
-    },
-    "previous_statement": "... haven't been told the nationalities of the deceased or the nationalities of ...",
-    "statement": "I'm having some technical difficulties will with Al Goodman. We'll check back in with him soon to talk <ABOUT> that train crash there in Spain. And now we want on move to Tampa, Florida. That's where a cargo train derailed overnight spilling ethanol into the streets there. Joining us now to talk <ABOUT> this, Grayson Kamm, from CNN affiliate WTSP. Grayson nice to have you here with us. So where are we in the cleanup here?"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "sure": "ungraded",
-      "might": "ungraded",
-      "about": "ungraded",
-      "around": "ungraded",
-      "seem": "ungraded"
-    },
-    "previous_statement": "I'm having some technical difficulties will with Al Goodman. We'll check back in with him soon to talk about that train crash there in Spain. And now we want on move to Tampa, Florida. That's where a cargo train derailed overnight spilling ethanol into the streets there. Joining us now to talk about this, Grayson Kamm, from CNN affiliate WTSP. Grayson nice to have you here with us. So where are we in the cleanup here?",
-    "statement": "Yeah, Pamela, firefighters have spent the morning basically trying to make <<<SURE>>> that this train doesn't catch fire. They've had ethanol spilled out from several of the cars in this and it sits right in the heart of one of the busiest ports in the Gulf of Mexico. I'll step aside. You can <<KIND OF>> get a lay of the land. Even from right out here, outside main gate, you can see that black tanker you see is the last car on the train. And as we move to the left, you'll see the next car seems to be tilting towards you. That's because it has come off the rails. And then as we go to the left, you'll see through the trees just low black tankers. Those are <ALL> tankers that carried ethanol on their side. They spilled from three of them and firefighters spent the <MIGHT> putting fire resistant foam on top of that ethanol to make <<<SURE>>> it does not catch fire. Of course, ethanol is what's mixed in with gasoline in a lot of states. It's very flammable. They try to contain it with that. And then they brought in contractors to actually stop the leaks in the tankers. Now that's where they managed to do. That's the state we're in right now. They've stopped those leaks. They've contained the ethanol. Their next big challenge is trying to get this train back on its rails to get it out of the way and get this port up and running <FULLY> again. They're bringing in equipment from Atlanta that's actually going to come down here and hoist <ALL> of this up. As you can <<IMAGINE>> when you're dealing with tankers full of ethanol, firefighters are going to be very wary as they go through that process. You do hear some trucks going behind me. <ABOUT> 9:00 this morning, the port was able to actually divert <ALL> these big trucks, <AROUND> 10,000 a day, through side roads and detours to keep the port up and running. It's the biggest economic engine in the entire western part of central Florida, so they want to keep these jobs ready, but, of course, they are mindful of the safety concern, <ALL> the highly flammable fuel sitting right behind me. Pamela?"
-  },
-  {
-    "transcript_id": "CNN-211129",
-    "matched_terms": {
-      "absolutely": "ungraded",
-      "about": "ungraded",
-      "perhaps": "ungraded",
-      "hope": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Yeah, Pamela, firefighters have spent the morning basically trying to make sure that this train doesn't catch fire. They've had ethanol spilled out from several of the cars in this and it sits right in the heart of one of the busiest ports in the Gulf of Mexico. I'll step aside. You can kind of get a lay of the land. Even from right out here, outside main gate, you can see that black tanker you see is the last car on the train. And as we move to the left, you'll see the next car seems to be tilting towards you. That's because it has come off the rails. And then as we go to the left, you'll see through the trees just low black tankers. Those are all tankers that carried ethanol on their side. They spilled from three of them and firefighters spent the might putting fire resistant foam on top of that ethanol to make sure it does not catch fire. Of course, ethanol is what's mixed in with gasoline in a lot of states. It's very flammable. They try to contain it with that. And then they brought in contractors to actually stop the leaks in the tankers. Now that's where they managed to do. That's the state we're in right now. They've stopped those leaks. They've contained the ethanol. Their next big challenge is trying to get this train back on its rails to get it out of the way and get this port up and running fully again. They're bringing in equipment from Atlanta that's actually going to come down here and hoist all of this up. As you can imagine when you're dealing with tankers full of ethanol, firefighters are going to be very wary as they go through that process. You do hear some trucks going behind me. About 9:00 this morning, the port was able to actually divert all these big trucks, around 10,000 a day, through side roads and detours to keep the port up and running. It's the biggest economic engine in the entire western part of central Florida, so they want to keep these jobs ready, but, of course, they are mindful of the safety concern, all the highly flammable fuel sitting right behind me. Pamela?",
-    "statement": "<ABSOLUTELY>. A very precarious situation there, but good to hear that they've stopped the leaks and contained the ethanol and <HOPE> to learn more <ABOUT> what <<PERHAPS>> caused that crash. Grayson Kamm, thank you so much, with our affiliate WTSP. We appreciate it. <WELL>, the leak of <NATURAL> gas at that Gulf rig off of Louisiana is now out. And the fire on the rig which erupted Tuesday is also nearly out, we're told. The <ONLY> contamination has been a light sheen on the water that quickly dissipated. And in Brazil, Pope Francis is in a sea of some 1 million young Roman Catholics in Rio de Janeiro's Copacabana beach here. This is a picture right here of the pope as he continues his inaugural trip abroad as pontiff. Francis, the first pope from Latin America, is also scheduled to meet with several thousand countrymen from Argentina. And in Wisconsin, a very close call for a state police officer. <TAKE> a look. A tractor trailer rig sideswiped his cruiser after the officer had stopped a driver for speeding. It was <ALL> caught on his dash-cam as we see. The truck driver was cited for inattention to driving and failure to move over to the other lane. And the new Weiner under fire, unable to escape questions <ABOUT> his online issues, but now we're learning more <ABOUT> the other woman, his partner in the sexting affair. So just who is Sydney Leathers? We are going to <TAKE> a look right after this break. Stay with us."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "about": "ungraded"
-    },
-    "previous_statement": "None",
-    "statement": "We'd like to go back now to Bob Franken at the Supreme Court and to weave in Roger Cossack, our legal analyst, <ABOUT> this remarkable development over the last few minutes that the United States Supreme Court has agreed to hear one of the two Bush arguments in favor of stopping the hand recounts in Florida. Gentlemen, new developments even since we last spoke?"
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "may": "ungraded",
-      "apparently": "ungraded",
-      "seem": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "We'd like to go back now to Bob Franken at the Supreme Court and to weave in Roger Cossack, our legal analyst, about this remarkable development over the last few minutes that the United States Supreme Court has agreed to hear one of the two Bush arguments in favor of stopping the hand recounts in Florida. Gentlemen, new developments even since we last spoke?",
-    "statement": "<WELL>, just that we've gotten a chance to chew over this just <A LITTLE> bit, Stephen. The Supreme Court justices here, which is going to hear the case now on the conduct, really, of the Florida Supreme Court, <<APPARENTLY>> were receptive to an argument by the Bush campaign where they said that Article Two of the Constitution, quote, \"Reserves to the state legislatures, not the state courts, the authority to determine the rules.\" That was from one of the briefs that was filed by the Bush campaign. I've decided not to put Roger on the spot to see if he's memorized Article Two, but I did write it down, Roger, and it says: \"Each state shall appoint in such manner as the legislature thereof <MAY> direct a number of electors equal to the whole number of senators and representatives to which the state <MAY> be entitled.\" They're relying on that word, the legislatures, thereof. Roger, that seems to me pretty much a boiler plate separation of powers issue."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "fact": "ungraded",
-      "apparently": "ungraded",
-      "believe": "ungraded",
-      "view": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Well, just that we've gotten a chance to chew over this just a little bit, Stephen. The Supreme Court justices here, which is going to hear the case now on the conduct, really, of the Florida Supreme Court, apparently were receptive to an argument by the Bush campaign where they said that Article Two of the Constitution, quote, \"Reserves to the state legislatures, not the state courts, the authority to determine the rules.\" That was from one of the briefs that was filed by the Bush campaign. I've decided not to put Roger on the spot to see if he's memorized Article Two, but I did write it down, Roger, and it says: \"Each state shall appoint in such manner as the legislature thereof may direct a number of electors equal to the whole number of senators and representatives to which the state may be entitled.\" They're relying on that word, the legislatures, thereof. Roger, that seems to me pretty much a boiler plate separation of powers issue.",
-    "statement": "That's right, Bob. This is what it's going to get down, and of course, within the Bush petition for certiorari they pointed out that the United States Supreme Court does have authority and does have jurisdiction to review these things. The Gore camp counted in their brief that they didn't, but <<APPARENTLY>> the Supreme Court believes that they do have the right to review the state court's ruling, particularly when it has to do with a federal election. And, to put it more succinctly, this is exactly what they're going to review. They're saying what <WOULD> be the consequences of this court's finding that the decision of the Supreme Court of Florida does not comply with a federal law requiring states to resolve controversies regarding the appointment of electors under laws enacted before Election Day? So, what they're saying is, and during, I remember, they were making this argument that in <FACT>, what the Supreme Court was doing was reviewing laws that were made after this election by bringing, trying to bring these things in and reconcile them. The Bush camp <ALL> along said that that violated separation of powers. They made that argument before the Florida Supreme Court. <<APPARENTLY>> it didn't resolve itself <WELL> there, but the United States Supreme Court has decided now to now look into it and see whether or not this is a separation of powers. There are some things that <ONLY> the legislature and the courts and the judges cannot get involved."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "know": "ungraded",
-      "should": "ungraded",
       "quite": "ungraded",
       "well": "ungraded"
     },
-    "previous_statement": "That's right, Bob. This is what it's going to get down, and of course, within the Bush petition for certiorari they pointed out that the United States Supreme Court does have authority and does have jurisdiction to review these things. The Gore camp counted in their brief that they didn't, but apparently the Supreme Court believes that they do have the right to review the state court's ruling, particularly when it has to do with a federal election. And, to put it more succinctly, this is exactly what they're going to review. They're saying what would be the consequences of this court's finding that the decision of the Supreme Court of Florida does not comply with a federal law requiring states to resolve controversies regarding the appointment of electors under laws enacted before Election Day? So, what they're saying is, and during, I remember, they were making this argument that in fact, what the Supreme Court was doing was reviewing laws that were made after this election by bringing, trying to bring these things in and reconcile them. The Bush camp all along said that that violated separation of powers. They made that argument before the Florida Supreme Court. Apparently it didn't resolve itself well there, but the United States Supreme Court has decided now to now look into it and see whether or not this is a separation of powers. There are some things that only the legislature and the courts and the judges cannot get involved.",
-    "statement": "<WELL>, you <KNOW>, to expand on that <A LITTLE> bit that is one those arguments that you hear within the political and legal realm <ALL> of the time. The Supreme Court is frequently accused -- courts everywhere are frequently accused of being too active. Normally it's the conservatives who say that they <SHOULD> just stick to deciding cases and not make law and it is a fight that goes on <ALL> the time and it's going to be a fight before the U.S. Supreme Court. By the way, the Democrats, the Gore campaign in their brief, used <QUITE> strong language when they said, Supreme Court involvement, quote, \"<WOULD> <ONLY> <DIMINISH> the legitimacy of the outcome of the election.\" That is a pretty hard hit at the U.S. Supreme Court."
+    "previous_statement": "Well, you've got to understand that for family members this is such a wonderful time for them. And when we get into the issue of exploitation, if you will, it is not anything that is done, you know, on purpose, if you will. You know, there is no way for a family member to think this would be anything that could be exploiting them and actually, it's what we like to call the honeymoon period where they are so excited. And they want people to be with them in their joy and to feel what it is what they are feeling, as well. So I don't want to say that we would like to call it exploitation per se, it is just that period of time where there is so much happiness and so much joy and they want to share that with the world.",
+    "statement": "I look at the Jaycee Dugard case, right, her family controlled access to her daughter. She was held by a man for 18 years and by <ALL> accounts doing <QUITE> <WELL>. What advice from here on out <WOULD> you have for the families of these kinds of victims?"
   },
   {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "know": "ungraded",
-      "sure": "ungraded",
-      "may": "ungraded",
-      "believe": "ungraded",
-      "suppose": "ungraded",
-      "view": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Well, you know, to expand on that a little bit that is one those arguments that you hear within the political and legal realm all of the time. The Supreme Court is frequently accused -- courts everywhere are frequently accused of being too active. Normally it's the conservatives who say that they should just stick to deciding cases and not make law and it is a fight that goes on all the time and it's going to be a fight before the U.S. Supreme Court. By the way, the Democrats, the Gore campaign in their brief, used quite strong language when they said, Supreme Court involvement, quote, \"would only diminish the legitimacy of the outcome of the election.\" That is a pretty hard hit at the U.S. Supreme Court.",
-    "statement": "Yes, <WELL>, that is how that it is viewed, I'm <<<SURE>>>, by Vice President Gore's team, but on the on the other hand, it is the United States Supreme Court who is vested with making <<<SURE>>> that each citizen's rights are not diluted, particularly when it comes to voting or particularly any other rights that are enumerated under the Constitution. And so the notion that the Supreme Court, if they <<<BELIEVE>>> that there <MAY> be a problem in voting in a federal election, isn't going to get involved is pretty far-fetched. On the other hand, here we go with the United States Supreme Court being actively involved, the -- <USUALLY> the kinds of things that Republicans criticize the judges for doing, but I <<SUPPOSE>>, you <KNOW>, beauty is in the eye of the beholder, and this time they are going to look at that Supreme Court and say, you see, we told you so."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "might": "ungraded",
-      "quite": "ungraded"
-    },
-    "previous_statement": "Yes, well, that is how that it is viewed, I'm sure, by Vice President Gore's team, but on the on the other hand, it is the United States Supreme Court who is vested with making sure that each citizen's rights are not diluted, particularly when it comes to voting or particularly any other rights that are enumerated under the Constitution. And so the notion that the Supreme Court, if they believe that there may be a problem in voting in a federal election, isn't going to get involved is pretty far-fetched. On the other hand, here we go with the United States Supreme Court being actively involved, the -- usually the kinds of things that Republicans criticize the judges for doing, but I suppose, you know, beauty is in the eye of the beholder, and this time they are going to look at that Supreme Court and say, you see, we told you so.",
-    "statement": "Now, here is another interesting aspect. Without getting into the politics of the people, who was Republican appointed, who was Democrat appointed, it is interesting to note that on the U.S. Supreme Court, five of the justices at least are really <QUITE> passionate defenders of state's rights. They're the ones who come down on the side of state's rights. So some people <MIGHT> be surprised that they decided to get federally involved."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "know": "ungraded",
-      "about": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Now, here is another interesting aspect. Without getting into the politics of the people, who was Republican appointed, who was Democrat appointed, it is interesting to note that on the U.S. Supreme Court, five of the justices at least are really quite passionate defenders of state's rights. They're the ones who come down on the side of state's rights. So some people might be surprised that they decided to get federally involved.",
-    "statement": "<WELL>, yes, but they're also very passionate <ABOUT> not -- and pride themselves on not being activist judges, which is what the criticism here is of the Florida Supreme Court, that this -- what this court did was usurp the power of the Florida legislature, and that the Supreme Court -- it wants to <TAKE> a look at and said, if that's true and if there are statutes that give <CERTAIN> powers to the legislature, you <KNOW>, the Supreme Court cannot be involving itself."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "may": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Well, yes, but they're also very passionate about not -- and pride themselves on not being activist judges, which is what the criticism here is of the Florida Supreme Court, that this -- what this court did was usurp the power of the Florida legislature, and that the Supreme Court -- it wants to take a look at and said, if that's true and if there are statutes that give certain powers to the legislature, you know, the Supreme Court cannot be involving itself.",
-    "statement": "<WELL>, now the next <QUESTION> is, since the United States Supreme Court is commonly referred to as the court of last resort, is it <<PLAUSIBLE>> to you, Roger, that really this election <MAY> be decided in that building in back of me?"
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "clear": "ungraded",
-      "know": "ungraded",
-      "fact": "ungraded",
-      "should": "ungraded",
-      "guess": "ungraded",
-      "suppose": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "Well, now the next question is, since the United States Supreme Court is commonly referred to as the court of last resort, is it plausible to you, Roger, that really this election may be decided in that building in back of me?",
-    "statement": "<WELL>, I <<SUPPOSE>> so. You <KNOW>, Bob, I hadn't even gotten to that next step, but clearly, that's why this briefing schedule is being set out the way it is and that's why they are -- as we started off this conversation, that is why there is such an emergency proceeding in having these briefs done and arguing next Friday at 10:00 a.m. And, you <KNOW>, in some ways, I <<GUESS>> it's fitting, where else <SHOULD> it end up but the United States Supreme Court, in an issue of this <<KIND OF>> magnitude and the <FACT> situation of this <<KIND OF>> magnitude."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "certainly": "ungraded",
-      "should": "ungraded",
-      "suppose": "ungraded"
-    },
-    "previous_statement": "Well, I suppose so. You know, Bob, I hadn't even gotten to that next step, but clearly, that's why this briefing schedule is being set out the way it is and that's why they are -- as we started off this conversation, that is why there is such an emergency proceeding in having these briefs done and arguing next Friday at 10:00 a.m. And, you know, in some ways, I guess it's fitting, where else should it end up but the United States Supreme Court, in an issue of this kind of magnitude and the fact situation of this kind of magnitude.",
-    "statement": "I <<SUPPOSE>> we <SHOULD> be reminded here that it <CERTAINLY> didn't end up Election Day."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "sure": "ungraded"
-    },
-    "previous_statement": "I suppose we should be reminded here that it certainly didn't end up Election Day.",
-    "statement": "That's for <<<SURE>>>."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "suppose": "ungraded"
-    },
-    "previous_statement": "Right. But of course, in doing that federal law, the breadth of it is, has that federal law been violated which caused votes and voters to not have their full rights in -- during a vote.",
-    "statement": "And does it interfere with the state's role, which is supposed to be the primary role in conducting presidential elections."
-  },
-  {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
       "know": "ungraded",
       "fact": "ungraded",
       "may": "ungraded",
       "about": "ungraded",
-      "maybe": "ungraded",
-      "think": "ungraded",
       "well": "ungraded"
     },
-    "previous_statement": "That's right.",
-    "statement": "Bob Franken, Roger Cossack, let us add to your legal insights there some historical insight now, because we have been down the road through contested and difficult elections in the past -- <<MAYBE>> not down this particular road -- but there are people who have studied earlier elections and <KNOW> that they have dragged on. In <FACT>, I <<<THINK>>> the Nixon-Kennedy election was contested <WELL> into December. So let's turn now to Professor Douglas Brinkley, who teaches history and who's director of the Eisenhower Center for American Studies at the University of New Orleans, and who has written <ABOUT> Rosa Parks, the civil rights movements, and \"The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House.\" Now, Professor Brinkley, we are not even to the White House yet, but have you seen evidence of this <<KIND OF>> activity in post-election, pre-inaugural periods in the past?"
+    "previous_statement": "I look at the Jaycee Dugard case, right, her family controlled access to her daughter. She was held by a man for 18 years and by all accounts doing quite well. What advice from here on out would you have for the families of these kinds of victims?",
+    "statement": "<WELL>, what it <WOULD> be like to say -- and we really do want to help the public understand with any type of missing child case, regardless if that child had been missing a day, week or multiple years, it's really important that they have the opportunity to have some private time, that they have the opportunity to work and be connected to therapists and treatment professionals that <KNOW> this issue and <KNOW> <ABOUT> the complexities and the dynamics and what the families are going to need as they move forward. There is no particular recipe, if you will, for what is going to work for one family versus what's going to work for another family. Each family is unique and what their needs are going to be. And the treatment professional needs to understand that when they do work with these families, this is going to be <<LIKELY>> a long-term type of need for the families and they <NEED TO> be committed to the <FACT> that they <MAY> <NEED TO> spend time with these families for many, many years."
   },
   {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-206378",
     "matched_terms": {
-      "could": "ungraded",
-      "might": "ungraded",
       "about": "ungraded",
-      "around": "ungraded",
-      "think": "ungraded",
-      "seem": "ungraded",
+      "suspect": "ungraded"
+    },
+    "previous_statement": "Thank you for having me.",
+    "statement": "You're welcome. Our special coverage out of Ohio continues in just a minute. But coming up next, what the suspects' cousin is now saying <ABOUT> the accusations against Ariel Castro."
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "know": "ungraded",
+      "about": "ungraded",
       "well": "ungraded"
     },
-    "previous_statement": "Bob Franken, Roger Cossack, let us add to your legal insights there some historical insight now, because we have been down the road through contested and difficult elections in the past -- maybe not down this particular road -- but there are people who have studied earlier elections and know that they have dragged on. In fact, I think the Nixon-Kennedy election was contested well into December. So let's turn now to Professor Douglas Brinkley, who teaches history and who's director of the Eisenhower Center for American Studies at the University of New Orleans, and who has written about Rosa Parks, the civil rights movements, and \"The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House.\" Now, Professor Brinkley, we are not even to the White House yet, but have you seen evidence of this kind of activity in post-election, pre-inaugural periods in the past?",
-    "statement": "<WELL>, you really <HAVE TO> go <ALL> the way back to that election we are <ALL> talking <ABOUT>, 1876, between Rutherford B. Hayes and Samuel Tilden, when it drug on for five months, and you did have the U.S. Supreme Court justice, a man named David Davis (ph), becoming -- overseeing a 15-person electoral commission and Chief Justice Davis then took himself off of that and filled a U.S. Senate seat, and he had <ALL> of this wheeling and dealing going on, but that's the closest analogy. We are heading into a brand-new turf here. I don't <<<THINK>>> there is an analogy to 1960. Nixon conceded right off the bat. There were murmurs, there were some investigations, there were people looking <AROUND>, nothing like this on this <<SORT OF>> grand, national scale. But if I <<COULD>> make one point, because I have been listening very carefully, we don't want to make the assumption that this is bad news for Vice President Gore necessarily. The Supreme Court very <WELL> <MIGHT> legitimize the hand count, and I <<<THINK>>> it has to have been a worry for our country and for Vice President Gore without the Supreme Court. Somebody needed to legitimize the hand count. There seemed to be a battle in Florida between Secretary of State Harris and the Bush people and the Florida Supreme Court. If the U.S. Supreme Court says the hand counts are valid, and what the Florida Supreme Court said is valid, then I <<<THINK>>> it's a great bonus for Al Gore, if he ends up pulling off this election by a few dimpled ballots."
+    "previous_statement": "A hundred and forty-five people are missing after Taiwan was hit with a 6.5 magnitude earthquake. It struck off the east coast late Tuesday killing at least four people. More details now from CNN's Alexandra Field.",
+    "statement": "This is an area that is prone to earthquakes. It is also <WELL>-prepared for earthquakes. But the one that struck in the middle of the night was powerful enough to send several buildings collapsing; a couple of the city's buildings, also the Marshall Hotel. That's where a lot of the early rescue efforts were concentrated. It's also where a lot of the initial injuries were reported. We <KNOW> at least 50 Japanese tourists were injured during the earthquake -- a 6.4 magnitude earthquake. That's what we're talking <ABOUT> here, followed by an aftershock of 5.1 magnitude. Hundreds of rescue workers flooded the streets trying to reach people who were still missing or trapped."
   },
   {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-332258",
     "matched_terms": {
-      "know": "ungraded",
-      "think": "ungraded",
-      "view": "ungraded",
-      "seem": "ungraded",
-      "well": "ungraded"
+      "could": "ungraded"
     },
-    "previous_statement": "Have there been evidence -- have there been examples in the past, Professor, of elections that were so bitterly contested that at the end of the day there wasn't the kind of legitimacy you just described?",
-    "statement": "<WELL>, the one of 1876, it was -- nobody ever -- you <KNOW>, on the eve of the inaugural, there was actually a private -- it's actually secret, but the Hayes people like to call it a private ceremony. Hayes was inaugurated before the public ceremony, they did a secret White House inaugural for him for fear of dueling inaugurals. That was <ALL> the way up to inaugural day that nobody had agreed who the winner was. That's the <ONLY> case of record and that was so long ago, so again, we're heading into a very new area here. But I <<<THINK>>> if I were a viewer, I <WOULD> just be marking on my calendar December 12. People are wondering when this is going to end -- I <<<THINK>>> everybody's vested interest is for Florida to have electorates, you <KNOW>, <GIVEN> to the Electoral College from Florida, the 25, by that December 12, so anything can happen between now and then, and what's astonishing is how quickly both the Florida Supreme Court and now the U.S. Supreme Court seems willing to act. That's unprecedented in U.S. electoral election history."
+    "previous_statement": "This is an area that is prone to earthquakes. It is also well-prepared for earthquakes. But the one that struck in the middle of the night was powerful enough to send several buildings collapsing; a couple of the city's buildings, also the Marshall Hotel. That's where a lot of the early rescue efforts were concentrated. It's also where a lot of the initial injuries were reported. We know at least 50 Japanese tourists were injured during the earthquake -- a 6.4 magnitude earthquake. That's what we're talking about here, followed by an aftershock of 5.1 magnitude. Hundreds of rescue workers flooded the streets trying to reach people who were still missing or trapped.",
+    "statement": "When the quake happened, we took the children and ran. My shop was still open at the time. My wife told me the opposite building has collapsed so we quickly took the flashlights and went over to save the people. That was it. Because when it first happened we <<COULD>> <ONLY> save the residents in the lower floors. Those on higher floors we couldn't reach them. We had to wait for the fire trucks to arrive."
   },
   {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-332258",
     "matched_terms": {
-      "think": "ungraded"
-    },
-    "previous_statement": "Well, the one of 1876, it was -- nobody ever -- you know, on the eve of the inaugural, there was actually a private -- it's actually secret, but the Hayes people like to call it a private ceremony. Hayes was inaugurated before the public ceremony, they did a secret White House inaugural for him for fear of dueling inaugurals. That was all the way up to inaugural day that nobody had agreed who the winner was. That's the only case of record and that was so long ago, so again, we're heading into a very new area here. But I think if I were a viewer, I would just be marking on my calendar December 12. People are wondering when this is going to end -- I think everybody's vested interest is for Florida to have electorates, you know, given to the Electoral College from Florida, the 25, by that December 12, so anything can happen between now and then, and what's astonishing is how quickly both the Florida Supreme Court and now the U.S. Supreme Court seems willing to act. That's unprecedented in U.S. electoral election history.",
-    "statement": "Professor Brinkley, thank you for joining us. We're going to step back for a minute, talk to you in <A LITTLE> bit. But first we'd like to turn down to Tallahassee and to David Boies, who became famous, of course, during his prosecution of Microsoft, and who's now the lead attorney for the Gore campaign. Mr. Boies, thank you for joining us. If you are able to hear us, what do you <<<THINK>>> of this decision by the Supreme Court?"
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "clear": "ungraded",
-      "know": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded",
-      "believe": "ungraded",
-      "view": "ungraded",
-      "hope": "ungraded"
-    },
-    "previous_statement": "Professor Brinkley, thank you for joining us. We're going to step back for a minute, talk to you in a little bit. But first we'd like to turn down to Tallahassee and to David Boies, who became famous, of course, during his prosecution of Microsoft, and who's now the lead attorney for the Gore campaign. Mr. Boies, thank you for joining us. If you are able to hear us, what do you think of this decision by the Supreme Court?",
-    "statement": "I <<<THINK>>> that the Supreme Court's decision to hear this case is hopefully the last step in resolving the controversy that's unfortunately arisen <ABOUT> Florida law. I <<<BELIEVE>>>, and as you <KNOW>, I have been very reluctant to predict court decisions in this case, but I will predict that the United States Supreme Court is not going to reverse the Florida Supreme Court. This is a matter of Florida law. It is a matter of Florida law being interpreted consistently by the Florida Supreme Court for 110 years, the Florida Supreme Court reaffirmed that law just two years ago in the Beckstrom (ph) case, so this is a <QUESTION> that has been decided over and over again by the Florida Supreme Court. I <<<BELIEVE>>> that it is right for the United States Supreme Court to hear this appeal, because it's a serious <QUESTION> that has been presented for its review. But I <<<BELIEVE>>> that the law is <CLEAR>, and I <<<BELIEVE>>> that the Supreme Court will not reverse the Florida Supreme Court."
-  },
-  {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "must": "ungraded",
-      "know": "ungraded",
-      "fact": "ungraded",
-      "may": "ungraded",
-      "about": "ungraded",
-      "think": "ungraded",
       "appear": "ungraded"
     },
-    "previous_statement": "Hi.",
-    "statement": "... is this -- how are you? My <QUESTION> to you is this, as lawyers, we both <KNOW> that the Supreme Court doesn't <HAVE TO> <TAKE> <EVERY> case that it's asked to <TAKE>, and in a situation like this, you <WOULD> -- wouldn't you begin to <<<THINK>>> that the -- by the mere <FACT> that they're showing such interest in it, there <MUST> be members of the Supreme Court who are concerned <ABOUT> this issue, or else they wouldn't be hearing it; and number two, aren't you particularly concerned with the <FACT> that they appeared to couch it in a separation of powers' argument, which I <<<THINK>>> at least for your side, <MAY> be the most vulnerable side?"
+    "previous_statement": "Taiwan's leader tweeted overnight telling people to stay safe and assuring them that government agencies and armed forces were on the streets ready to respond in trying to help anyone who was still missing. You can see some of those images -- shattered windows, glass blown out of buildings, people actually escaping from the buildings by crawling through those windows. Another woman we saw rescued by a crane that was out there on the streets. Just a frantic effort to try and get people out before anymore damage was done to those buildings. This is an area again that has seen a number of earthquakes, several in just the last few days. In Hong Kong -- Alexander Field, CNN.",
+    "statement": "This is the scene right now outside that hotel, the Marshall Hotel in Taiwan. You can see it's tilting very badly to its side. The crane is there and it appears that these rescue operations are ongoing. Joining us Lu Gong Ying (ph) joins us now on the line from Taipei. So Lu, what's the situation inside that hotel. Has everyone been accounted for? Have they managed to search <EVERY> floor at this point?"
   },
   {
-    "transcript_id": "CNN-20534",
-    "matched_terms": {
-      "know": "ungraded",
-      "think": "ungraded",
-      "view": "ungraded",
-      "well": "ungraded"
-    },
-    "previous_statement": "... is this -- how are you? My question to you is this, as lawyers, we both know that the Supreme Court doesn't have to take every case that it's asked to take, and in a situation like this, you would -- wouldn't you begin to think that the -- by the mere fact that they're showing such interest in it, there must be members of the Supreme Court who are concerned about this issue, or else they wouldn't be hearing it; and number two, aren't you particularly concerned with the fact that they appeared to couch it in a separation of powers' argument, which I think at least for your side, may be the most vulnerable side?",
-    "statement": "<WELL>, remember, this is a challenge to the Florida Supreme Court in a case by one of the nominees for president in the closest election we've ever had. To the extent that, that challenge raises constitutional questions, I don't <<<THINK>>> it's surprising at <ALL> for the United States Supreme Court to hear that case. The United States Supreme Court hears a very small fraction of the cases that it's asked to hear, but it's not <USUALLY> asked to hear cases of this constitutional significance. So, I <<<THINK>>> that you can't interpret what the court does in this particular case in <VIEW> of <ALL> of the general statistics. One <THING> -- I don't mean to <<SORT OF>> get out of my role as an answerer of questions, but I'd like to ask, you <KNOW>, your <VIEW> as to whether you <<<THINK>>> there is any chance the United States Supreme Court is actually going to reverse the Florida Supreme Court in this case?"
-  },
-  {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-332258",
     "matched_terms": {
       "well": "ungraded"
     },
-    "previous_statement": "Well, remember, this is a challenge to the Florida Supreme Court in a case by one of the nominees for president in the closest election we've ever had. To the extent that, that challenge raises constitutional questions, I don't think it's surprising at all for the United States Supreme Court to hear that case. The United States Supreme Court hears a very small fraction of the cases that it's asked to hear, but it's not usually asked to hear cases of this constitutional significance. So, I think that you can't interpret what the court does in this particular case in view of all of the general statistics. One thing -- I don't mean to sort of get out of my role as an answerer of questions, but I'd like to ask, you know, your view as to whether you think there is any chance the United States Supreme Court is actually going to reverse the Florida Supreme Court in this case?",
-    "statement": "<WELL>, I'll tell you what, as an -- <USUALLY> I get to ask the questions, but as an answerer..."
+    "previous_statement": "This is the scene right now outside that hotel, the Marshall Hotel in Taiwan. You can see it's tilting very badly to its side. The crane is there and it appears that these rescue operations are ongoing. Joining us Lu Gong Ying (ph) joins us now on the line from Taipei. So Lu, what's the situation inside that hotel. Has everyone been accounted for? Have they managed to search every floor at this point?",
+    "statement": "Yes. Hi -- John. <WELL> actually the Marshall Hotel has collapsed and according to the officials"
   },
   {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-332258",
     "matched_terms": {
       "know": "ungraded"
     },
-    "previous_statement": "Well, I'll tell you what, as an -- usually I get to ask the questions, but as an answerer...",
-    "statement": "I <KNOW>."
+    "previous_statement": "Yes. Hi -- John. Well actually the Marshall Hotel has collapsed and according to the officials",
+    "statement": "Ok so if you look at the area where the quake struck and the <<SORT OF>> the damage that we're looking at how widespread is the damage across Taipei? And after <ALL> this is a region which you <KNOW> deals with earthquakes on a <FAIRLY> <OFTEN> basis."
   },
   {
-    "transcript_id": "CNN-20534",
+    "transcript_id": "CNN-332258",
     "matched_terms": {
-      "clear": "ungraded",
-      "know": "ungraded",
-      "fact": "ungraded",
-      "may": "ungraded",
-      "should": "ungraded",
-      "about": "ungraded",
-      "perhaps": "ungraded",
-      "think": "ungraded",
-      "view": "ungraded"
+      "know": "ungraded"
     },
-    "previous_statement": "I know.",
-    "statement": "... I will answer you and give you an affirmative yes. I <<<THINK>>> there is a chance, and I'll tell you why, David -- and again, I agree with you, I don't <KNOW> what's going to happen, and I want to make it very <CLEAR> that just because the Supreme Court decides to review a case does not mean in any way they're going to reverse it. Having said that, this is a decision by a state court, the highest state court of Florida, the Florida Supreme Court. We both <KNOW> that normally, presumptively, these kinds of decisions <SHOULD> be left to the Florida Supreme Court. By the <FACT> that the United States Supreme Court has, one, decided to hear it and, two, is couching it in terms of whether or not the court has overstepped its boundaries by taking and doing something that is solely within the discretion of the legislature, I <<<THINK>>> is a hint that they <MAY> be seriously thinking <ABOUT> doing something with this, <<PERHAPS>> reversing it, because you <KNOW>, you don't..."
+    "previous_statement": "Yes. So the Hualien city is a coastal city on the east coast of Taiwan. So Taipei or the other areas are largely unharmed actually. So it is not very widespread at moment. So only Hualien city and the vicinities have been affected and the most serious damage was done to the downtown, the city center, Meilun area to be specific.",
+    "statement": "We <KNOW> that 200 or so people were hurt in this earthquake a least 200 or so. Do we <KNOW> what their conditions are at this point?"
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "know": "ungraded",
+      "allegedly": "ungraded"
+    },
+    "previous_statement": "We know that 200 or so people were hurt in this earthquake a least 200 or so. Do we know what their conditions are at this point?",
+    "statement": "Yes. So there are, according to the latest statistic 241 people injured. And most of them are -- the condition is not so serious. But according to latest update there are also-- the amount of people who are injured two of them are from mainland China. They are individual tourists. So a mother and a child and they have been sent to the hospital. And the mother is <<ALLEGEDLY>> hurt more seriously. So we don't <KNOW> yet if she is in <CRITICAL> condition. But we'll keep watching."
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "clear": "ungraded"
+    },
+    "previous_statement": "Yes. So there are, according to the latest statistic 241 people injured. And most of them are -- the condition is not so serious. But according to latest update there are also-- the amount of people who are injured two of them are from mainland China. They are individual tourists. So a mother and a child and they have been sent to the hospital. And the mother is allegedly hurt more seriously. So we don't know yet if she is in critical condition. But we'll keep watching.",
+    "statement": "And what's the situation when it comes to aftershocks at this point? Because clearly you mentioned Hualien, a number of buildings have been damaged especially this hotel. Have there been serious aftershocks which threaten to do more damage?"
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "doubt": "ungraded"
+    },
+    "previous_statement": "Yes, actually. So for the past few days there have been hundreds of aftershocks and since last night since midnight for the following ten hours after midnight's major earthquake there were 130 aftershocks. So even this morning, the aftershocks are still happening even until now.",
+    "statement": "Ok. That will <NO <DOUBT>> be happening for a while. Lu Gong Ying -- thank you very much. On the line there from Taipei with the very latest on that earthquake --"
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "Thank you. Thank you -- John.",
+    "statement": "-- in Hualien, in Taiwan. Just to repeat what we've learned. There are two people, at least two people, remain trapped inside that hotel we're looking at right now. That's the Marshall Hotel. Those rescue operations are ongoing. Also in another building where I <<<THINK>>>"
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "With regard to any interaction with the North Korean delegation I have not requested a meeting but we'll see what happens.",
+    "statement": "I <<<THINK>>> we'll just see. We'll see what happens."
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "sure": "ungraded"
+    },
+    "previous_statement": "Any time you're in close proximity to people, representatives of an adversarial nation it would be foolish for intelligence agencies not to try to capitalize on that.",
+    "statement": "North Korea's first espionage priority -- ensure there are no embarrassing defections during the games."
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "think": "ungraded"
+    },
+    "previous_statement": "North Korea's first espionage priority -- ensure there are no embarrassing defections during the games.",
+    "statement": "I <<<THINK>>> that they will try to <TAKE> advantage of this opportunity. There's no <QUESTION>. They'll also be spying on their own people."
+  },
+  {
+    "transcript_id": "CNN-332258",
+    "matched_terms": {
+      "clear": "ungraded"
+    },
+    "previous_statement": "But there will also be hidden high tech spy tools. U.S. Navy submarines lurking offshore and aircraft overhead can monitor North Korean communications. U.S. Air Force AWACS aircraft can make certain only friendly aircraft are in the air. U.S. Special Operations Forces will be close by in case of trouble. But for now, very public tit for tat goes on with no North Korean give on its weapons policy.",
+    "statement": "The U.S. who is not -- who is unhappy with this trend is seeking to intentionally elevate the situation by deploying huge nuclear assets nearby the Korean peninsula including nuclear aircraft"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "transcript_id": "CNN-57062",
     "matched_terms": {
-      "fact": "ungraded",
-      "could": "ungraded"
+      "fact": "none",
+      "could": "hedge"
     },
     "previous_statement": "This tragic incident is a loss for us. We've lost a friend, a good leader in this country.",
     "statement": "Alarming enough that one of Afghanistan's three vice presidents <<COULD>> be shot dead. More alarming that it <<COULD>> happen this way, in the middle of the day in the middle of the capital. Also surprising was the <FACT> that Mr. Qadir had no security guards with him, but that's the way he wanted it."
@@ -11,8 +11,8 @@
   {
     "transcript_id": "CNN-57062",
     "matched_terms": {
-      "around": "ungraded",
-      "believe": "ungraded"
+      "around": "none",
+      "believe": "none"
     },
     "previous_statement": "Alarming enough that one of Afghanistan's three vice presidents could be shot dead. More alarming that it could happen this way, in the middle of the day in the middle of the capital. Also surprising was the fact that Mr. Qadir had no security guards with him, but that's the way he wanted it.",
     "statement": "A colleague and a friend of ours who spent several hours with him last night said he didn't really <<<BELIEVE>>> in having lots of security guards <AROUND>."
