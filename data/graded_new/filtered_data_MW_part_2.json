@@ -1,0 +1,944 @@
+[
+  {
+    "transcript_id": "NPR-8802",
+    "matched_terms": {
+      "well": "hedge"
+    },
+    "previous_statement": "So that can is going to be pretty well dented before they get around to fixing it.",
+    "statement": "That can is already pretty <WELL> dented."
+  },
+  {
+    "transcript_id": "CNN-146478",
+    "matched_terms": {
+      "feel": "none"
+    },
+    "previous_statement": "Yes, definitely. And the building in the back, I mean, it`s just -- it`s a huge room, which he said that he intended to make his office. And he`s got -- I mean, everything you can think of. I mean, all kinds of rides and games. It`s just a mess back there.",
+    "statement": "Melissa, did you ever <<FEEL>> at anytime that the doctor was trying to <TAKE> your children and separate you from them?"
+  },
+  {
+    "transcript_id": "CNN-57312",
+    "matched_terms": {
+      "hope": "exclude"
+    },
+    "previous_statement": "The worry, recent revelations of mega corporate scandal, leading to a loss in confidence in the market and a possible slowdown in the economy; Mr. Bush's aim to hold companies to higher ethical standards and give the government greater power to regulate and enforce them. The president's guidelines include: an Executive Order to establish a financial crime SWAT team through the Justice Department to investigate corporate fraud; a doubling of prison time for CEOs guilty of abuse from five to ten years; greater powers for the Securities and Exchange Commission or SEC, including freezing CEOs assets while under investigation; more money from Congress for the SEC, a $20 million increase this year to hire 100 new investigators, $100 million the next year; a ban on corrupt CEOs forbidding them to serve in any future leadership capacity; tougher laws that would criminalize document shredding and other forms of obstruction of justice; the creation of a new independent regulatory board to police the accounting industry; and stricter requirements for companies to inform small investors and 401(k) holders about their stocks, critical to the president's plan bipartisan support. Currently the administration is at odds with the broader legislation being pushed by the Democratic-controlled Senate. Democrats say the president's proposal does not go far enough.",
+    "statement": "Words alone will <ONLY> raise the expectations of reform and dash the hopes of millions of people who are seeking real effective action."
+  },
+  {
+    "transcript_id": "CNN-231944",
+    "matched_terms": {
+      "should": "exclude",
+      "about": "none"
+    },
+    "previous_statement": "It is fascinating to hear their vantage point on this. The entire video runs considerably longer. Again, that is being used by the Taliban as propaganda. It is also the only window we have into Bowe Bergdahl's first minutes of freedom. Chief national security correspondent Jim Sciutto walks us through it.",
+    "statement": "The riveting eight-minute Taliban propaganda video contains intriguing clues <ABOUT> Sergeant Bowe Bergdahl, his Taliban captors and his American rescues. A thin, aging Bergdahl blinks repeatedly, while seated in the pickup truck. And again, as he stands looking at the approaching American helicopter, signs his eyes were unused to <NATURAL> light or signs of emotion. At one point, Bergdahl manages a brief, awkward smile, evidence of happiness or nervousness, one captor then taps him three times on the shoulder and says to him, don't come back to Afghanistan, next time you won't make it out alive. An ominous threat and sign of fear between captor and captive. A Taliban narrator sets the scene."
+  },
+  {
+    "transcript_id": "CNN-227019",
+    "matched_terms": {
+      "know": "hedge"
+    },
+    "previous_statement": "Well, I think what you're focusing on now is the Malaysian government, the Malaysian authorities. I think from the get-go, they were just out of their league. I think they have been behind the eight ball on this investigation from the get go. The days following this crash they had a flotilla of ships in the South China Sea. Now, it's no there, information starts dribbling in. Very interesting though about with this computer is this -- you know, a lot of people have said that deleting files in and of itself is not very significant. Now more files we fine have been deleted closer in time. To me, if you're going to train, you're going to try to use this plane for, you know, to steal it basically, you want to locate airports, maybe practice radar, what better tool than a flight simulator.",
+    "statement": "And there have been various reports that he had tried on runway, you <KNOW>, <CERTAIN> runways in the Indian Ocean, the San Diego was in there. There's various reports but none of it has been confirmed, Richard. I mean, but still a lot of frustration here. And even Boeing, let's <TAKE> Boeing, this is their plane. I haven't heard a peep out of Boeing."
+  },
+  {
+    "transcript_id": "CNN-146908",
+    "matched_terms": {
+      "know": "hedge"
+    },
+    "previous_statement": "Sexuality is definitely linked with violence. And if you`re a beautiful person, especially a beautiful woman, most people are like, wow, it`s great. You`re beautiful. You have no problems in life. No, you`re going to get a lot of unwarranted attention. And some of that attention can be violent.",
+    "statement": "They loved each other, and, you <KNOW>, their relationship got violent when they were both drinking. But he had no way of -- he had no way of transporting her. They didn`t have a rental car."
+  },
+  {
+    "transcript_id": "CNN-380961",
+    "matched_terms": {
+      "sure": "hedge",
+      "about": "none"
+    },
+    "previous_statement": "I am proud to be the only one in the Senate who lives in a black and brown, low income community, below the poverty line.",
+    "statement": "And launching your campaign on late night is far from a <<<SURE>>> <THING>. Just ask Kirsten Gillibrand, who announced on Colbert and is no longer running. Many others are still trying. Late night has become <ABOUT> substance, not just style."
+  },
+  {
+    "transcript_id": "CNN-286273",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "Well, we're -- yes, nothing has been scheduled yet, but we're -- I think both sides want to make sure that that happens and it happens relatively soon. So, we are in discussions about that, and it really is a matter of aligning their schedules. Obviously, they're both busy people. So, but we're trying to get it done and get it done quick.",
+    "statement": "Following a meeting, assuming it will happen <FAIRLY> soon, do you <EXPECT> Bernie Sanders to do what President Obama is <ABOUT> to do, go out on the campaign trail with Hillary Clinton?"
+  },
+  {
+    "transcript_id": "CNN-19969",
+    "matched_terms": {
+      "know": "hedge",
+      "fact": "authority",
+      "could": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "\"Constitutional crisis.\" It's a tempting phrase to utter. It carries with it its own sense of importance, like \"defining moment.\" But is this a crisis? Could it turn into one? Well, to use another tempting phrase, it depends upon what the meaning of crisis is. (voice-over): Now here's a real crisis in the making. October 1973, President Nixon fires Special Prosecutor Archibald Cox in the midst of his investigation into Watergate. The attorney general and his top deputy leave rather than fire Cox. Federal agents seal off the special prosecutor's office. Could a president shut off an inquiry into his own behavior? It didn't happen. A firestorm of public pressure forced Nixon to name a successor, Leon Jaworski, who demanded of Nixon those famous secret tape recordings. And that could have triggered a real constitutional crisis when a unanimous Supreme Court ordered Nixon to turn over the tapes. Suppose he had refused, one branch of government defying the order of another. But it didn't happen. Nixon turned the tapes over, the smoking gun of a cover-up was disclosed and the president resigned. But this? Not even close, yet. What you have so far is the messy, inefficient business of vote counts. Instead of troops in the Capitol, you've got lawyers in the courts. Instead of mobs in the street, street theater, folks with a little too much time on their hands. (on camera): So, could this turn into a crisis? Of course we're not talking about anyone seizing political power or some adversary from abroad sailing up the Potomac, but we could be talking about a transfer of power tainted by charges of foul play; an angry challenge to the electoral vote when the new Congress convenes in January; a bitter refusal of the losing side to acknowledge the victor's right to govern; a new Congress that, for all the talk of cooperation, is frozen into inaction by a sense of icy bitterness that's grown over the last 20 years. A crisis? Maybe not. But as an unhappy ending to all this, that would do.",
+    "statement": "Are you a good note taker? You <KNOW>, when you're sitting in class listening to your teacher, do you <TAKE> good notes? If so, that attention to detail <<COULD>> help you later in life. <TAKE> managing your money, for example. Writing checks is a part of everyday life and requires careful record keeping. If you don't keep good records, you <<COULD>> bounce a check, and that means big penalty fees from your bank. Bouncing a check means you wrote a check to someone without having the money in your account to back it up -- not a good way to make friends. Unfortunately, there are lots of people who aren't managing their money <WELL>. In <FACT>, banks earn more than $6 billion a year in profits from bounced check charges. Steve Young has that."
+  },
+  {
+    "transcript_id": "CNN-12354",
+    "matched_terms": {
+      "perhaps": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "So what do you think could have been done, should have been done ahead of time that might have saved your son's life?",
+    "statement": "<WELL>, number one, the -- under \"don't ask, don't tell,\" it was developed six years ago and it sat in the Pentagon for six years. The anti-harassment training wasn't even passed down into the armed forces until three months after my son's death. If that training had started six years ago, <<PERHAPS>> my son <WOULD> be alive today; <<PERHAPS>> the climate of violence and harassment wouldn't exist that's in the military today."
+  },
+  {
+    "transcript_id": "CNN-345493",
+    "matched_terms": {
+      "think": "none"
+    },
+    "previous_statement": "More than 40 million Americans don`t have enough food to eat. Yet at the same time, up to 40 percent of the food supply in the United States is wasted every year. It`s a paradox that Maria Rose Belding saw firsthand when she was just in the eighth grade. What she decided to do about it is why she is this week`s CNN hero.",
+    "statement": "There was a food pantry in my church that I grew up working in. You <WOULD> have way too much of one <THING> and <WOULD> be in desperate need of a different <THING>. <INEVITABLY>, some of it <WOULD> expire. And I ended up throwing a lot of it away. When I was 14, I realized that doesn`t make <<SENSE>>. The internet was right in front of us. That`s such an <OBVIOUS> <THING> to fix. This has not been <CLAIMED>. It has turned green. You <WOULD> really <<<THINK>>> of the novelty of it <WOULD> wear off. It doesn`t."
+  },
+  {
+    "transcript_id": "CNN-322057",
+    "matched_terms": {
+      "about": "none",
+      "around": "none",
+      "apparently": "hedge",
+      "think": "hedge",
+      "suppose": "exclude"
+    },
+    "previous_statement": "This is nowhere and I totally agree with what Phil said. I always agree with Phil Mattingly. Look, Susan Collins is not going to vote for this bill. She's waiting in for this late afternoon announcement by the Congressional Budget Office to get what they're calling a preliminary analysis of the bill. That analysis, though, is not going to have the coverage numbers. It's not really going to get into the details about cuts to Medicaid spending. It's only going to look at the basic deficit projections which probably would be favorable for the Republicans, but it's not going to get into what the nitty-gritty and what a lot of people want to hear, including what John McCain wants to hear. That's why John McCain is voting against it. I think you can probably expect other Republican senators, perhaps Collins to point to that as well saying that I need more information before I can vote for it. She's already skeptical about the way it was structured. Perhaps Lisa Murkowski comes down the same way. But it's interesting to hear Trump saying, touting how good this is for the states. The only information they're relying on right now is from the Health and Human Services Department, his own Health and Human Services Department. There is no independent analysis that both parties can rely on, and that's one of the big reasons why it'll probably fail this week.",
+    "statement": "To be fair, John McCain has <GIVEN> a lot of reasons why he voted against this bill. But I <<<THINK>>> -- I'm just struck by how to add the process has been on <ALL> of these health care bills. President Obama spent two full years trying to pass ObamaCare and then the next six years paying the price in defending it in terms of Senate and House seats. But Republicans expected to come in and repeal this <<APPARENTLY>> in three or four months. And now they have spent another three or four months trying to do the same, and mounted zero public campaign to try to rally the country <AROUND> doing this. Nobody has really owned these bills. I mean, three weeks ago nobody was talking <ABOUT> Graham-Cassidy and <ALL> of a sudden it's supposed to consume public attention. I just <<<THINK>>> the process on this has been <COMPLETELY> botched from top to bottom and that's ultimately going to be the reason why this fails by a couple votes."
+  },
+  {
+    "transcript_id": "CNN-30628",
+    "matched_terms": {
+      "may": "hedge",
+      "probably": "hedge",
+      "think": "hedge"
+    },
+    "previous_statement": "And in terms of competitive fares for the consumer, where does this leave them?",
+    "statement": "I <<<THINK>>> there is a reason to <EXPECT> that competition will still continue. It <MAY> not be the levels in the past, but it's <PROBABLE> that some of the fares that are being offered in the Australian market in recent months have <<PROBABLY>> been unsustainable anyway I <WOULD> <<<THINK>>>."
+  },
+  {
+    "transcript_id": "CNN-102118",
+    "matched_terms": {
+      "know": "hedge",
+      "well": "hedge"
+    },
+    "previous_statement": "Lou, this trip to the NSA today was just the latest in an attempt by this White House to really make this controversial program, a potential political liability, into a political plus. And as part of the trip today -- you see him there shaking hands -- he gave thanks to the men and women carrying out this secret program at the NSA and used his argument over and over again. We've heard it for why he believes it should continue, but he also evoked last week's Osama bin Laden tape to help make his case.",
+    "statement": "You <KNOW>, I understand there's some in America who say, <WELL>, this can't be true, there aren't still people willing to attack. <ALL> I <WOULD> ask them to do is listen to the words of Osama bin Laden and <TAKE> them seriously. When he says he's going to hurt the American people again or try to, he means it. I <TAKE> it seriously. And the people of NSA <TAKE> it seriously. And most of the American people <TAKE> it seriously as <WELL>."
+  },
+  {
+    "transcript_id": "NPR-48674",
+    "matched_terms": {
+      "fact": "authority",
+      "about": "none"
+    },
+    "previous_statement": "You know, there's a lot of people take buses that you don't think they would. You don't - you can't say that.",
+    "statement": "And, in <FACT>, one of the main messages here is don't rely on stereotypes; anyone can be a terrorist. Watch what people do, not what they look like. One man says he'd be calling things in <ALL> day, if he worried <ABOUT> <EVERY> strange person he saw. That drew this from Joe Diaz of Tampa."
+  },
+  {
+    "transcript_id": "CNN-301509",
+    "matched_terms": {
+      "know": "hedge",
+      "might": "hedge",
+      "seem": "exclude",
+      "well": "hedge"
+    },
+    "previous_statement": "One of those victims, the body of an Italian woman, has just been transported to Rome. Nina dos Santos joins us now from Milan where that gunman died. And I understand that you spoke with counterterrorism officials. How did authorities conclude that he escaped alone, or that he was on the run alone?",
+    "statement": "<WELL>, they don't <KNOW> for definite whether he didn't have any help. What they are saying here, Victor, is that they don't have any evidence of him having any help. And they're basing that on CCTV footage that they've found from him passing through two major Italian train stations on his way towards this suburb in the Northeastern part of Milan. So what they've said is, they've seen him alone, passing through the stations of Turin, and then, through the main central station in Milan from where he managed to -- seems to catch a bus, and end up in this <RATHER> random carpark outside another local train station. The big <QUESTION> from here is, where was he heading from here. <WELL>, we <KNOW> that buses do depart from this carpark towards the Balkans. We <KNOW> that there are jihadist networks operating in the Balkans. But they also leave for Southern Italy. And remember that Anis Amri arrived in Southern Italy when he first stepped foot in Europe. He spent four years in a jail in Sicily, and members of his own family had speculated that he <MIGHT> have been radicalized in that very jail in the South of Italy. So was he heading south? Was he heading back to his native Tunisia? We don't <KNOW> that either. I can tell you that buses depart for places like Algeria and Morocco from this parking lot. I saw one depart yesterday evening. Those are the kinds of lines of investigation that authorities will be trying to piece together from here. But no evidence at the moment that he had any help. When it comes to what he had on his person, they also say that his belongings were <RATHER> scarce. He had three pairs of trousers, one on top of another, and he had a backpack. Inside that backpack, he had no cell phone, no credit cards -- just over $1,000 in local currency, in euro, in cash. And so, they're trying to <FIGURE> out where was he going, had he just managed to grab those belongings, and headed on the run."
+  },
+  {
+    "transcript_id": "CNN-363970",
+    "matched_terms": {
+      "may": "exclude"
+    },
+    "previous_statement": "Thanks, Fred.",
+    "statement": "And don't miss tomorrow night's back-to-back-to-back, three presidential town halls live from South by Southwest. Former Congressman John Delaney, 7:00, Congresswoman Tulsi Gabbard, 8:00, and then Mayor Pete Buttigieg is 9:00. Jake Tapper and Dana Bash <MODERATE> tomorrow night starting at 7:00 eastern right here on CNN."
+  },
+  {
+    "transcript_id": "CNN-134079",
+    "matched_terms": {
+      "certainly": "authority",
+      "could": "hedge",
+      "around": "none"
+    },
+    "previous_statement": "All right. Christine, thanks. If you still don't believe that these are strange times, just consider a sitting president deferring to his successor on a $350 billion spending request. Dan Lothian is at the White House where the transition to power is either really, really smooth, or really, really blurry. What do you think, Dan? Which is it?",
+    "statement": "That's right. It <<COULD>> be <A LITTLE> bit of both. In this case what you have seen is that the Bush administration seeing eye-to-eye with the Obama team as to this $350 billion. Realizing that this money needs to be released, so that it can help turn this economy <AROUND>. Mr. Obama up on the Hill meeting with congressional leaders, trying to make that sales pitch. This is really the first big test for President-Elect Barack Obama. He does not want to see a political showdown on this. If for some reason that $350 billion is blocked, then he <WOULD> be forced to veto any <<KIND OF>> bill that <WOULD> come to him. It's not the way he wants to begin his administration. So, he is pointing out that this is money, this $350 billion <<COULD>> be used to help to keep people in their homes. But he's also pointing out that there will be a lot of transparency with how that money is used. And of course, again, emphasizing that something has to be done. And this $350 billion <CERTAINLY> is a start to help turn the economy <AROUND>, Kyra."
+  },
+  {
+    "transcript_id": "CNN-132668",
+    "matched_terms": {
+      "know": "hedge"
+    },
+    "previous_statement": "How big is the question facing Mr. Obama, as he unveils his economic team on Monday with New York Fed Chief Timothy Geithner, the pick for treasury secretary. The chief of the National Economic Council at the White House will be Lawrence Summers, who's pushed for an enormous stimulus package of $500 billion to $700 billion. While Obama advisers will not be pinned down on a specific number yet, they're suggesting drastic action is needed to prevent millions more jobs from being lost.",
+    "statement": "It's going to be a number big enough that when they spell it out, it looks like, \"Ooh,\" you <KNOW>, with that many zeros on it."
+  },
+  {
+    "transcript_id": "NPR-47897",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "All right.  Let me...",
+    "statement": "...hanging <ABOUT>."
+  },
+  {
+    "transcript_id": "CNN-85828",
+    "matched_terms": {
+      "possibly": "none",
+      "think": "hedge",
+      "seem": "hedge"
+    },
+    "previous_statement": "The kidnappers of a young man in Marine fatigues, whose family identifies him as Corporal Wassef Ali Hassoun, call themselves the Islamic Response.",
+    "statement": "This is the first time that I have heard of this group and I <<<THINK>>> that this is a pattern that we're seeing in Iraq. There are any number of tiny little groups of people who are coming together for particular operations. The <ONLY> <THING> that they <SEEM> to have in common is they hate Americans and they have a desire to harm as many as they <<POSSIBLY>> can."
+  },
+  {
+    "transcript_id": "CNN-369642",
+    "matched_terms": {
+      "clear": "exclude",
+      "know": "authority"
+    },
+    "previous_statement": "And I know this, because we work closely together, in your new book, \"The Shadow War\" -- and I have a hardcover copy of the new book that just came out today -- you received unprecedented access to some of America's most secure facilities and missions, some of which you actually debuted here in THE SITUATION ROOM over the past year or two. Still, in your new book, you say you're concerned about the future. Is the U.S. prepared for the threat, the new threat from China and Russia, the threat they pose to the U.S.? It's a different kind of threat.",
+    "statement": "Here's the concern, as you <KNOW> I spent time on the ground, on each of this fronts of this shadow war. I was in a U.S. surveillance jet over the South China Sea, where China is creating new territory, again, in the face of U.S. protests and international law. I was on a U.S. nuclear submarine, under the Arctic, where the U.S. is fighting this new competition with Russia, as its submarines become more advanced."
+  },
+  {
+    "transcript_id": "CNN-198912",
+    "matched_terms": {
+      "about": "none",
+      "believe": "none"
+    },
+    "previous_statement": "So, at the same time, there are a lot of people, as you mentioned, who do listen to him and do agree with him and are fearful that someone is going to take their guns away. I know you really couldn't get a word in edgewise. I watched the interview live last night. I wanted to hear your point that you were making. What is your point? Do you think -- and supporters of yours -- think that all guns should be taken away from Americans?",
+    "statement": "No. Look, I mean, I honestly <<<BELIEVE>>> the <ONLY> way to ever ruler any gun murder is to remove <ALL> guns, but that's not a practical solution to America's problem. There are 300 million guns in circulation. They're <NEVER> going to get those out of circulation, so you <HAVE TO> be realistic in the goals and in what you're trying to achieve. What I've noticed since I've been on air at CNN, nearly two years now -- it will be two years next week -- is there's been a proliferation in the scale of mass shootings, a <<SORT OF>> horribly familiar pattern of deranged young men, in particular, getting their hands on these AR-15 military-style assault weapons and committing these terrible, outrageous -- I mean, the Aurora movie theater shooting was the biggest single shooting by a single shooter in the history of the United States. And within a few months, we had the biggest shooting at a school in the history of the United States. And, yet, the reaction is a week or two of mourning, <A BIT> of chatter <ABOUT> gun control, and then America goes back to normal. Meantime ..."
+  },
+  {
+    "transcript_id": "CNN-409450",
+    "matched_terms": {
+      "know": "hedge",
+      "could": "hedge",
+      "doubt": "authority"
+    },
+    "previous_statement": "All right. Martin, thank you so much for that. Remnants of Laura still posing a threat of tornados and heavy rain as that storm moves east. Here's meteorologist Tyler Mauldin.",
+    "statement": "You <KNOW>, there's <NO <DOUBT>> in my mind that Laura will <NEVER> be used again. That name will be retired. It was the most intense storm to make landfall in Louisiana in 164 years. It has since this weekend, it's now a tropical depression, it is moving to the east and as it moves to the east it will continue to weaken. And on this journey towards the mid-Atlantic, it's going to put much of this region under the risk for some severe weather and rainfall. I mean, down here across the southwest, from central Alabama up to southern Kentucky, you <<COULD>> see some very strong winds today. And also some isolated tornados. The highest risk for severe weather today though is with the separate system pushing down across the Midwest. Level 3 risk for portions of Iowa going into Illinois. This is something they don't <NEED TO> see because a couple of weeks ago they were dealing with that derecho."
+  },
+  {
+    "transcript_id": "CNN-21017",
+    "matched_terms": {
+      "know": "authority",
+      "confident": "authority",
+      "believe": "authority"
+    },
+    "previous_statement": "And Bill, Greta brings up a good point, because part of that psychological plan, that may be one of the reasons why the Republicans, two days ago in their reply to the Gore complaint, said they want 1.2 million ballots from three more counties brought in. Yesterday they told the judge, Well, we don't want the ballots brought in yet, but we want to reserve the right to have them brought in if a count happens. And now the Democrats are more than aware that the Republicans are willing to do all they can to make a count, if the count happens, take a little longer and be a little more complex and a little more confusing.",
+    "statement": "And <<SORT OF>> the interesting basic aspect of this, you see the constant tension between the two sides, the Gore people wanting to race through this and get this done, and of course the Bush people wanting to slow it down, the 95 witnesses, <ALL> the ballots to be voted. So you will constantly see the dynamics, that tension, in almost everything the lawyers do. One wants to speed it up, get it done, and the other doesn't. And <<<BELIEVE>>> me, it's not just a -- the -- Governor Bush's team is not doing anything so sinister and unusual. That's what lawyers do. And the Gore people, I am <<CONFIDENT>>, if the shoe were on the other foot, <WOULD> be doing the same tactics. But lawyers don't openly come out and say that's what they do, but I've been behind the scenes on enough cases, and I <KNOW> what it takes to win..."
+  },
+  {
+    "transcript_id": "CNN-358102",
+    "matched_terms": {
+      "know": "none",
+      "about": "none",
+      "think": "none",
+      "seem": "exclude",
+      "well": "authority"
+    },
+    "previous_statement": "I was reading, even subsidized housing as well, which makes me wonder, is this a financial burden for Nagi? I mean, not only paying parents to have children, but also providing all of those other perks?",
+    "statement": "<WELL>, actually, the town hosts Japan's Self-Defense Force Garrison and for this reason, it receives extra funds from the government. And also, I heard <ABOUT> town officials, you <KNOW>, giving money out of their own pockets to try and turbo charge the town's fertility rate. And so it seems like this town really wants to <<<THINK>>> ahead in the long term and boost fertility rates just to combat its own <<SORT OF>> declining and aging population."
+  },
+  {
+    "transcript_id": "CNN-323781",
+    "matched_terms": {
+      "know": "none"
+    },
+    "previous_statement": "Where's your money going?",
+    "statement": "I don't <KNOW>. There's a couple of non-economists actually on the list. Ask me in a week."
+  },
+  {
+    "transcript_id": "CNN-280483",
+    "matched_terms": {
+      "absolutely": "authority"
+    },
+    "previous_statement": "I'm going to leave it at the agreement.",
+    "statement": "<ABSOLUTELY>."
+  },
+  {
+    "transcript_id": "CNN-126719",
+    "matched_terms": {
+      "possibly": "hedge",
+      "believe": "none"
+    },
+    "previous_statement": "Stop just a moment. This sounds a lot like, eh, go home and write a 300-word essay and I`ll let you out of jail. This -- no -- are you telling me they`re giving these families a service plan? In other words what they need to do in order to get their kids back?",
+    "statement": "Yes, and that`s the goal of CPS is to reunite as many of these kids with their parents as possible if the situation is something that is good for the kids. Now it`s hard to <<<BELIEVE>>> that any judge that`s involved in this case will give a child back to a parent if they go back to living on this ranch where some of these homes are one-man, nine wives, 24 kids, <<POSSIBLY>> some child brides who are either with child or already have a child. It`s hard to <<<BELIEVE>>> any judge will give the kid back to the parent in that case."
+  },
+  {
+    "transcript_id": "CNN-66201",
+    "matched_terms": {
+      "know": "none",
+      "well": "none"
+    },
+    "previous_statement": "None",
+    "statement": "And now, as you can see, SWAT team has that car <WELL> surrounded after punctured the tires of that vehicle, attempting to establish communication with the people inside. With us on the line right now is our law enforcement <EXPERT> Mike Brooks. Mike, what's going on right now? You were a hostage negotiator. You <KNOW> how this goes down."
+  },
+  {
+    "transcript_id": "CNN-409443",
+    "matched_terms": {
+      "know": "hedge",
+      "think": "hedge"
+    },
+    "previous_statement": "You know, you're amongst many Republicans. You know, former Congress people, we've seen national security people, legal people. Many, many Republicans groups are coming out like you against President Trump and saying that really, you know, they will vote for Joe Biden. How do you -- do you think that will sway a lot of people or do you think this 95 percent in general is going to stick, despite what we've just talked about, the suburban women who are, as we saw at the convention, a main target of this campaign as well?",
+    "statement": "Yes. You <KNOW>, I don't <<<THINK>>> that it will sway a lot of those who are self-identified Republicans who are with the president. But remember, in Arizona and many states now, you almost have one-third registered Republican, one-third Democrat, one-third independent. And so, you don't <HAVE TO> move, you <KNOW>, many Republicans, self-identified Republicans, who are already voting for the president. Of independents who are those who are looking for an alternative, you don't <HAVE TO> move many to <CHANGE> a state."
+  },
+  {
+    "transcript_id": "NPR-2584",
+    "matched_terms": {
+      "know": "none"
+    },
+    "previous_statement": "Mm-hmm.",
+    "statement": "You <KNOW>, that's the <ONLY> <THING>."
+  },
+  {
+    "transcript_id": "CNN-146478",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "No. I do have some concern about my daughter, because from what I understand, he was -- he had cameras in some of the rooms. So you know, my...",
+    "statement": "Have you talked to your daughter <ABOUT> this?"
+  },
+  {
+    "transcript_id": "CNN-401055",
+    "matched_terms": {
+      "clear": "exclude",
+      "know": "none",
+      "think": "none"
+    },
+    "previous_statement": "Yes, rosemary, right on the nail. Sign of weakness. And that exactly is what this is not. It's really trying to make sure that you protect other people. You know, if you look at the whole story behind the mask just to be fair, initially the CDC was really hesitant to say that yes, you needed to wear a mask. Because it wasn't your fault, we didn't really have the science behind it. Few weeks later we are absolutely sure that a simple measure of wearing an inexpensive mask, a cotton mask, can really prevent the infection from spreading. And I think it's important for people to know that really if you're going make a decision to not wear a mask, unfortunately you're not only making a decision for yourself, you are making a decision for other people as well that want to be healthy.",
+    "statement": "Yes, that's a very key point, isn't it? And what was your reaction to President Trump pushing for churches and other houses of worship to open over this memorial holiday weekend and threatening to override any state that prevented that from happening? And then Dr. Birx reveal that 35 percent of those infected with the coronavirus are asymptomatic. But then minutes after that, she said anyone who knows they're sick will clearly <AVOID> going to church. I mean, that's going to be difficult if you don't <KNOW> that you're sick, right? So, what did you <<<THINK>>> of those mixed messages that were being <GIVEN> out by President Trump and Dr. Birx?"
+  },
+  {
+    "transcript_id": "CNN-129688",
+    "matched_terms": {
+      "well": "none"
+    },
+    "previous_statement": "Natisha, I want to go to another note. Authorities had a round table discussion -- hold on, Moolah, I`ll come to you just a moment. A round table discussion they called it today. What did we learn?",
+    "statement": "<WELL>, there wasn`t much that we learned. We were hoping that they <WOULD> shed light on some new things so we really learned no more and no less. What they did tell us, though, is that when and if they get credible tips, they will be out with their search -- cadaver dogs searching for Caylee, exhausting <ALL> their resources as much as possible. However, they <WOULD> not speak to specifics in terms of timeline or in terms of phone records. They said anything that is specific to this case they are going to keep it under wraps right now because they don`t want anybody going on any wild goose chases out in the public."
+  },
+  {
+    "transcript_id": "NPR-37998",
+    "matched_terms": {
+      "think": "hedge"
+    },
+    "previous_statement": "It's almost a scary statement, just like the one that says there's no cholera.  Or his recent statement said, you know, Zimbabwe belongs to him. I think that it just speaks to a man who's lost it. Who's losing his mind, is out of touch with reality.",
+    "statement": "And I <<<THINK>>> as I listen to Secretary Frazer today, I mean, I <<<THINK>>> she's optimistic that there is going to be some tougher action against Mugabe. The Security Council will meet in January, and she says she's expecting then, because of the changed circumstances, much tougher sanctions from the international community."
+  },
+  {
+    "transcript_id": "CNN-373434",
+    "matched_terms": {
+      "about": "none",
+      "feel": "none"
+    },
+    "previous_statement": "Yes.",
+    "statement": "-- if you have a poor first round, it can really be an impediment. And that's how I <<FEEL>> <ABOUT> Beto O'Rourke. So I <WOULD> say, Elizabeth Warren ends as the frontrunner among that group. Julian Castro causes people to <TAKE> a second look at him. Beto O'Rourke --"
+  },
+  {
+    "transcript_id": "CNN-345449",
+    "matched_terms": {
+      "know": "none",
+      "could": "hedge"
+    },
+    "previous_statement": "For farmers in the west already battling drought and immigration labor shortages, losing foreign buyers could push them to the brink.",
+    "statement": "We have 160 dairies in the state of Utah right now. It is a very real possibility that by the end of this year, we <<COULD>> have 100. Pretty soon, you <KNOW>, you <HAVE TO> say I can't do this anymore."
+  },
+  {
+    "transcript_id": "CNN-367007",
+    "matched_terms": {
+      "know": "none",
+      "should": "authority"
+    },
+    "previous_statement": "It's called ignorance, but go on.",
+    "statement": "But, you <KNOW>, he <SHOULD> <KNOW> these types of things, the Flores settlement, that doesn't mean the judge, Flores."
+  },
+  {
+    "transcript_id": "CNN-177604",
+    "matched_terms": {
+      "absolutely": "authority",
+      "clear": "exclude",
+      "could": "exclude",
+      "quite": "none",
+      "about": "none",
+      "think": "hedge",
+      "believe": "none",
+      "suppose": "exclude",
+      "well": "none"
+    },
+    "previous_statement": "It has made a change.",
+    "statement": "Oh, yes, <ABSOLUTELY>. Europe achieved it, and a number of other countries did. But it <ONLY> applied to industrial countries, 40 of them. This is 192, it's a lot more. Canada was onboard to begin with, but I did visit Canada in -- I <<<THINK>>> it was in 2006, and met Rosa Ambrose, I <<<THINK>>> she was the environment secretary. She didn't last 12 months. But she told me <QUITE> clearly that the -- this government, the Harper government, were not going to observe Kyoto. So, what they did, instead of meeting the 7 percent goal, which other countries were doing, they burst ahead, got a 17 percent plus, and took no notice, and intended anyway to leave Kyoto. And for them to talk <ABOUT>, now, \"I <<<BELIEVE>>> in the new agreement,\" can you trust a government that couldn't even actually achieve what it was supposed to do under Kyoto one, now promising to do something by 2015? <WELL>, it'd <HAVE TO> be a remarkable transformation from what they are at the moment."
+  },
+  {
+    "transcript_id": "CNN-172492",
+    "matched_terms": {
+      "know": "none",
+      "should": "authority",
+      "think": "hedge"
+    },
+    "previous_statement": "I was speaking to the British foreign secretary recently, saying -- and he was saying that if any country was found to have Gadhafi on their soil, that the amount of diplomatic pressure on that country would be huge from the West A lot of very powerful countries. They wouldn't be able to survive that pressure, would they? Would they keep protecting Gadhafi against pressure from the US and Europe?",
+    "statement": "That is true. If that very country has an extradition treaty, like if he's in Algeria, Mali, Chad, or Niger. If we have extradition treaty with Libya, it will be easy to extradite these people. But I don't <<<THINK>>> that is the issue. The issue is, let's see where Gadhafi is. The -- once we <KNOW> where Gadhafi is, we can reel in and trace his action. What is the <MOST IMPORTANT> <THING> is that we <SHOULD> not allow Gadhafi to be active in any way so that he can be free to undermine the new system in Libya."
+  },
+  {
+    "transcript_id": "CNN-197820",
+    "matched_terms": {
+      "certainly": "authority",
+      "know": "none",
+      "fact": "none",
+      "about": "none",
+      "think": "none",
+      "well": "none"
+    },
+    "previous_statement": "The interesting thing, Dan, I guess about all of this is the chain of command in all of this, and the event in question happened under Mark Thompson's leadership. What does the report have to say about him? Granted, he is no longer there now.",
+    "statement": "<WELL>, no new revelations, really. Mark Thompson, we knew, had been -- had the <FACT> that they were going to do this expose into Jimmy Savile, mentioned to him at a party by a journalist. He, again, comes out of this not really looking any worse. Basically, he didn't <KNOW> any more than that. He likened it to someone <<SORT OF>> saying to, you <KNOW>, the justice minister, you <KNOW>, what do you <<<THINK>>> <ABOUT> this trial in Liverpool? And he said, <WELL>, you're in a difficult position in that case, because, you <KNOW>, as someone that senior, you can't get involved with those detailed editorial decisions. So I don't <<<THINK>>> he comes out of this any worse than the facts that we already knew <ABOUT> him. Of course, he's now gone on to head up the New York Times, and there is a lot of interest in the U.S. as to how damaged he is by <ALL> this. But <CERTAINLY> for other lower down managers in the BBC, some really damning criticism against Helen Boaden and Steven Mitchell, her deputy as director of news. He's gone, she's staying. Adrian Van Klaveren, who was also involved in this decision process, stays on as <WELL>. So I <<<THINK>>> the headlines tomorrow will be, you <KNOW>, 3.2 million pounds, 10,000 emails, interrogated, and not one person has been fired."
+  },
+  {
+    "transcript_id": "CNN-167571",
+    "matched_terms": {
+      "clear": "none",
+      "should": "authority",
+      "about": "none",
+      "well": "none"
+    },
+    "previous_statement": "The White House says it's staying out of this, that the NLRB is independent and they have no role in determining what the NLRB is doing. You suggested that the NLRB is really a proxy for the White House. But go ahead and tell me why you don't believe the White House.",
+    "statement": "<WELL>, the acting general counsel here at the board has not been confirmed by the Senate. The White House has stocked this board. And ironically, his chief of staff, Obama's chief of staff, was on the Boeing board when this decision was made. So, if they broke the law, he <SHOULD> <TAKE> a leave of absence at least. But there is so much duplicity here, the president <SHOULD> speak out and make his position <CLEAR>. This is hurting job growth in America. It's not just <ABOUT> South Carolina or Boeing. It is encouraging any company that wants to expand to do it outside of this country so they don't <HAVE TO> deal with this type of frivolous lawsuit."
+  },
+  {
+    "transcript_id": "CNN-112987",
+    "matched_terms": {
+      "best": "none",
+      "know": "none",
+      "doubt": "none"
+    },
+    "previous_statement": "When in doubt, say little and do less. OK, wait. Let me think.",
+    "statement": "You <KNOW> what? That`s very close to one of the <BEST> pieces of advice I ever got, was, \"When in <DOUBT>, leave it out.\""
+  },
+  {
+    "transcript_id": "CNN-9703",
+    "matched_terms": {
+      "may": "exclude",
+      "about": "none",
+      "maybe": "hedge",
+      "doubt": "authority"
+    },
+    "previous_statement": "One thing that can't be affected by stays or court decisions is talent, people. Microsoft is largely a people business and I would think in the aftermath of a possibly adverse consequence for the corporation some of those most talented people might be wanting to leave. What do you gentlemen think about the prospect that Microsoft will lose its most important assets?",
+    "statement": "I was talking to Bob Herbold recently <ABOUT> this and there's <NO <DOUBT>> Microsoft just had to increase its salary scale. They just issued a whole new set of options. They just reissued their last July set of options. And so they -- they are very aware of this. The good news for them is that some of the dot.coms are getting hit hard, so <<MAYBE>> they are looking <A LITTLE> less attractive than they used to for some of the talent."
+  },
+  {
+    "transcript_id": "CNN-168645",
+    "matched_terms": {
+      "well": "none"
+    },
+    "previous_statement": "What are does it tell you about where the terrorists are versus where security officials are right now?",
+    "statement": "<WELL>, it tells me that we have exhausted the capabilities of the technology available to us. Because there's no way we can <TAKE> the next step after the body scanners to <FIGURE> out when a person carries out -- carries a device in his body."
+  },
+  {
+    "transcript_id": "CNN-143437",
+    "matched_terms": {
+      "sure": "exclude",
+      "about": "none"
+    },
+    "previous_statement": "All right. So Michael, do you agree with any of that?",
+    "statement": "Not much. The government option as it's called is not <ABOUT> expanding choices but it's <ABOUT> reducing choice because the government cannot compete <FAIRLY> with private insurance companies. The government plan will <ALWAYS> enjoy special advantages and subsidies that will allow them to undercut private insurance companies. And I don't really mind private insurance companies going out of business. But the problem is in the government option is going to pull consumers out of private insurance, put those private insurers out of business despite offering a lower quality higher cost product. That's what the ability to subsidize the government option does."
+  },
+  {
+    "transcript_id": "CNN-146816",
+    "matched_terms": {
+      "may": "exclude",
+      "maybe": "hedge",
+      "think": "none",
+      "well": "hedge"
+    },
+    "previous_statement": "That denotes something illegal, something not aboveboard.",
+    "statement": "OK. <WELL>, she had mentioned to me the word \"underground,\" and she mentioned that -- at first, she mentioned that it was a domestic violence shelter. And she had used the word \"underground\" <<MAYBE>> once in the conversation. And instead of saying \"domestic violence,\" I didn`t want that to make Logan <<<THINK>>> that I was trying to say he was violent towards her..."
+  },
+  {
+    "transcript_id": "CNN-56944",
+    "matched_terms": {
+      "obviously": "authority",
+      "clear": "exclude",
+      "fact": "authority",
+      "about": "none",
+      "apparently": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "... just moments later crashed into Frank Bonnelli Regional Park. Now we're told this is a very popular recreation area. There were a number of people gathered there at the shore. There's a reservoir, a lake there. People gather there celebrating the Fourth of July. The plane came down. One person was killed. We believe it was the person on board the plane. There were 10 injuries. Six of those are said to be in critical condition. Two of them are children. They are said to be in cardiac arrest. It was a twin-engine plane. We don't know very much more about the identity of any of those people hurt, but you can just tell by looking at the scene what a horrific tragedy that was. Families, presumably, were there. And I'm reading now a quote from the Associated Press. An eyewitness said he was at the park when the plane went down. He said its wings clipped the trees in the park before it crashed. He said it went nose first. There were bodies flying all over the place. He said, \"When we got there, there were two little girls under the plane trapped.\" This tragedy happening in the Los Angeles suburb of San Dimas. It's about 30 or 40 miles east of the Los Angeles Airport where, of course, watching that shooting story as well. To some other news now. A man with very close family ties to Iraq's Saddam Hussein has been arrested in Florida before he was to begin lessons at a flight school that was used by one of the September 11 hijackers. CNN's Brian Palmer joins us now live from Miami. Brian, this man is in custody. And have they been able to determine if he is truly the stepson of Saddam Hussein?",
+    "statement": "<WELL>, Judy, we do have confirmation that he is the stepson. Mohammed Nour al-Din Saffi, is, indeed, the stepson of Saddam Hussein, and he is still in Krome Detention Facility in Florida. We've got some more information -- some more details <ABOUT> him. He is an unemployed flight engineer who used to work for Iraqi Airways. Now he came into the country through Los Angeles on Monday, and he raised two red flags for law enforcement, the first of which, <OBVIOUSLY>, his relationship to Saddam Hussein, and, secondly, the <FACT> that the last time he entered the states was September 7th, 2001. He was, <<APPARENTLY>>, transiting the country on his way to London. Now investigators are also saying that a week before Saffi had entered the country, he actually got clearance from law enforcement, that he was cleared to come to the country to <TAKE> a recertification course for his flight engineer profession at this flight school here in Miami, Florida. So, in <FACT>, his story that he was cleared has, indeed, checked out from law enforcement. Now Saffi was picked up in Miami a second time by the Immigration and Naturalization Service for a different reason. What the INS says is that he came into the country and identified himself as a tourist. Now he was studying at this school. The INS saying very clearly, if you come into this country to study, you <HAVE TO> have a visa. Saffi did not have one. They took him into custody for that reason and, <OBVIOUSLY>, for those other two red flags, the Saddam Hussein connection and the September 7 transiting. Now whether the friends -- people close to him say that he was told he actually didn't need a visa, that the school said he didn't need a visa. We're trying to <CLARIFY> that now, but the INS says that doesn't matter. They're going to deport him at the earliest possible opportunity -- Judy."
+  },
+  {
+    "transcript_id": "CNN-197647",
+    "matched_terms": {
+      "may": "exclude",
+      "about": "none",
+      "maybe": "none",
+      "think": "hedge"
+    },
+    "previous_statement": "And that father you heard there, Matthew Plant, he's actually an assistant pastor at a local church. And he says the answer, he believes, is that more people should be armed. And that's something that you hear a lot from gun advocates here in Arizona and in other places. That if that teacher or school officials in Connecticut were armed, that maybe so many children would not have been killed. We also talked to the principal at this school about any security measures that he may be taking in the wake of what happened on Friday. He said nothing special but they did go through and review their security procedures here at the school, found some doors that maybe that were open that should have been locked. The parents we spoke with said they are not concerned about security here at this school today but they are very concerned about the issue of gun control nationally -- Carol.",
+    "statement": "You talk <ABOUT> the desire for guns. I <WOULD> -- I <WOULD> <<<THINK>>> gun shows across the country, <<MAYBE>> they canceled some of them?"
+  },
+  {
+    "transcript_id": "CNN-78004",
+    "matched_terms": {
+      "certainly": "authority"
+    },
+    "previous_statement": "Welcome back. They spent their whole lives together attached at the head. They're only two years old but in a 33 hour operation over the weekend the Egyptian conjoined twins were separated. Now, in a Dallas hospital, their new life apart has begun with hopeful signs. Our Medical Correspondent Dr. Sanjay Gupta is following the story. He's joining us now live from the CNN Center -- Sanjay.",
+    "statement": "Good afternoon. A major obstacle has been crossed. The operation is over but <CERTAINLY> still, Wolf, lots of watching and waiting."
+  },
+  {
+    "transcript_id": "CNN-118421",
+    "matched_terms": {
+      "must": "authority",
+      "know": "none",
+      "sure": "none",
+      "about": "none",
+      "well": "none"
+    },
+    "previous_statement": "And Candy, how are these candidates specifically looking at the Independent voting block and how they view these things?",
+    "statement": "<WELL>, they're looking at it in much the same way they look at the general public, that they <NEED TO> talk <ABOUT> this in terms of civil rights and in terms of giving gay couples the same benefits that other couples enjoy. So, they look at it in the same way. This is not, I <MUST> say, an issue that comes up a lot on the campaign trail. Again, as John explained, it doesn't have the power it used to have in <<SORT OF>> getting people to say, listen, you <KNOW>, the Democrats are <ALL> <ABOUT> gay issues. One of the things that the Democrats do <HAVE TO> be careful of, though, is to make <<<SURE>>> that they don't look as though as some of them have accused the Democrats of doing -- the Republicans have accused them of them -- of saying: listen, there are so many more important things, why are they focusing on this, it's pandering. So, if begin to look like you're pandering, no matter who you're pandering to, that's a political problem."
+  },
+  {
+    "transcript_id": "CNN-365693",
+    "matched_terms": {
+      "may": "hedge",
+      "might": "hedge",
+      "think": "hedge"
+    },
+    "previous_statement": "Your willingness to continue to promote a demonstrably false narrative is alarming. The findings of the special counsel conclusively refute your past and present assertions and have expose you as having abused your position to knowingly promote false information. Having damage to the integrity of this committee and undermine the faith of the United States government and these institutions, we have no faith in your ability to discharge your duties in a manner consistent with your constitutional responsibility and urge your immediate resignation as chairman of committee.",
+    "statement": "My colleagues <MAY> <<<THINK>>> it's OK that the Russians offered dirt on the Democratic candidate for president as part of what was described as the Russian government's effort to help the Trump campaign. You <MIGHT> <<<THINK>>> that's OK. But I don't <<<THINK>>> it's OK. I <<<THINK>>> it's immoral. I <<<THINK>>> it's unethical. I <<<THINK>>> it's unpatriotic, and yes, I <<<THINK>>> it's corrupt. An evidence of collusion. And the day we do <<<THINK>>> that's OK is the day we will look back and say that is the day America lost its way."
+  },
+  {
+    "transcript_id": "CNN-82740",
+    "matched_terms": {
+      "about": "hedge"
+    },
+    "previous_statement": "Well, I would not call him a white supremist. You can call him a Dixiecrat. Strom Thurmond began defending blacks in the South during the early '40s against the poll tax. He defended them in court against unfair lynchings when they were accused of raping or",
+    "statement": "Mr. Williams, you first became a -- came to national attention supporting Clarence Thomas in the vicious, bitter confirmation fights. What was that <ALL> <ABOUT>? What does that tell us <ABOUT> America and <ABOUT> black people in America?"
+  },
+  {
+    "transcript_id": "CNN-221704",
+    "matched_terms": {
+      "know": "none",
+      "could": "hedge",
+      "stuff": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "Well, you should never -- you should never take an incoming call from a credit card company very seriously. You should always say -- you know, if it's American Express, you should go on American Express's Web site and then call them to change your credit card and that kind of thing. You should never ever take a phone call from someone claiming to be your credit card company without the ability to verify themselves. So, that's the -- you know, that's the thing that if most people did, they'd protect themselves 99 percent of the time. Just call your credit card company. Don't take calls from them.",
+    "statement": "Clay Johnson, very helpful <STUFF>. The Department of Better Technology, thank you. <WELL>, you <KNOW>, a judge has issued a ruling on the NSA's metadata collection program. Surveillance on your phone call data <<COULD>> be affected. The judge says the NSA's controversial bulk collection program is legal. And Justice Reporter Evan Perez joining us now. This is a big deal."
+  },
+  {
+    "transcript_id": "CNN-412653",
+    "matched_terms": {
+      "know": "hedge",
+      "may": "hedge",
+      "about": "none",
+      "well": "none"
+    },
+    "previous_statement": "Let's discuss this with Dr. Leana Wen, our CNN Medical Analyst and Emergency Room Physician at George Washington University. Dr. Wen, it is good to see you. Dr. Fauci says, be concern the president says, don't be afraid. Averaging about 43,000 new infections a day right now, what's the right word?",
+    "statement": "<WELL>, Dr. Fauci is correct. We are trending in the <WRONG> direction here. We are starting off coming into fall, winter season at far too high of a baseline level of infection. And what's really concerning to me, John, is also that our test positivity is going in the <WRONG> direction. We have more than a dozen states where the test positivity is over 10 percent. Three states, Wisconsin, Idaho and South Dakota have test positivity of over 20 percent. That means we have infections going up, we don't <KNOW> how many tests are being done and actually we <MAY> be missing many cases in these states. And coming into the cold weather months, Coronavirus is spread a lot more. This is a Coronavirus; it's going to spread more. It's going to be hard for people to be outdoors <RATHER> than indoors. And I just also worry <ABOUT> the confluence with other respiratory pathogens and the flu especially with inadequate testing."
+  },
+  {
+    "transcript_id": "CNN-180346",
+    "matched_terms": {
+      "may": "hedge",
+      "think": "hedge",
+      "view": "exclude",
+      "well": "none"
+    },
+    "previous_statement": "There's also a leaked NATO report today that I wanted to ask you about, sir, saying Pakistan has been helping the Taliban kill American troops. Obviously, this comes on the heels of the United States saying that there are members of the Pakistani government who have been assisting the Taliban for quite some time. But this is a very explicit thing. Helping to kill American troops. Should we end the relationship with Pakistan? Is it really something that the United States must stick with?",
+    "statement": "<WELL> first of <ALL>, I <<<THINK>>> the report is not a conclusion. What it does is it states what currently has been learned from interviews and interrogations, so it <MAY> be accurate, it <MAY> not be. But let's <<ASSUME>> that it is. I <<<THINK>>> there has been a really a market decline over the last 18 months or two years in our relationship with Pakistan especially the ISI and --"
+  },
+  {
+    "transcript_id": "CNN-193924",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "Wait, wait, wait, wait. And what would you like for Christmas, little boy?",
+    "statement": "Are voters taking cues from these kinds of debates instead of the real debates? We'll talk <ABOUT> that. In the final lap, a heart-stopping crash of 25 cars at Talladega. What triggered the accident? We'll talk <ABOUT> that when we come back. Back in a moment."
+  },
+  {
+    "transcript_id": "CNN-335997",
+    "matched_terms": {
+      "may": "exclude",
+      "about": "none",
+      "maybe": "hedge",
+      "think": "none",
+      "view": "exclude",
+      "well": "none"
+    },
+    "previous_statement": "None",
+    "statement": "The president has ignored questions <ABOUT> the Stormy Daniels scandal for weeks and that's very unusual. He is an active opponent. <WELL>, it doesn't matter because her story is now out in the open and there are big legal implications for her in that and <<MAYBE>>, political ones for him. So let's discuss. We have CNN political analyst Julie Pace and Josh Green. So, Julie, what do you <<<THINK>>> moved the needle from the Stormy Daniels interview?"
+  },
+  {
+    "transcript_id": "CNN-242819",
+    "matched_terms": {
+      "well": "none"
+    },
+    "previous_statement": "So in base on this question who knew what and when. Obviously it's already been examine on Capitol Hill. What a law makers saying about it?",
+    "statement": "<WELL>, an attorney for the victim point it out that not once did these e-mails come up during four Congressional hearing. Now, we just heard today from at least one law maker who's calling for G.M. CEO Mary Barra to return to Capitol Hill to answer why the rush order for parts was place to months before the company notify safety regulator that there was even a problem, Anderson."
+  },
+  {
+    "transcript_id": "CNN-90267",
+    "matched_terms": {
+      "sure": "none",
+      "well": "none"
+    },
+    "previous_statement": "Absolutely, Fred, this is really being called a full- court press by the White House to get that intelligence reform bill passed in the next couple of weeks of course, before the lame duck session is over. One thing that the president has been working on, we expect that as early as Monday that letter will be delivered. It will be a letter to Congress. He's been working on the language saying, Look, we recognize some of the Pentagon's concerns about transfer of power, about continuity of power and authority, those type of issues, but at the same time we need to make some major changes when it comes to the intelligence community. That's something he'll be sending to those members. He's also been on the phone making calls to the House and Senate Republican leadership trying to push this through. And really, Fred, it is seen as a major credibility test for this president whether or not he has the leadership to actually lead his own party to back his legislation.",
+    "statement": "<ALL> right, Suzanne Malveaux, at the White House, thanks so much. Be <<<SURE>>> to join Wolf Blitzer tomorrow at Noon Eastern for a CNN exclusive. Pakistani President Pervez Musharraf will join Wolf on CNN's \"Late Edition\". <WELL> now to Iraq, where it's been a deadly day for U.S. soldiers and Iraqi police. Insurgents set off twin bombings in the green zone area of Baghdad. Elsewhere, militants used roadside bombings to create chaos. CNN's Karl Penhaul has more from Baghdad."
+  },
+  {
+    "transcript_id": "CNN-179924",
+    "matched_terms": {
+      "about": "none",
+      "believe": "hedge"
+    },
+    "previous_statement": "Well, Nancy, Justin DiPietro, Ayla`s father, says that he put her to bed at about 8:00 PM. The next morning, they discovered she was missing. And this is at about 8:00 AM in the morning, 12 hours or so later. There`s some controversy, based on a blog post, over who it was, exactly, that discovered Ayla missing. Now, the dad has not spoken publicly about it, but this blog that`s written by a friend of his says that it`s actually the -- let me make sure I get this right because it is confusing. It is the aunt that discovered Ayla was missing. The aunt told the dad`s girlfriend, and then the girlfriend told the dad.",
+    "statement": "Unleash the lawyers. Pilar Prinz, defense attorney, Atlanta, Dwane Cates, defense attorney LA. To you, Pilar. It`s <NEVER> good when the witnesses, the family begins to <CHANGE> their story. At the outset, the story was, I <<<BELIEVE>>>, that the -- who was it, Ellie? That the girlfriend, Daddy`s girlfriend, finds the baby. It changes to the aunt finds the baby. It`s gone through three changes as to who finds the baby missing and what exactly went down that night. What <ABOUT> it, Pilar?"
+  },
+  {
+    "transcript_id": "CNN-76594",
+    "matched_terms": {
+      "clear": "exclude",
+      "could": "hedge"
+    },
+    "previous_statement": "Wolf there's been so much discussion of how much pressure is being put on the United States to steer this road map. How exposed do you think the Bush Administration feels on this one right now?",
+    "statement": "Pretty exposed right now, because it looks like an awful mess. I've been covering the Middle East for almost three decades, and the tensions right now, the animosity, the fear on both sides, is so intense, that it looks like the whole <THING> <<COULD>> clearly collapse and then the aftermath of the President meeting with the former Palestinian Prime Minister Mahmoud Abbas, the current Israeli Prime Minister Ariel Sharon just a few weeks ago in Jordan. <ALL> of that looks like ancient history right now. That crisis seriously has a potential of simply getting way out of control."
+  },
+  {
+    "transcript_id": "CNN-256270",
+    "matched_terms": {
+      "could": "hedge",
+      "about": "none",
+      "believe": "exclude"
+    },
+    "previous_statement": "Insights into the mind of madness.",
+    "statement": "The defense points out the notebook also contains ramblings that don't make any <<SENSE>>, and Holmes also writes <ABOUT> his mental illness. \"So anyways, that's my mind, it's broken,\" he writes. Whether the jury believes that <<COULD>> determine the fate of a self- described, shy, but once promising, PhD student."
+  },
+  {
+    "transcript_id": "CNN-114740",
+    "matched_terms": {
+      "should": "authority",
+      "about": "none"
+    },
+    "previous_statement": "Thanks for talking with us. We appreciate it. Tomorrow we're going to meet an all-American family opening doors and minds at the same time. Miles sat down and talked with the evangelical white parents and the black teenager they've embraced as their own. We'll show you their emotional journey as teammates for life. It was first depicted in the bestselling book \"The Blind Side.\" We'll tell you that story tomorrow on AMERICAN MORNING -- John.",
+    "statement": "<ALL> right, another food warning to tell you <ABOUT> this morning. Something at this market's being recalled because of E. coli concerns. We'll tell you what you <SHOULD> do next. Plus, a major pharmaceutical company says it's is dropping its lobbying effort for a controversial vaccine. We've got the latest health news ahead this morning. You're watching AMERICAN MORNING. The most news in the morning is right here on CNN."
+  },
+  {
+    "transcript_id": "CNN-203849",
+    "matched_terms": {
+      "absolutely": "authority",
+      "should": "none"
+    },
+    "previous_statement": "He`s definitely very popular as you saw in that footage. He`s signing autographs. There`s a group of trial court observers -- they`re like trial junkies. They come every single day. They sit in the gallery. They show up as early as 5:00 a.m. to stand in line to get into the courthouse to get a seat in this Arias trial. So at the end of the day, what you don`t see is Juan Martinez coming out, taking photos, signing autographs. And you don`t see that with the defense attorneys. They defense attorneys walk quickly to their cars. They`re always alone. And Juan Martinez is like a superstar. He has a rock star status here in Arizona.",
+    "statement": "Yes, <ABSOLUTELY>. So let`s debate it. Is it a good idea or <SHOULD> he say I`m flattered but no I can`t do that. I`m sorry and walk the other way. Let`s debate it. Start with Stacey Honowitz, prosecutor."
+  },
+  {
+    "transcript_id": "CNN-52571",
+    "matched_terms": {
+      "totally": "authority",
+      "fact": "authority",
+      "could": "none",
+      "quite": "none",
+      "about": "none",
+      "around": "none",
+      "well": "none"
+    },
+    "previous_statement": "Ever since hijackers flew jetliners into the Pentagon and the World Trade Center on September 11th, the Pentagon has had jet fighters patrolling the skies over both Washinhgton and New York around the clock. Well, several weeks ago, the Bush administration tried to cut back the costly combat air patrols, but the New York congressional delegation complained, and now the Pentagon has finally made its decision. And we get it now from our own Barbara Starr who is standing by at the Pentagon. Good morning, Barbara. What is the verdict?",
+    "statement": "<WELL>, good morning, Paula. CNN has learned, in <FACT>, the U.S. military now, for the first time since September 11th, has stopped those mandatory <AROUND> the clock air patrols not <ONLY> just over New York City, but Washington D.C. Several weeks ago, the White House tried to cut back on the air patrols over New York City. The congressional delegation complained. Everything was put on hold. But late last week, with no fanfare, but of course President Bush's approval, the military changed its policy. Now, instead, the commander of NORAD, the North American Aerospace Defense Command, which runs the whole operation, will make desretion <ABOUT> when to put airplanes in the sky. That will depend on the threat assesment, airport security, and of course the availabilty of resources, as they say. What they military has been <QUITE> concerned <ABOUT> is these mandatory patrols, 24-7, over New York and Washington, have been a huge drain on the Pentagon. Since September, they've cost over half a billion dollars, involved 13,000 troops, 250 airplanes. It's a terrific drain on resources, on airplanes, and on personnel. And the military has long felt that the improvements in airport security were such they <<COULD>> cut back. Now, no more mandatory patrols, <TOTALLY> at the discretion of the Pentagon -- Paula."
+  },
+  {
+    "transcript_id": "CNN-28419",
+    "matched_terms": {
+      "best": "authority",
+      "know": "exclude",
+      "could": "hedge",
+      "think": "hedge",
+      "suppose": "exclude"
+    },
+    "previous_statement": "We now continue our roundtable on jobs with John Wood, of Spencer Stuart, an executive search firm, and Jim Treacy, the COO of TMP Worldwide, the parent company monster.com. And, Jim, we promised to get your best advice for someone in the job market or looking for a job.",
+    "statement": "I <<<THINK>>> the <BEST> advice I <<COULD>> give is work is a great deal of what you do in your life. Don't <TAKE> it so seriously. It's supposed to be fun. It's part of the journey. Keep picking up knowledge. Demographically you are in big demand. You're going to for a long time, 4.3 percent is still pretty low unemployment. If you're good at what you do, you'll find something if you're proactive."
+  },
+  {
+    "transcript_id": "CNN-366578",
+    "matched_terms": {
+      "obviously": "authority",
+      "know": "hedge",
+      "sure": "hedge",
+      "hope": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "Ugandan government spokesperson tells CNN they were unharmed in the Democratic Republic of Congo. Our Robyn Kriel has details.",
+    "statement": "We do have information that a ransom was paid. However, we're not <<<SURE>>> the amount of that ransom. According to a spokesperson for the Wild Frontiers tour group, the handover went over quietly and peacefully. Ms. Endicott and her guide both in good health and safe now. The Ugandan Police Force and other security agencies in Uganda are calling this a rescue operation. Here is a tweet coming from the Uganda Police Force. They said police and its sister security agencies have today rescued Ms. Kimberly Sue, an American tourist, together with her guide who were kidnapped while on an evening game drive at Queen Elizabeth National Park. The duo is in good health and in the safe hands of the joint security team. At this point, we don't <KNOW> if Ms. Endicott was targeted because she was an American. We understand that four other people were with her and her guide but were later released. We're also not <<<SURE>>> who these kidnappers were. Were they just an armed group looking for cash or were they part of a terrorist group? We do <KNOW> that there are terrorist groups operating in the DRC, as <WELL> as a number of just other armed groups operating in that particular part of the country. <OBVIOUSLY>, still a lot of unanswered questions that will be explained over the next few days, we <HOPE>, but <ALL> in <ALL> a good news story emanating out of Uganda. I'm Robyn Kriel in Addis Ababa, Ethiopia."
+  },
+  {
+    "transcript_id": "CNN-410071",
+    "matched_terms": {
+      "about": "none",
+      "appear": "exclude"
+    },
+    "previous_statement": "Thank you, Mr. Vice president.",
+    "statement": "That was Democratic presidential nominee, Joe Biden. I want to bring in my colleagues to discuss what we just saw. David Chalian, our CNN political director is with us, Dana Bash, CNN chief political correspondent, and Catherine Rampell, who is our CNN economics commentator. Dana, to you first. What were your takeaways from what appeared to be a very forceful Joe Biden in light of this \"Atlantic\" story of what President Trump said <ABOUT> troops who lost their lives or injured at war?"
+  },
+  {
+    "transcript_id": "CNN-267381",
+    "matched_terms": {
+      "know": "none",
+      "hope": "exclude"
+    },
+    "previous_statement": "It's a great book, \"Yes, My Accent Is Real.\" And you make the point right off the bat, this is not a memoir.",
+    "statement": "I'm 34 years old. It's difficult to say it's a memoir. It's a collection of stories from my life, that people want to <KNOW> my journey -- I'm a kid from New Delhi, India. I came to America in '99. And I ended up on one of the biggest shows of the uniform. And I wanted to humanize that journey and tell everyone they can do what they want to do. I cleaned toilets for a living. I served tables, like <ALL> actors <HAVE TO> do. I've done a lot of things that were very humbling. And have led me to this place. If I share them, people will realize, no matter where they are, whatever they're doing, they can still, you <KNOW>, hopefully establish what they want to."
+  },
+  {
+    "transcript_id": "CNN-137237",
+    "matched_terms": {
+      "may": "hedge"
+    },
+    "previous_statement": "There is some indication in at least one of the notes that there could have been some psychological issues with Mr. Woods.",
+    "statement": "Officials also say the couple had money problems and <MAY> have been in debt. They'd recently moved to the area from Florida."
+  },
+  {
+    "transcript_id": "CNN-195816",
+    "matched_terms": {
+      "fact": "authority",
+      "could": "exclude"
+    },
+    "previous_statement": "We'll get to all that in a moment, but first, Refa'a al- Tahtawi joins me on the phone from Cairo. He's President Mohammed Morsi's chief of staff and was part of that Egyptian delegation to Gaza today. Thanks for being with us. What surprised you the most during your visit into -- your brief visit into the Gaza Strip today?",
+    "statement": "(Inaudible) the Gazans to resist. They didn't show -- they didn't show any sign weakness, of even -- no sign of concern. It's like they are resigned to their destiny and that their destiny is to resist. We -- when we arrived to the hospital, few minutes later, <A LITTLE> boy was -- <A LITTLE> beautiful (ph) boy was ushered in hurriedly, and he died immediately. He had a wound -- he had a wound in his head. And his blood is still on the -- on the shirt of our prime minister. In <FACT>, even our hardened politicians were -- couldn't help ourselves crying. While I show the people in Gaza accepting this with deep sadness, but with great resolve. And that's why I'm calling for everybody to deescalate, to stop this escalation. This escalation is not going to lead anywhere. And last time -- sorry."
+  },
+  {
+    "transcript_id": "CNN-21017",
+    "matched_terms": {
+      "about": "hedge"
+    },
+    "previous_statement": "It was prior to when the manual recount began.",
+    "statement": "So if we look at the -- the manual recount began <ABOUT> 7:30 in the evening on November 16th, is that correct?"
+  },
+  {
+    "transcript_id": "CNN-190648",
+    "matched_terms": {
+      "view": "exclude"
+    },
+    "previous_statement": "Well, that brings back memories. I remember going to events and parties and protests and hearing that same old rhetoric, and it got hard to smile and act like I enjoyed it. But they use it like the Pied Piper. They use the music as a tool, an important tool of the recruitment process. It brings in young kids, young youth on the outskirts of society. They're looking for love, looking for attention. They're looking for people to fit in with, because they're not getting that at home or they may be bullied in school. So they're looking for new friends and they find it with these groups. They get in with them. The group acts like they love them. They befriend them and then they get them to do their wrongdoings. Because a lot of the leaders of these groups have already been to jail, already been to prison. They don't want to go back so they know they need to get younger recruits in. And using the music is one of the hot items to get these young people in to start a life of hate and racism.",
+    "statement": "<ALL> right. David Gletty, informant of hate groups for the FBI. We really appreciate your time today. Thank you. And we have more on the victims of the Sikh temple shooting and heroic actions of the temple president. Anderson Cooper joins us live from Wisconsin with part of his interview with the temple leader's wife and his son."
+  },
+  {
+    "transcript_id": "CNN-341801",
+    "matched_terms": {
+      "clear": "authority",
+      "about": "none"
+    },
+    "previous_statement": "Yes, it's not a surprise that Giuliani is on the airwaves saying that and it's a threat in many ways about what the President will do. But I think many constitutional experts, legal scholars, political analysts would dispute that that's really the meaning of the pardon power, that this is a mechanism for a president to pardon themselves in the middle of an investigation like this or even after an investigation. I don't think that would sit well in many quarters and it would be challenged I'm sure in court.",
+    "statement": "We've got a number of new nuggets as it were, not least this New York Times obtaining a twenty page letter that his lawyers wrote back in January, and we <HAVE TO> be <CLEAR> <ABOUT>, this is back in January to Special Counsel Robert Mueller claiming the President cannot legally obstruct justice because effectively is in charge of federal investigations. What are we to make of <ALL> of this? I mean, we are looming towards five hundred days in office for the President and not many less than that for Mueller's investigation. We've got midterms coming up in November. Just walk us through where we are at, at this point."
+  },
+  {
+    "transcript_id": "CNN-277078",
+    "matched_terms": {
+      "think": "hedge"
+    },
+    "previous_statement": "Although the young people don't vote as big a percentage as older people.",
+    "statement": "That's right which is a problem. It will be a problem in South Carolina. He's also isn't changing the electorate as much as Obama did in 2008 not bringing in enough new voters. I <<<THINK>>> it was something like 80,000 voters ..."
+  },
+  {
+    "transcript_id": "CNN-307401",
+    "matched_terms": {
+      "view": "exclude",
+      "hope": "exclude"
+    },
+    "previous_statement": "Thank you --",
+    "statement": "So Sister, in an interview with a German newspaper, Pope Francis said that he hoped to open up an idea of allowing married men become a priest. You just returned from the Vatican where you said there's a need for more female voices in Rome. So what are your thoughts on the Pope turning to married men to address that clergy shortage?"
+  },
+  {
+    "transcript_id": "CNN-38430",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "Well, you know, Larry, I have a question on that. They have said over and over again that he is not suspect. So why are they not asking all the others that are on the list, openly like they have with Gary -- is it because he is a congressman? But there are other suspects on the list. I believe that they should be also interrogated and put through the mill as Gary and his family, and we the staff have done.",
+    "statement": "But we aren't hearing <ABOUT> them."
+  },
+  {
+    "transcript_id": "CNN-119078",
+    "matched_terms": {
+      "about": "hedge"
+    },
+    "previous_statement": "In the doghouse. For one pooch, nothing could be finer in Carolina. Despite the sweltering summer heat, get a look at this. This story from reporter Justin Quisenberry who's with affiliate WFMY.",
+    "statement": "You can find just <ABOUT> anything in this building at Ira Godwin's house."
+  },
+  {
+    "transcript_id": "CNN-168774",
+    "matched_terms": {
+      "about": "none",
+      "think": "none"
+    },
+    "previous_statement": "He cannot have known because he would have stopped them long ago. They are absolutely appalling abuse of journalistic procedure. Unforgivable to tap the phone of a murdered schoolgirl or the phones of relatives of troops killed in Iraq or Afghanistan and Murdoch would not have t tolerated it.",
+    "statement": "Yes, when you <<<THINK>>> <ABOUT>"
+  },
+  {
+    "transcript_id": "CNN-391722",
+    "matched_terms": {
+      "know": "exclude",
+      "fact": "exclude",
+      "believe": "none"
+    },
+    "previous_statement": "Today you have a duty to perform, with fidelity, not without a sense of surrounding dangers but also not without hope. I submit to you on behalf of the House of Representatives that your duty demands that you convict President Trump. Now, I don't pretend that this is an easy process. It's not designed to be easy. It shouldn't be easy to impeach or convict a president. Impeachment is an extraordinary remedy, a tool only to be used in rare instances of grave misconduct. But it is in the Constitution for a reason. In America no one is above the law, even those elected president of the United States -- and I would say especially those elected president of the United States. You've heard arguments from the president's counsel that impeachment would overturn the results of the 2016 election. You have heard that, in seeking the removal and disqualification of the president, the House is seeking to interfere in the next election. Senators, neither is true. And these arguments demonstrate a deeply misguided or, I think, intentional effort to mislead about the role that impeachment plays in our democracy. If you believe as we do and as we have proven that the president's efforts to use his official powers to cheat in the 2020 election jeopardize our national security and are antithetical to our democratic tradition, then you must come to no other conclusion than the president threatens the fairness of the next election and risks putting foreign interference between the voters and their ballots. Professor Dershowitz and the other counselors to the president have argued that, if the president thinks that something is in his interest, then it is by definition in the interest of the American people. We have said throughout this process that we cannot and should not leave our common sense at the door. The logical conclusion this argument is, is that the president is the state, that his interests are the nation's interests, that his will is necessarily ours. You and I and the American people know otherwise. But we do not have to be constitutional scholars to understand that this is a position deeply at odds with our Constitution and our democracy, that believing in this argument or allowing the president to get away with misconduct based on this extreme -- extreme view would render him above the law. But we know that this cannot be true. What you decide on these articles will have lasting implications for the future of the presidency, not only for this president but for all future presidents. Whether or not the office of the presidency of the United States of America is above the law: that is the question. As Alexis de Tocqueville wrote in his 1835 work, \"Democracy in America,\" quote, \"The greatness of America lies not in being made more enlightened than any other nation but rather in her ability to repair her faults.\" In May of 1974 Barry Goldwater and other Republican congressional leaders went to the White House to tell President Nixon that it was time for him to resign, and that they could no longer hold back the tide of impeachment over Watergate. Now, contrary to popular belief, the Republican Party did not abandon Nixon as the Watergate scandal came to light. It took years of disclosures and crisis and court battles. The party stood with Nixon through Watergate because he was a popular conservative president and his base was with him, so they were, too.",
+    "statement": "But ultimately, as Goldwater <WOULD> tell Nixon, quote, \"There are <ONLY> so many lies you can <TAKE>, and now there have been one too many.\" The president <WOULD> have us <<<BELIEVE>>> that he did not withhold aid to force these sham investigations, that his July 25th call with the Ukrainians was perfect, that his meeting with President Zelensky on the sidelines of the UN is no different than a head of state meeting in the Oval -- Oval Office, that his <ONLY> interest in having Ukraine announce investigations into the Bidens was an altruistic concern over corruption, that the Ukrainians interfered in our 2016 election, not Russia, that Putin knows better than our own intelligence agencies. How many falsehoods can we <TAKE>? When will it be one too many? Let us <TAKE> a few minutes to remind you one last time of the facts of the president's misconduct as you consider how you'll vote on this important matter for our nation. Those facts compel the president's conviction on the two articles of impeachment."
+  },
+  {
+    "transcript_id": "CNN-246408",
+    "matched_terms": {
+      "could": "hedge",
+      "may": "hedge"
+    },
+    "previous_statement": "Good to have your company. It's 29 past the hour and checking the morning's top stories for you now.",
+    "statement": "The efforts to recover more victims and debris from flight 8501 have now been called off until Sunday. This is coming after high waves and strong currents hinder the search. But piece by painstaking piece searchers have managed to turn up more debris that <<COULD>> be from the AirAsia jet. Today they located four large objects in the priority search area in the Java Sea. They're very close together. The largest is almost 60 feet long. Indonesia, meanwhile, says AirAsia did not have permission to fly the route the plane took last Sunday. It's not investigating. In weather, winter storms <MAY> delay or <CHANGE> travel plans this weekend. Just check out the snow falling in Lubbock, Texas, earlier this morning. As much as six inches <<COULD>> fall in this part of western Texas. But the lone star state is not alone because 24 states are facing winter weather warnings and advisories today."
+  },
+  {
+    "transcript_id": "CNN-12383",
+    "matched_terms": {
+      "sure": "exclude"
+    },
+    "previous_statement": "Moving in steps steeped in tradition, dancers gave the G-8 heads of state a breathtaking view life in Okinawa's ancient kingdom. The U.S. president, headed for his last summit, and given encourage for the Middle East process, he left to join this gathering.",
+    "statement": "It was with the utmost pleasure for the Japanese and Okinawans that you are able to come here by virtue of interrupting your important talks."
+  },
+  {
+    "transcript_id": "NPR-26800",
+    "matched_terms": {
+      "know": "none",
+      "think": "hedge"
+    },
+    "previous_statement": "But Gillis says some investors are bracing themselves for disappointment. Sure, Apple is still dreamy. It's the most valuable company on the planet. It has enormous stock piles of cash in the bank and customer goodwill. Its product announcements are cultural events.",
+    "statement": "I <<<THINK>>> we can tell by your excitement you <KNOW> what this is."
+  },
+  {
+    "transcript_id": "CNN-364318",
+    "matched_terms": {
+      "know": "hedge",
+      "sure": "none",
+      "may": "hedge",
+      "about": "none",
+      "well": "hedge"
+    },
+    "previous_statement": "And how is Costello explaining? What is he saying these were all about?",
+    "statement": "<WELL>, <WELL>, Costello says that what this was is an effort to <<KIND OF>> keep the relationship between Michael Cohen and Donald Trump on track. He claims that Michael Cohen <MAY> have been worried <ABOUT> whether the President liked him or not and vice versa. And Cohen sympathizers say that is not true, that what this is evidence of is dangling a pardon. And that that's what this was <ABOUT> and then when I spoke with Costello, Costello said, you <KNOW>, that is utter nonsense. I was not dangling a pardon. I was just trying to help this relationship. And so, there isn't this other e-mail, and you have it up on the screen, which says, I just spoke to Rudy Giuliani and told him I was on your team. He asked me to tell you that he knows how tough this is on you and your family and he will make <<<SURE>>> to tell the President. He said, thank you for opening this back channel of communication and asked me to keep in touch. So, the <QUESTION> that's still out there, and we do have these dueling narratives is, was this <ABOUT> a pardon without the word \"pardon\" mentioned? And remember, this time, at this time Michael Cohen had not been charged with anything. He <MAY> have been, you <KNOW>, worried <ABOUT> the potential campaign finance violation or he <MAY> have been worried <ABOUT> what the feds got in his office. And Donald Trump <MAY> have been worried <ABOUT>, you <KNOW>, <ABOUT> that, too. But we -- so we have these dueling narratives, you <KNOW>. Was it just <ABOUT> fixing or helping a relationship or a pardon?"
+  },
+  {
+    "transcript_id": "CNN-149719",
+    "matched_terms": {
+      "could": "none"
+    },
+    "previous_statement": "And last thing here, wrap this up for me. They want a government to protect them. What is the update on the government getting it together after those parliamentary elections? They have to start getting together and some kind of way trying to find a way to reconcile and come together.",
+    "statement": "That's right. We knew it was going to be a complex process because it is a parliamentary system here and because none of the blocs who won the most number of seats in parliament have enough to form a government on their own. There still <NEED TO> be negotiations, coalitions <NEED TO> build. What you've seen in the last few days, a lot of political jockeying for power has gone on. That will continue. There's no real clarity right now. Really, the next prime minister <<COULD>> be anybody. And there's a lot of predictions as to who it will be. But unless these parties come together and get enough seats, they can't move forward. Right now, there are still a lot of challenges to the preliminary results. And we don't <EXPECT> to see any final resolution to this, weeks, <<COULD>> be even months --"
+  },
+  {
+    "transcript_id": "CNN-394646",
+    "matched_terms": {
+      "obviously": "authority",
+      "could": "hedge"
+    },
+    "previous_statement": "We trust in a matter of weeks. The coronavirus test will be broadly available to the public and available to any American that is symptomatic and has a concern about the possibility of having contracted of the coronavirus.",
+    "statement": "Now some mixed signals there <OBVIOUSLY> President Trump suggesting that people can be tested on a widespread basis immediately with Vice President Pence saying there that it <<COULD>> be a couple of weeks before tests are available broadly. He also said that right now, the administration is not prepared to meet what they <ANTICIPATE> will be future demand. And the administration had said by the end of the week, they expected to have distributed one million tests for coronavirus. The vice president's office told CNN that they were earlier this week on track to hit that target, Fred."
+  },
+  {
+    "transcript_id": "CNN-34775",
+    "matched_terms": {
+      "fact": "authority"
+    },
+    "previous_statement": "As time draws near, the hurricane has now passed and the preparations at the pad do not break stride. A big piece of the space station, a trust that will support the station's solar panels is loaded into the payload bay. Inside the crew module, the cupboards are carefully stocked. And the entire stack is rigged with explosives. The self- destruct system that would be used as a last resort if Discovery veered violently off course, forcing ground controllers to blow up the rocket and all on board. Near the end of this long, arduous, careful process, there remains a deep undercurrent of anxiety. Discovery is layered with backup systems for her backup systems, but everyone here knows the score: NASA estimates 1660 scenarios where a single failure would cause the catastrophic loss of the vehicle and crew.",
+    "statement": "Because of Challenger, there is a <CERTAIN> mind-set that is very risk-adverse. In <FACT>, a whole culture has grown up that wants to <MINIMIZE> the risk in everything you do, to the point where they <WOULD> like it to be zero risk. Zero risk <WOULD> paralyze you."
+  },
+  {
+    "transcript_id": "NPR-44098",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "On the other side, you have people saying, you know, this is a political      persecution, that trying to heal Mississippi's old wounds by trying an      80-year-old man isn't gonna do the trick, that, you know, he's no threat      to anybody and it really isn't going to change anything.",
+    "statement": "NPR's Debbie Elliott.  We'll be hearing more from you <ABOUT> the      trial tomorrow on \"Morning Edition.\"  Thanks so much."
+  },
+  {
+    "transcript_id": "CNN-298436",
+    "matched_terms": {
+      "about": "none"
+    },
+    "previous_statement": "Unveiling a new lobbying ban, requiring anyone under consideration for a job in the Trump administration to sign a written pledge to terminate their lobbying. And when they leave office, they will be banned from being a lobbyist for five years.",
+    "statement": "We talk <ABOUT> draining the swamp. This is one of the first steps."
+  },
+  {
+    "transcript_id": "CNN-385149",
+    "matched_terms": {
+      "know": "none",
+      "about": "none"
+    },
+    "previous_statement": "Right. Obviously not in the",
+    "statement": "--support from the West - right. But - but we <HAVE TO> read - you <KNOW>, that's why you're involved, Gordon. He gets fired up. He and Volker go to see Trump, and they say, \"We've met this new President of Ukraine. Ukraine is <CRUCIAL>. This guy is great. You've got to meet him.\" And what they confront from Trump is a barrage of conspiracy theories <ABOUT> Burisma, <ABOUT> Biden, <ABOUT> the 2016 election. And I <WONDER> where Trump got that - that the 2016 election one is so wacko, I <WONDER> whether that was what Vladimir Putin told Trump in Helsinki in that two-hour meeting. Remember? Nobody was there."
+  },
+  {
+    "transcript_id": "CNN-290845",
+    "matched_terms": {
+      "absolutely": "authority",
+      "think": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "So, Dr. Carson, there is this letter than CNN has learned about from 50 of the country's most senior Republican national security officials, many of whom have served in past Republican administrations. They signed this letter, saying they would oppose Donald Trump. I want to read you a line from it. They say: \"Donald Trump put at risk our country's national security and well-being\" and that he would be -- quote -- \"the most reckless president in American history.\" Again, some of the signatories are names you know, John Negroponte, the first director of national intelligence, former NSA and CIA Director Michael Hayden, former Homeland Security Secretary Michael Chernoff, Tom Ridge. These are household names, particularly in Republican circles. Are these the types of names that Donald Trump needs if he is going to win in November?",
+    "statement": "<WELL>, I <<<THINK>>> what Donald Trump is recognizing and what a lot of the American people recognize is that the very people who have been running things have <<KIND OF>> run us into the ditch. We aren't doing that <WELL>. If we were doing great, I <WOULD> say, <ABSOLUTELY>, let's grab these people and let's listen to everything they <HAVE TO> say because they are leading us exactly in the right direction. But that's not the case. So, that is the reason that we have brains. If things aren't moving in the right direction, you analyze it and you move into a different direction."
+  },
+  {
+    "transcript_id": "CNN-116109",
+    "matched_terms": {
+      "sure": "exclude",
+      "well": "none"
+    },
+    "previous_statement": "Thanks for having me.",
+    "statement": "From the upcoming tax deadline to the mortgage meltdown. We first took you to Greeley, Colorado, six months ago. That town saw foreclosure rates rise to the highest levels in the country, and a full real estate recovery, <WELL>, it's still way off. But folks there aren't taking the setback lying down. They're stepping up to find solutions."
+  },
+  {
+    "transcript_id": "CNN-295639",
+    "matched_terms": {
+      "think": "none"
+    },
+    "previous_statement": "\"Good judgment Donald Trump has in selecting such a strong number two in Governor Pence.\"",
+    "statement": "Teamwork. So do you <<<THINK>>> that that is it, that it somehow elevated Donald Trump's judgment?"
+  },
+  {
+    "transcript_id": "CNN-361845",
+    "matched_terms": {
+      "should": "hedge"
+    },
+    "previous_statement": "So, you know, and, Rob, to that point, right, obviously, it may have been unannounced to the press, they surely knew well, they figured out. But, look, she didn't go unannounced. She didn't crash the event, right? She was invited to introduce this tribal leader. She was a guest.",
+    "statement": "And she was treated respectfully, we <SHOULD> say."
+  },
+  {
+    "transcript_id": "CNN-296746",
+    "matched_terms": {
+      "could": "none",
+      "quite": "none",
+      "about": "none",
+      "probably": "hedge",
+      "seem": "hedge",
+      "well": "none"
+    },
+    "previous_statement": "Uh-oh. Here we go. Preston's walking --",
+    "statement": "Let's put it on the board here. When you talk <ABOUT> the U.S. Senate right now, let's just talk <ABOUT> New Hampshire. You have Kelly Ayotte running against a popular governor, Maggie Hassan. Hillary Clinton is doing very <WELL> and Kelly Ayotte has gone back and forth <ABOUT> Donald Trump. The problem with that for her, she's alienating some of her Trump supporters. She needs that base, at the same time trying to reach out now to the independents who are very, very important in New Hampshire. So she's very much in trouble. Look at Illinois right now. This race is pretty much off the board at this point. Mark Kirk right now, the incumbent Representative Tammy Duckworth has been leading for <QUITE> some time right now, for the most part it looks like this race is lost. Go to Wisconsin, we have a rematch between Ron Johnson and Russ Feingold. Hillary Clinton is up by six or seven, depending who you talk to. Russ Feingold is up by three or four, another vulnerable person. Then to Pennsylvania, Patrick Toomey against Katie McGinty. McGinty, an environmentalist who worked for Tom Wolf, chief of staff for the governor, Toomey <ONLY> up by one or two. Hillary Clinton up by eight. Let's just go back to the top. Here's the situation we are in right now. Democrats are at 46 because two Independents are with them, Republicans at 54. Right now, if Hillary Clinton wins in November, <ALL> Democrats <HAVE TO> do is to pick up four, a net of four seats. Tim Kaine <WOULD> then be the deciding vote. But that is not just that, because they <<COULD>> pick up more. We are looking at North Carolina right now. We are looking at Missouri right now, we are looking at North Carolina right now, <ALL> the Democrats <<COULD>> pick up. Having said that, in the House of Representatives, there is a very large margin. Democrats <WOULD> <NEED TO> pick up 30 seats in the House of Representatives, doesn't <SEEM> like that will flip control. The Senate, very much in trouble for Republicans. <<PROBABLY>> the House stays Republican."
+  },
+  {
+    "transcript_id": "CNN-52527",
+    "matched_terms": {
+      "may": "none",
+      "hope": "none"
+    },
+    "previous_statement": "The embattled cardinal of Boston's archdiocese, Bernard Law, did not give Sunday mass at the Cathedral of the Holy Cross like he usually does. Law remains in seclusion at his residence. The message from the service went to the heart of the issue some say Cardinal Law ignored far too long.",
+    "statement": "But most especially the children and families that have been abused by clergy <MAY> gaze upon the wounded but now resurrected Jesus and find <HOPE> that our wounds <MAY> be healed."
+  },
+  {
+    "transcript_id": "CNN-45439",
+    "matched_terms": {
+      "view": "none"
+    },
+    "previous_statement": "The latest is we're waiting for them to finally acknowledge what is about the least kept secret in Washington these days. That the tape will be released through the Pentagon. Before anybody attaches too much meaning to that, we should point out that the reason is that the Pentagon has one of the most developed broadcast centers here. It is probably more quick, they can do more quickly, get it out to all the programming entities that want to show it and want show it live. So the Pentagon would be chosen for that. There has been no official announcement. They're saying that that official announcement has to come from the White House. There's some etiquette involved here. But it's also not a sure thing. At least there has been no announcement, yet, that it will come today. Although there is a huge expectation that it will. They're being extremely careful to make sure that the translation is right. Arab is a very complex language, it's a very regional language. They're having a variety of translators, experts go over it to make sure that when the United States translation comes out",
+    "statement": "Bob Franken of the Pentagon, Bob thanks. As we mentioned a few moments ago, several lawmakers, several Senators, have had the opportunity to <VIEW> that tape. And one such person, Senator John Edwards, a Democrat from North Carolina, also a member of the Senate Intelligence Committee with us now. Senator Good morning."
+  },
+  {
+    "transcript_id": "CNN-112880",
+    "matched_terms": {
+      "know": "authority",
+      "should": "authority",
+      "doubt": "authority"
+    },
+    "previous_statement": "Oh, it's heart-wrenching. Nonie you've even made the point that look, not all Muslims are radicals like this and not all parents are teaching this, that your religion infiltrated by this hateful agenda. How do you break it though? How do you start changing what we're seeing here among hundreds and hundreds of children?",
+    "statement": "That's the million-dollar <QUESTION>. The Arab leadership, the good people in the Muslim world, and I don't <DOUBT> that the <MAJORITY> of my culture are decent, good people, but they are not in power. They <HAVE TO> end this hate. They <HAVE TO> say, enough is enough. We <SHOULD> <NEVER> teach our kids hate. Because, really, terrorism doesn't <ONLY> hurt the West and Israel and the non-Muslims, it destroys the moral fabric and goodness that I <KNOW> exists in Arab culture and in Muslim culture. And it's bad for -- even for <MODERATE> Muslims who are being oppressed and being threatened by radical Islam. It can -- a very horrific ideology that is tyrannical and it oppresses freedom of speech, it oppresses women, and it oppresses even men and it's a tyranny."
+  }
+]
