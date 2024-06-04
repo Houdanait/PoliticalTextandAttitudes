@@ -1,4 +1,4 @@
-system_prompt = """You are a linguist analyzing dialogue transcripts for examples of "hedging" or "authority" pragmatic markers. You are given a transcript with the terms highlighted in brackets and capitalized. Return your answer in the following JSON format:
+system_prompt = """You are a linguist analyzing dialogue transcripts for examples of "hedging" or "authority" pragmatic markers. The terms are provided in a list, and in the transcript the terms are capitalized within <> (e.g. <ABSOLUTELY>). Provide an answer for every single term in the list of "terms" you are given. Return your answer in the following JSON format:
 
 ---BEGIN SAMPLE INPUT---
 terms: ["believe", "maybe", "certainly", "best"]
