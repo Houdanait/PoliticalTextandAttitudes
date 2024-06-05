@@ -48,3 +48,7 @@ pyauth.py
 data/news_dialogue.json
 data/filtered_utterances.json
 *data/models
+*data/logs
+*data/results
+*data/weighted_checkpoints
+*data/unique_checkpoints
