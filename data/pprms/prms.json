@@ -1,0 +1,41 @@
+{
+    "actually": [
+        "turnkeeping cajoler",
+        "counterexpectation"
+    ],
+    "admittedly": "discourse activity conceding",
+    "I think": [
+        "agreement",
+        "disagreement",
+        "ambiguity"
+    ],
+    "listen": "topic marker refocus",
+    "look": [
+        "topic marker refocus",
+        "turntaking marking discourse boundary opening"
+    ],
+    "obviously": ["appeal to authority"],
+    "we all know": ["appeal to authority"],
+    "of course": [
+        "appeal to authority",
+        "anticipate opposition",
+        "backgrounding proposition",
+        "agreement",
+        "confirms solidarity",
+        "conveys in-the-know"
+    ],
+    "well": [
+        "starter",
+        "opener attention-getting",
+        "turntaking starter",
+        "turnkeeping hesitator",
+        "marker of response",
+        "counterexpectation"
+    ],
+    "you know": [
+        "marker of information and participation",
+        "cajoler",
+        "turnkeeping cajoler",
+        "acknowledgment"
+    ]
+}
