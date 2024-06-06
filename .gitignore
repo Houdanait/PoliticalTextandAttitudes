@@ -48,6 +48,7 @@ pyauth.py
 data/news_dialogue.json
 data/filtered_utterances.json
 data/contextual_embeddings_with_metadata.h5
+*data/pragmatic_markers_model
 *data/models
 *data/logs
 *data/results
