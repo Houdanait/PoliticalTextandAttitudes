@@ -320,9 +320,113 @@ def get_category_vectors(data, category, model, tokenizer, max_tokens) -> list:
         vectors.extend(get_vectors(item, category, model, tokenizer, max_tokens))
     return vectors
 
+from prompts import system_prompt, speaker_prompt
+import google.generativeai as genai
+import time
+from pyauth import gemini_api_key
+genai.configure(api_key= gemini_api_key)
+
+
+def get_json_response_gemini(string, model_name='gemini-1.5-pro', system_prompt=system_prompt, verbose=False, custom=False):
+    model = genai.GenerativeModel(model_name,
+                              generation_config={"response_mime_type": "application/json"})
+    if custom:
+        prompt = string
+    else:
+        prompt = system_prompt + "\n-----BEGIN INPUT-----\n" + string
+
+    response = model.generate_content(prompt).text
+    # print(response)
+    try:
+        parsed_response = json.loads(response)
+        if verbose:
+            print("Received response from model.")
+
+        return parsed_response
+    except json.JSONDecodeError:
+        print("Error decoding JSON response.")
+    except Exception as e:
+        print("Error:", e)
+        time.sleep(60)
+        
+
+
+
+def process_transcript(transcript, model_name='gemini-1.5-pro', system_prompt=speaker_prompt, verbose=True):
+    utt = transcript['utt']
+    speakers = transcript['speaker']
+
+    # Create a string for Gemini
+    gemini_input = ""
+    for i in range(len(utt)):
+        speaker = speakers[i]
+        gemini_input += f"<SPEAKER: {speaker}>: {utt[i]}\n"
+
+    # Get the JSON response from the Gemini model
+    gemini_output = get_json_response_gemini(
+        gemini_input,
+        model_name=model_name,
+        system_prompt=system_prompt,
+        verbose=True)
+    # Add the gemini_formatted_speakers to the original transcript
+    transcript['gemini_output'] = gemini_output
+
+    try:
+        speaker_list = []
+        for i in range(len(utt)):
+            speaker = speakers[i]
+            new_speaker = gemini_output[speaker]
+            speaker_list.append(new_speaker)
+        transcript['speakers_formatted'] = speaker_list
+        
+        print("\nCategorizing Utterances:")
+        utterance_grouping = []
+        utterance_classification = []
+        for i in range(len(utt)):
+            current_statement = utt[i]
+            if i == 0:
+                previous_statement = "None"
+            else:
+                previous_statement = utt[i-1]
+            statement_tokens, average_scores, token_softmax = classify_tokens_with_average(current_statement, previous_statement)
+            # print("Statement tokens:", statement_tokens)
+            # print("Average scores for the statement:")
+            # for label, score in average_scores.items():
+            #     print(f"{label}: {score:.4f}")
+            # for item in token_softmax:
+            #     token, probs = item
+            #     print(f"{token}: {probs}")
+            utterance_classification.append({
+                "statement_tokens": statement_tokens, "average_scores": average_scores, "token_softmax": token_softmax
+                })
+            utterance_details = {
+                "statement": current_statement,
+                "category": max(average_scores, key=average_scores.get),
+                "speaker_name": speaker_list[i]["name"],
+                "speaker_occupation": speaker_list[i]["occupation"],
+                "statement_tokens": statement_tokens,
+                "label_scores": average_scores,
+                "token_softmax": token_softmax
+            }
+            utterance_grouping.append(utterance_details)
+
+        transcript['utterance_classification'] = utterance_classification
+        transcript['full_utterance_details'] = utterance_grouping
+        return transcript
+    except Exception as e:
+        print("Error processing transcript:", e)
+        print("Returning original transcript:")
+        print(json.dumps(transcript, indent=2))        
+        print("")
+        return transcript
+
+
 # Replace 'path_to_your_json_file.json' with the path to your JSON file
 if __name__ == "__main__":
     main()
+
+
+
 
 
 
