@@ -149,7 +149,65 @@
             "KEILAR",
             "ROS-LEHTINEN",
             "KEILAR"
-        ]
+        ],
+        "gemini_formatted_speakers": {
+            "BRIANNA KEILAR, CNN ANCHOR": {
+                "name": "KEILAR, BRIANNA",
+                "occupation": "News Media"
+            },
+            "KEILAR": {
+                "name": "KEILAR, BRIANNA",
+                "occupation": "News Media"
+            },
+            "UNIDENTIFIED MALE": {
+                "name": "UNIDENTIFIED MALE",
+                "occupation": "Unknown"
+            },
+            "MICHELLE KOSINSKI, CNN WHITE HOUSE CORRESPONDENT": {
+                "name": "KOSINSKI, MICHELLE",
+                "occupation": "News Media"
+            },
+            "KOSINSKI (voice-over)": {
+                "name": "KOSINSKI, MICHELLE",
+                "occupation": "News Media"
+            },
+            "KOSINSKI": {
+                "name": "KOSINSKI, MICHELLE",
+                "occupation": "News Media"
+            },
+            "CHUCK HAGEL, U.S. SECRETARY OF DEFENSE": {
+                "name": "HAGEL, CHUCK",
+                "occupation": "Government Official"
+            },
+            "BRIAN TODD, CNN CORRESPONDENT": {
+                "name": "TODD, BRIAN",
+                "occupation": "News Media"
+            },
+            "TODD": {
+                "name": "TODD, BRIAN",
+                "occupation": "News Media"
+            },
+            "CHRIS VOSS, HOSTAGE NEGOTIATION EXPERT": {
+                "name": "VOSS, CHRIS",
+                "occupation": "Other"
+            },
+            "COL. PETER MANSOOR (RET.), CNN MILITARY ANALYST": {
+                "name": "MANSOOR, PETER",
+                "occupation": "Military"
+            },
+            "MICHAEL FOLEY, BROTHER OF JAMES": {
+                "name": "FOLEY, MICHAEL",
+                "occupation": "Unknown"
+            },
+            "ILEANA ROS-LEHTINEN (R), FLORIDA": {
+                "name": "ROS-LEHTINEN, ILEANA",
+                "occupation": "American Politician - Republican"
+            },
+            "ROS-LEHTINEN": {
+                "name": "ROS-LEHTINEN, ILEANA",
+                "occupation": "American Politician - Republican"
+            }
+        }
     },
     {
         "id": "CNN-249347",
