@@ -1,4 +1,4 @@
-import h5py
+# import h5py
 from collections import defaultdict
 import json
 from collections import Counter
@@ -323,7 +323,8 @@ def get_category_vectors(data, category, model, tokenizer, max_tokens) -> list:
 from prompts import system_prompt, speaker_prompt
 import google.generativeai as genai
 import time
-from pyauth import gemini_api_key
+# from pyauth import gemini_api_key
+gemini_api_key = "AIzaSyANMOGZGKEbS-7VNZ1spQq6gdEeuF4BlfI"
 genai.configure(api_key= gemini_api_key)
 
 
