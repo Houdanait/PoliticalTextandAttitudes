@@ -353,73 +353,57 @@ def get_json_response_gemini(string, model_name='gemini-1.5-pro', system_prompt=
 
 
 
-def process_transcript(transcript, model_name='gemini-1.5-pro', system_prompt=speaker_prompt, verbose=True):
-    utt = transcript['utt']
-    speakers = transcript['speaker']
+import torch
+import torch.nn.functional as F
 
-    # Create a string for Gemini
-    gemini_input = ""
-    for i in range(len(utt)):
-        speaker = speakers[i]
-        gemini_input += f"<SPEAKER: {speaker}>: {utt[i]}\n"
+def classify_tokens_with_average(statement, previous_statement, model=model, tokenizer=tokenizer, label_map={0: "none", 1: "authority", 2: "hedge"}):
+    statement_start_text = "Speaker 1: " + previous_statement + " Speaker 2: "
+    statement_tokens = len(tokenizer.tokenize(statement))
+    combined_context = statement_start_text + statement
+    combined_context = combined_context.replace("<", "").replace(">", "")
+    statement_start = len(tokenizer.tokenize(statement_start_text))  # Start index of the statement tokens
 
-    # Get the JSON response from the Gemini model
-    gemini_output = get_json_response_gemini(
-        gemini_input,
-        model_name=model_name,
-        system_prompt=system_prompt,
-        verbose=True)
-    # Add the gemini_formatted_speakers to the original transcript
-    transcript['gemini_output'] = gemini_output
+    # Tokenize the input text
+    inputs = tokenizer(combined_context, return_tensors="pt", truncation=True, max_length=512, padding="max_length")
+    pad_token_id = tokenizer.pad_token_id
 
-    try:
-        speaker_list = []
-        for i in range(len(utt)):
-            speaker = speakers[i]
-            new_speaker = gemini_output[speaker]
-            speaker_list.append(new_speaker)
-        transcript['speakers_formatted'] = speaker_list
-        
-        print("\nCategorizing Utterances:")
-        utterance_grouping = []
-        utterance_classification = []
-        for i in range(len(utt)):
-            current_statement = utt[i]
-            if i == 0:
-                previous_statement = "None"
-            else:
-                previous_statement = utt[i-1]
-            statement_tokens, average_scores, token_softmax = classify_tokens_with_average(current_statement, previous_statement)
-            # print("Statement tokens:", statement_tokens)
-            # print("Average scores for the statement:")
-            # for label, score in average_scores.items():
-            #     print(f"{label}: {score:.4f}")
-            # for item in token_softmax:
-            #     token, probs = item
-            #     print(f"{token}: {probs}")
-            utterance_classification.append({
-                "statement_tokens": statement_tokens, "average_scores": average_scores, "token_softmax": token_softmax
-                })
-            utterance_details = {
-                "statement": current_statement,
-                "category": max(average_scores, key=average_scores.get),
-                "speaker_name": speaker_list[i]["name"],
-                "speaker_occupation": speaker_list[i]["occupation"],
-                "statement_tokens": statement_tokens,
-                "label_scores": average_scores,
-                "token_softmax": token_softmax
-            }
-            utterance_grouping.append(utterance_details)
+    # Move tensors to the same device as model
+    input_ids = inputs['input_ids'].to(model.device)
+    attention_mask = inputs['attention_mask'].to(model.device)
 
-        transcript['utterance_classification'] = utterance_classification
-        transcript['full_utterance_details'] = utterance_grouping
-        return transcript
-    except Exception as e:
-        print("Error processing transcript:", e)
-        print("Returning original transcript:")
-        print(json.dumps(transcript, indent=2))        
-        print("")
-        return transcript
+    # Predict
+    model.eval()  # Set the model to evaluation mode
+    with torch.no_grad():
+        outputs = model(input_ids, attention_mask=attention_mask)
+    
+    # Get the predictions and compute the softmax to obtain the probabilities
+    logits = outputs.logits
+    probabilities = F.softmax(logits, dim=-1)
+
+    # Extract relevant tokens and probabilities for the 'statement' only
+    tokens = tokenizer.convert_ids_to_tokens(input_ids[0])
+    statement_probs = probabilities[0][statement_start:statement_start + statement_tokens]
+
+    label_sums = [0.0] * len(label_map)
+    label_counts = [0] * len(label_map)
+    token_softmax = []
+
+    for idx, prob in enumerate(statement_probs):
+        token_id = input_ids[0][statement_start + idx]
+        if token_id != pad_token_id:
+            token = tokens[statement_start + idx]
+            token_prob = {label_map[label_id]: round(prob[label_id].item(), 2) for label_id in range(len(label_map))}
+            max_label = label_map[prob.argmax().item()]
+            token_softmax.append((f" '{token}' : '{max_label}'"))
+
+            for label_id in range(len(label_map)):
+                label_sums[label_id] += prob[label_id].item()
+                label_counts[label_id] += 1
+
+    average_scores = {label_map[label_id]: (label_sums[label_id] / label_counts[label_id] if label_counts[label_id] > 0 else 0) 
+                      for label_id in range(len(label_map))}
+
+    return statement_tokens, average_scores, token_softmax
 
 
 # Replace 'path_to_your_json_file.json' with the path to your JSON file
